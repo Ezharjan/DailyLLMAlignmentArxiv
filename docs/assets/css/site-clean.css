@@ -1,5 +1,5 @@
 /* =====================================================
-   Health Computing Arxiv Daily - Custom Styles (Clean)
+   LLM Alignment Arxiv Daily - Custom Styles (Clean)
    Purpose: Formal, decent, non-overlapping layout with sidebar TOC
    Theme: Just the Docs
    Colors: #667eea (primary), #764ba2 (secondary), #27262b (text)
@@ -10,10 +10,11 @@ html { scroll-behavior: smooth; }
 body { line-height: 1.65; color: #27262b; }
 
 /* Sidebar */
-.side-bar { width: var(--sidebar-width)!important; min-width: var(--sidebar-width)!important; border-right:1px solid #eeebee; background:#f5f6fa; overflow-y:auto; overflow-x:hidden; z-index:100; }
+   LLM Alignment Arxiv Daily - Custom Styles (Clean)
 .site-header { border-bottom:1px solid #eeebee; padding:.75rem 1rem; overflow:hidden; }
 .site-title { display:block; font-weight:600; color:#27262b; font-size:clamp(.9rem,2vw,1.125rem); line-height:1.3; padding:.5rem .75rem; word-wrap:break-word; overflow-wrap:break-word; hyphens:auto; }
 .site-title::before { content:"🏥 "; margin-right:.25rem; }
+.site-title::before { content:"🤖 "; margin-right:.25rem; }
 
 /* Main layout */
 @media (min-width:1064px){ .main{margin-left:var(--sidebar-width)!important; max-width:none!important; width:auto!important;} .main-content,.page-content{max-width:1400px; margin:0 auto; padding:2rem 3rem;} }
@@ -21,7 +22,7 @@ body { line-height: 1.65; color: #27262b; }
 
 /* Dashboard header */
 .paper-dashboard{position:relative; z-index:1;} .dashboard-header{text-align:center; margin-bottom:2rem; padding:2rem 1.5rem; background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); border-radius:12px; box-shadow:0 4px 20px rgba(102,126,234,.25); color:#fff;} .dashboard-title{margin:0; font-size:clamp(1.75rem,4vw,2.5rem); font-weight:800;} .dashboard-title::before{content:"🏥 "; font-size:.9em;} .last-updated{margin-top:.75rem; opacity:.95; font-weight:500;}
-
+.dashboard-title::before{content:"🤖 "; font-size:.9em;} 
 /* Quick stats */
 .quick-stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:1rem; margin:1.5rem 0 2rem;} .stat-card{background:#fff; border-radius:12px; padding:1.25rem 1rem; box-shadow:0 2px 12px rgba(0,0,0,.08); transition:transform .2s ease, box-shadow .2s ease;} .stat-card:hover{transform:translateY(-3px); box-shadow:0 8px 24px rgba(102,126,234,.2);} .stat-icon{font-size:2rem; display:block; margin-bottom:.5rem;} .stat-label{font-size:.85rem; color:#5c5962; text-transform:uppercase; letter-spacing:.05em;} .stat-value{font-size:1.5rem; font-weight:800; color:#27262b;}
 

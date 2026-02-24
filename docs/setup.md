@@ -12,14 +12,14 @@ permalink: /setup
 
 ### For Viewing Only
 
-Simply visit [DailyHealthArxiv](https://ezharjan.github.io/DailyHealthArxiv/) to browse the latest papers!
+Simply visit [DailyLLMAlignmentArxiv](https://ezharjan.github.io/DailyLLMAlignmentArxiv/) to browse the latest papers!
 
 ### For Local Development
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ezharjan/DailyHealthArxiv.git
-   cd DailyHealthArxiv
+   git clone https://github.com/Ezharjan/DailyLLMAlignmentArxiv.git
+   cd DailyLLMAlignmentArxiv
    ```
 
 2. **Install dependencies**
@@ -68,8 +68,8 @@ keywords:
 ```yaml
 keywords:
     "Medical AI":
-        filters: ["Medical AI", "Healthcare AI", "Clinical AI",
-                  "Medical Machine Learning", "Healthcare ML"]
+        filters: ["AI Alignment", "LLM Alignment", "AI Safety",
+                  "Alignment Techniques", "Safety Mechanisms"]
 ```
 
 ## 🔧 Advanced Setup
@@ -190,11 +190,11 @@ python daily_arxiv.py
 
 ## 📚 Additional Resources
 
-- [Configuration Reference](https://github.com/Ezharjan/DailyHealthArxiv/blob/master/docs/README.md)
+- [Configuration Reference](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/blob/master/docs/README.md)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Just the Docs Theme](https://just-the-docs.github.io/just-the-docs/)
 
 ---
 
-Need more help? [Open an issue](https://github.com/Ezharjan/DailyHealthArxiv/issues) or [discuss](https://github.com/Ezharjan/DailyHealthArxiv/discussions).
+Need more help? [Open an issue](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/issues) or [discuss](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/discussions).

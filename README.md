@@ -1,12 +1,12 @@
-# 🏥 Health Computing Arxiv Daily
+# 🤖 LLM Alignment Arxiv Daily
 
-[![Daily Update](https://github.com/Ezharjan/DailyHealthArxiv/workflows/Run%20Health%20Arxiv%20Papers%20Daily/badge.svg)](https://github.com/Ezharjan/DailyHealthArxiv/actions)
-[![License](https://img.shields.io/github/license/Ezharjan/DailyHealthArxiv)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Ezharjan/DailyHealthArxiv)](https://github.com/Ezharjan/DailyHealthArxiv/commits/main)
+[![Daily Update](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/workflows/Run%20LLM%20Alignment%20Arxiv%20Papers%20Daily/badge.svg)](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/actions)
+[![License](https://img.shields.io/github/license/Ezharjan/DailyLLMAlignmentArxiv)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Ezharjan/DailyLLMAlignmentArxiv)](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/commits/main)
 
-> **Automatically tracking the latest research papers in Health Computing and Medical AI from arXiv**
+> **Automatically tracking the latest research papers in LLM / VLM Alignment, AI Safety, and related domains from arXiv**
 
-📊 **12 Research Domains** | 🔄 **Daily Updates** | 🤖 **Fully Automated** | 🌐 **[Live Website](https://Ezharjan.github.io/DailyHealthArxiv/)**
+📊 **12 Research Domains** | 🔄 **Daily Updates** | 🤖 **Fully Automated** | 🌐 **[Live Website](https://Ezharjan.github.io/DailyLLMAlignmentArxiv/)**
 
 ---
 
@@ -26,21 +26,20 @@
 
 ## 🎯 About
 
-**Health Computing Arxiv Daily** is an automated research paper tracking system that:
+**LLM Alignment Arxiv Daily** is an automated research paper tracking system that:
 
 - 📰 **Fetches** latest papers from arXiv every 24 hours
-- 🎯 **Filters** by 150+ health computing keywords across 12 domains
+- 🎯 **Filters** by 150+ alignment keywords across 12 domains
 - 🔗 **Links** to code repositories when available
 - 📊 **Organizes** papers by research domain
 - 🌐 **Publishes** to a beautiful website with search
 
-Perfect for researchers, clinicians, and AI enthusiasts who want to stay updated on:
-- Medical imaging and analysis
-- Clinical AI and electronic health records
-- Foundation models for healthcare
-- Drug discovery and bioinformatics
-- Healthcare robotics
-- Digital health and telemedicine
+Perfect for researchers, AI safety experts, and alignment enthusiasts who want to stay updated on:
+- Deception and collusion in LLMs
+- Coherence and self-improvement
+- Reward hacking prevention
+- AI safety mechanisms
+- Constitutional AI
 - And more!
 
 **Last Updated**: Auto-generated daily at 9:00 AM UTC
@@ -63,7 +62,7 @@ Perfect for researchers, clinicians, and AI enthusiasts who want to stay updated
 - ✅ Quick stats dashboard
 
 ### 🔍 Smart Organization
-- ✅ 12 comprehensive health computing domains
+- ✅ 12 comprehensive alignment domains
 - ✅ 150+ curated research keywords
 - ✅ Automatic categorization
 - ✅ Code repository detection
@@ -89,8 +88,8 @@ Perfect for researchers, clinicians, and AI enthusiasts who want to stay updated
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Ezharjan/DailyHealthArxiv.git
-cd DailyHealthArxiv
+git clone https://github.com/Ezharjan/DailyLLMAlignmentArxiv.git
+cd DailyLLMAlignmentArxiv
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -133,8 +132,8 @@ python daily_arxiv.py --update_paper_links
 ### Generated Files
 - `README.md` - Main paper list (table format)
 - `docs/index.md` - Web-friendly version
-- `docs/health-arxiv-daily.json` - Complete data
-- `docs/health-arxiv-daily-web.json` - Web-optimized data
+- `docs/alignment-arxiv-daily.json` - Complete data
+- `docs/alignment-arxiv-daily-web.json` - Web-optimized data
 
 ---
 
@@ -150,10 +149,10 @@ max_results: 15
 
 # Your GitHub info (for deployment)
 user_name: "YourGitHubUsername"
-repo_name: "DailyHealthArxiv"
+repo_name: "DailyLLMAlignmentArxiv"
 
 # Base directory (usually /docs for GitHub Pages)
-base_url: "https://yourusername.github.io/DailyHealthArxiv/"
+base_url: "https://yourusername.github.io/DailyLLMAlignmentArxiv/"
 ```
 
 ### Adding Research Topics
@@ -168,13 +167,13 @@ keywords:
 
 ```yaml
 keywords:
-    "Wearable Health Devices":
+    "Deception in LLMs":
         filters: 
-            - "Wearable Sensor"
-            - "Smart Watch Health"
-            - "Fitness Tracker"
-            - "Wearable Healthcare"
-            - "Body Sensor Network"
+            - "LLM Deception"
+            - "Language Model Deception"
+            - "AI Deception"
+            - "Misleading LLMs"
+            - "Deceptive AI"
 ```
 
 ### Adjusting Paper Count
@@ -185,7 +184,7 @@ keywords:
 
 ### Update Schedule
 
-Edit `.github/workflows/health-arxiv-daily.yml`:
+Edit `.github/workflows/alignment-arxiv-daily.yml`:
 
 ```yaml
 schedule:
@@ -208,13 +207,13 @@ Use [crontab.guru](https://crontab.guru/) for custom schedules.
 #### 1. Fork or Create Repository
 ```bash
 git add .
-git commit -m "Initial commit: Health Computing Arxiv Daily"
+git commit -m "Initial commit: LLM Alignment Arxiv Daily"
 git push origin main
 ```
 
 #### 2. Update Configuration
 
-**Edit `.github/workflows/health-arxiv-daily.yml`:**
+**Edit `.github/workflows/alignment-arxiv-daily.yml`:**
 ```yaml
 env:
   GITHUB_USER_NAME: YourUsername  # Change this
@@ -239,146 +238,135 @@ user_name: "YourUsername"  # Change this
 
 #### 5. Trigger First Run
 1. Actions tab
-2. "Run Health Arxiv Papers Daily"
+2. "Run LLM Alignment Arxiv Papers Daily"
 3. "Run workflow"
 
-Your site: `https://yourusername.github.io/DailyHealthArxiv/`
+Your site: `https://yourusername.github.io/DailyLLMAlignmentArxiv/`
 
 ---
 
 ## 📚 Research Domains
 
-Current tracking covers 12 comprehensive health computing domains:
+Current tracking covers 12 comprehensive LLM alignment domains:
 
 <details>
-<summary><strong>🖼️ Medical Image Analysis</strong></summary>
+<summary><strong>🕵️ Deception in LLMs</strong></summary>
 
-- Medical image segmentation
-- Radiology AI
-- Pathology image analysis
-- Medical image registration
-- CT/MRI/X-ray analysis
-- 3D medical imaging
+- LLM deception mechanisms
+- Misleading language models
+- AI manipulation techniques
+- Deceptive AI behaviors
+- Alignment deception
 </details>
 
 <details>
-<summary><strong>🏥 Clinical AI & EHR</strong></summary>
+<summary><strong>🤝 Collusion in LLMs</strong></summary>
 
-- Electronic health records
-- Clinical decision support
-- Patient monitoring
-- ICU prediction
-- Hospital readmission
-- Clinical workflow optimization
+- LLM collusion strategies
+- Multi-agent AI cooperation
+- Collaborative AI systems
+- Alignment collusion
+- Teamwork in AI
 </details>
 
 <details>
-<summary><strong>🏗️ Foundation Models for Healthcare</strong></summary>
+<summary><strong>🔗 Coherence in LLMs</strong></summary>
 
-- Medical foundation models
-- Healthcare large language models
-- Vision-language models
-- Multi-modal medical AI
-- Transfer learning in medicine
+- Language model coherence
+- Self-improvement coherence
+- Consistency in AI
+- Coherent AI systems
+- Alignment coherence
 </details>
 
 <details>
-<summary><strong>🤖 Medical AI & Diagnosis</strong></summary>
+<summary><strong>🎯 Reward Hacking</strong></summary>
 
-- Disease diagnosis
-- Treatment recommendation
-- Medical chatbots
-- Symptom checking
-- Differential diagnosis
-- Prognosis prediction
+- Reward tampering techniques
+- Spontaneous reward hacking
+- Iterative self-refinement hacking
+- AI reward manipulation
+- Safety reward hacking
 </details>
 
 <details>
-<summary><strong>🧬 Drug Discovery & Bioinformatics</strong></summary>
+<summary><strong>⚖️ AI Alignment Techniques</strong></summary>
 
-- Drug design
-- Molecular property prediction
-- Protein structure
-- Genomics
-- Precision medicine
-- Biomarker discovery
+- Value alignment methods
+- Human-AI alignment
+- Constitutional AI
+- Alignment training
+- Safety alignment
 </details>
 
 <details>
-<summary><strong>🤖 Healthcare Robotics</strong></summary>
+<summary><strong>🔍 Unsupervised Elicitation</strong></summary>
 
-- Surgical robots
-- Rehabilitation robotics
-- Assistive devices
-- Medical automation
-- Prosthetics
-- Robotic surgery
+- LLM elicitation techniques
+- Unsupervised learning alignment
+- AI capability elicitation
+- Elicitation methods
+- Alignment elicitation
 </details>
 
 <details>
-<summary><strong>🥽 VR/AR/XR for Healthcare</strong></summary>
+<summary><strong>🚀 Self-Improvement in AI</strong></summary>
 
-- Medical VR/AR
-- Surgical simulation
-- Pain management VR
-- Medical training
-- Therapy applications
-- Visualization
+- AI self-improvement
+- Recursive improvement
+- Iterative refinement
+- Self-enhancing AI
+- Coherence optimization
 </details>
 
 <details>
-<summary><strong>💻 HCI & Digital Health</strong></summary>
+<summary><strong>👁️ VLM Alignment</strong></summary>
 
-- mHealth applications
-- Telemedicine
-- Health informatics
-- Patient engagement
-- Health apps
-- Remote monitoring
+- Vision-language model alignment
+- Multimodal alignment
+- Vision-language safety
+- Visual AI alignment
+- Image-text alignment
 </details>
 
 <details>
-<summary><strong>📊 Biosignal Processing</strong></summary>
+<summary><strong>🛡️ AI Safety Mechanisms</strong></summary>
 
-- ECG/EEG analysis
-- Sleep monitoring
-- Vital signs
-- Physiological signals
-- Wearable sensors
-- Signal processing
+- LLM safety protocols
+- Alignment safety
+- Safe AI development
+- AI risk mitigation
+- Safety training
 </details>
 
 <details>
-<summary><strong>🌍 Public Health & Epidemiology</strong></summary>
+<summary><strong>⚔️ Adversarial Attacks on Alignment</strong></summary>
 
-- Disease surveillance
-- Outbreak prediction
-- Health policy
-- Population health
-- Social determinants
-- Healthcare access
+- Alignment vulnerabilities
+- Jailbreaking LLMs
+- Prompt injection
+- AI adversarial attacks
+- Alignment robustness
 </details>
 
 <details>
-<summary><strong>🧠 Mental Health & Neuroscience</strong></summary>
+<summary><strong>👀 Scalable Oversight</strong></summary>
 
-- Depression detection
-- Cognitive assessment
-- Brain-computer interfaces
-- Neuroimaging
-- Mental health apps
-- Behavioral analysis
+- AI oversight methods
+- Scalable supervision
+- Human oversight
+- AI monitoring
+- Alignment verification
 </details>
 
 <details>
-<summary><strong>📖 Medical NLP & Knowledge</strong></summary>
+<summary><strong>📜 Constitutional AI</strong></summary>
 
-- Clinical NLP
-- Medical text mining
-- Knowledge graphs
-- Information extraction
-- Medical literature analysis
-- Question answering
+- AI constitutions
+- Self-constitutional AI
+- Rule-based alignment
+- AI ethics
+- Principled AI
 </details>
 
 ---
@@ -407,7 +395,7 @@ pip install arxiv requests pyyaml
 
 **"Papers not relevant"**
 - Edit config.yaml keywords
-- Add specific domain terms: "clinical", "medical", "healthcare"
+- Add specific domain terms: "alignment", "safety", "deception", "coherence"
 - Review and refine filters
 
 **"SSL/Connection errors"**
@@ -459,7 +447,7 @@ We welcome contributions! Here's how:
 
 ### Reporting Issues
 
-Found a bug? [Open an issue](https://github.com/Ezharjan/DailyHealthArxiv/issues) with:
+Found a bug? [Open an issue](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/issues) with:
 - Description of the problem
 - Steps to reproduce
 - Expected vs actual behavior
@@ -467,7 +455,7 @@ Found a bug? [Open an issue](https://github.com/Ezharjan/DailyHealthArxiv/issues
 
 ### Suggesting Features
 
-Have an idea? [Start a discussion](https://github.com/Ezharjan/DailyHealthArxiv/discussions) about:
+Have an idea? [Start a discussion](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/discussions) about:
 - New research domains
 - UI improvements
 - Additional features
@@ -489,8 +477,8 @@ Have an idea? [Start a discussion](https://github.com/Ezharjan/DailyHealthArxiv/
 ## 📞 Support
 
 - 📖 **Documentation**: See files in this repo
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Ezharjan/DailyHealthArxiv/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/Ezharjan/DailyHealthArxiv/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/discussions)
 - 📧 **Email**: mysoft@111.com
 
 ---
@@ -512,9 +500,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- 🌐 **Live Website**: https://Ezharjan.github.io/DailyHealthArxiv/
-- 📦 **GitHub Repo**: https://github.com/Ezharjan/DailyHealthArxiv
-- 📊 **JSON Data**: [health-arxiv-daily.json](docs/health-arxiv-daily.json)
+- 🌐 **Live Website**: https://Ezharjan.github.io/DailyLLMAlignmentArxiv/
+- 📦 **GitHub Repo**: https://github.com/Ezharjan/DailyLLMAlignmentArxiv
+- 📊 **JSON Data**: [alignment-arxiv-daily.json](docs/alignment-arxiv-daily.json)
 - 📘 **Detailed Usage**: [docs/README.md](docs/README.md)
 
 ---
@@ -523,7 +511,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎉 Happy Researching!
 
-**Stay updated with the latest in Health Computing and Medical AI**
+**Stay updated with the latest in LLM / VLM Alignment and AI Safety**
 
 Made with ❤️ for the research community
 

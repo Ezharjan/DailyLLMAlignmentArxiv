@@ -1,4 +1,4 @@
-# Health Arxiv Daily - Usage Guide
+# LLM Alignment Arxiv Daily - Usage Guide
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-The Health Arxiv Daily project automatically tracks and organizes the latest research papers in health computing, medical AI, and related domains from arXiv. This guide explains how to use and customize the system.
+The LLM Alignment Arxiv Daily project automatically tracks and organizes the latest research papers in LLM / VLM alignment, AI safety, and related domains from arXiv. This guide explains how to use and customize the system.
 
 ---
 
@@ -28,7 +28,7 @@ python daily_arxiv.py
 
 This command:
 - Queries arXiv based on keywords in `config.yaml`
-- Fetches papers from relevant categories (cs.AI, cs.LG, cs.CV, cs.HC, cs.RO, etc.)
+- Fetches papers from relevant categories (cs.AI, cs.LG, cs.CL, cs.CY, etc.)
 - Generates organized markdown files with paper information
 - Creates JSON data files for persistence
 - Updates both README and GitHub Pages version
@@ -36,8 +36,8 @@ This command:
 **Output Files:**
 - `README.md` - Main paper list
 - `docs/index.md` - GitHub Pages version
-- `docs/health-arxiv-daily.json` - Data storage
-- `docs/health-arxiv-daily-web.json` - Web format data
+- `docs/alignment-arxiv-daily.json` - Data storage
+- `docs/alignment-arxiv-daily-web.json` - Web format data
 
 #### 2. Update Paper Links
 
@@ -71,7 +71,7 @@ Use a custom configuration file instead of the default `config.yaml`.
 # Basic Settings
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "YourGitHubUsername"
-repo_name: "health-arxiv-daily"
+repo_name: "alignment-arxiv-daily"
 max_results: 15  # Papers per topic
 
 # Output Options
@@ -105,22 +105,22 @@ keywords:
 - Multi-word phrases are automatically quoted
 - Filters use OR logic (matches any filter)
 
-### Recommended Health Computing Keywords
+### Recommended LLM Alignment Keywords
 
 The default configuration includes:
 
-1. **Medical Image Analysis** - CT, MRI, X-ray, pathology
-2. **Clinical AI & EHR** - Electronic health records, clinical NLP
-3. **Foundation Models** - Medical LLMs, vision-language models
-4. **Medical AI & Diagnosis** - Disease detection, CAD systems
-5. **Drug Discovery** - Molecular design, bioinformatics
-6. **Healthcare Robotics** - Surgical robots, assistive devices
-7. **VR/AR/XR** - Medical visualization, surgical simulation
-8. **HCI & Digital Health** - mHealth, telemedicine
-9. **Biosignal Processing** - ECG, EEG, BCI
-10. **Public Health** - Epidemiology, disease surveillance
-11. **Mental Health** - Depression detection, neuroimaging
-12. **Medical NLP** - Clinical text mining, knowledge graphs
+1. **Deception in LLMs** - Deceptive behaviors, misleading AI
+2. **Collusion in LLMs** - Multi-agent cooperation, AI teamwork
+3. **Coherence in LLMs** - Consistency, self-improvement coherence
+4. **Reward Hacking** - Tampering, spontaneous hacking
+5. **AI Alignment Techniques** - Value alignment, safety methods
+6. **Unsupervised Elicitation** - Capability elicitation, unsupervised alignment
+7. **Self-Improvement in AI** - Recursive improvement, coherence optimization
+8. **VLM Alignment** - Vision-language safety, multimodal alignment
+9. **AI Safety Mechanisms** - Safety protocols, risk mitigation
+10. **Adversarial Attacks** - Jailbreaking, alignment vulnerabilities
+11. **Scalable Oversight** - Human oversight, monitoring
+12. **Constitutional AI** - Rule-based alignment, principled AI
 
 ---
 
@@ -128,51 +128,47 @@ The default configuration includes:
 
 ### Example 1: Focused Search
 
-For a narrow focus on surgical robotics only:
+For a narrow focus on deception in LLMs:
 
 ```yaml
 keywords:
-    "Surgical Robotics":
-        filters: ["Robot-Assisted Surgery", "Surgical Robot", 
-                  "Robotic Surgery", "Surgical Automation",
-                  "Minimally Invasive Surgery Robot"]
+    "Deception in LLMs":
+        filters: ["LLM Deception", "Language Model Deception", 
+                  "Misleading LLMs", "Deceptive AI"]
 ```
 
 ### Example 2: Broad Coverage
 
-For comprehensive coverage of medical imaging:
+For broad coverage across coherence and reward hacking:
 
 ```yaml
 keywords:
-    "Medical Imaging AI":
-        filters: ["Medical Image", "Radiology AI", "Medical Imaging",
-                  "CT Scan", "MRI", "X-ray", "Ultrasound",
-                  "Pathology Image", "Histopathology",
-                  "Medical Image Segmentation", "Medical Image Classification"]
+    "Coherence & Reward Hacking":
+        filters: ["LLM Coherence", "Coherence Optimization", "Reward Hacking",
+                  "Spontaneous Reward Hacking", "Iterative Self-Refinement"]
 ```
 
 ### Example 3: Multiple Related Topics
 
 ```yaml
 keywords:
-    "AI for Mental Health":
-        filters: ["Mental Health AI", "Depression Detection", 
-                  "Anxiety Detection", "Psychiatric AI"]
+    "Deception in LLMs":
+        filters: ["LLM Deception", "Language Model Deception", 
+                  "AI Deception", "Misleading LLMs"]
     
-    "Neuroscience AI":
-        filters: ["Neuroimaging", "Brain Imaging", "fMRI Analysis",
-                  "Alzheimer Detection", "Neurodegenerative Disease"]
+    "AI Alignment Techniques":
+        filters: ["AI Alignment", "Value Alignment", "Human-AI Alignment",
+                  "Alignment Methods", "Safety Alignment"]
 ```
 
 ### Example 4: Emerging Areas
 
 ```yaml
 keywords:
-    "Foundation Models for Medicine":
-        filters: ["Medical Foundation Model", "Med-LLM", 
-                  "Clinical Large Language Model",
-                  "Medical Vision-Language Model",
-                  "Healthcare GPT", "BioGPT"]
+    "VLM Alignment":
+        filters: ["Vision-Language Model Alignment", "VLM Alignment", 
+                  "Multimodal Alignment", "Vision-Language Safety",
+                  "Image-Text Alignment"]
 ```
 
 ---
@@ -193,11 +189,11 @@ keywords:
 
 #### 2. Too Many Irrelevant Papers
 
-**Problem:** Papers don't match health computing focus
+**Problem:** Papers don't match alignment focus
 
 **Solutions:**
 - Use more specific filter terms
-- Add domain-specific phrases (e.g., "clinical", "medical", "healthcare")
+- Add domain-specific phrases (e.g., "alignment", "safety", "deception")
 - Combine multiple specific terms
 - Reduce `max_results` for quality over quantity
 
@@ -246,15 +242,12 @@ keywords:
 
 ### Filtering by arXiv Category
 
-arXiv papers are categorized. Relevant categories for health computing:
+arXiv papers are categorized. Relevant categories for LLM alignment:
 
-- **cs.AI** - Core AI algorithms
-- **cs.LG** - Machine learning methods
-- **cs.CV** - Medical image analysis
-- **cs.CL** - Clinical NLP
-- **cs.HC** - Health interface design
-- **cs.RO** - Healthcare robotics
-- **cs.CY** - Health equity and social impact
+- **cs.AI** - Artificial intelligence and alignment
+- **cs.LG** - Machine learning for safety
+- **cs.CL** - Natural language processing and LLMs
+- **cs.CY** - AI ethics and governance
 
 ### Query Construction
 
@@ -277,7 +270,7 @@ Edit `daily_arxiv.py` function `json_to_md()` to customize:
 
 ### Scheduling
 
-Modify `.github/workflows/health-arxiv-daily.yml`:
+Modify `.github/workflows/alignment-arxiv-daily.yml`:
 
 ```yaml
 schedule:
@@ -306,7 +299,7 @@ Examples:
 
 - **Issues**: Open a GitHub issue
 - **Questions**: Check existing issues or create new one
-- **Contributions**: PRs welcome for new health computing topics
+- **Contributions**: PRs welcome for new alignment topics
 
 ---
 

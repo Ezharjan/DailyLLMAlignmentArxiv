@@ -1,8 +1,8 @@
-# Health Computing & Medical AI Arxiv Daily Tracker
-# Automatically fetches latest papers in AI+Healthcare, Medical AI, Health Computing domains
+# LLM / VLM Alignment Arxiv Daily Tracker
+# Automatically fetches latest papers in AI Alignment, LLM Safety, and related domains
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "Ezharjan"
-repo_name: "DailyHealthArxiv"
+repo_name: "DailyLLMAlignmentArxiv"
 show_authors: True
 show_links: True
 show_badge: True
@@ -12,81 +12,72 @@ publish_readme: False
 publish_gitpage: True
 
 # file paths
-json_readme_path: './docs/health-arxiv-daily.json'
-json_gitpage_path: './docs/health-arxiv-daily-web.json'
+json_readme_path: './docs/alignment-arxiv-daily.json'
+json_gitpage_path: './docs/alignment-arxiv-daily-web.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 
-# Keywords covering AI+Healthcare, Health Computing, Medical AI, and related domains
-# Aligned with arxiv categories: cs.AI, cs.LG, cs.CV, cs.HC, cs.RO, cs.CL, cs.CY, etc.
+# Keywords covering AI Alignment, LLM Safety, Deception, Collusion, Coherence, and related domains
+# Aligned with arxiv categories: cs.AI, cs.LG, cs.CL, cs.CY, etc.
 keywords:
-    "Medical Image Analysis": 
-        filters: ["Medical Image Analysis", "Medical Image Segmentation", 
-                  "Medical Image Classification", "Radiology AI", 
-                  "Pathology Image Analysis", "Histopathology", 
-                  "CT Scan", "MRI Analysis", "X-ray Analysis",
-                  "Ultrasound Image Analysis", "Medical Imaging"]
+    "Deception in LLMs": 
+        filters: ["LLM Deception", "Language Model Deception", 
+                  "AI Deception", "Misleading LLMs", 
+                  "Deceptive AI", "LLM Manipulation",
+                  "AI Safety Deception", "Alignment Deception"]
     
-    "Clinical AI & EHR":
-        filters: ["Electronic Health Record", "EHR", "Clinical Decision Support",
-                  "Clinical NLP", "Clinical Text Mining", "Medical Record",
-                  "Clinical Prediction", "Patient Outcome Prediction",
-                  "Hospital Management", "Healthcare Analytics"]
+    "Collusion in LLMs":
+        filters: ["LLM Collusion", "AI Collusion", "Model Collusion",
+                  "Collaborative AI", "LLM Cooperation", "Alignment Collusion",
+                  "Multi-Agent Collusion", "AI Teamwork"]
     
-    "Foundation Models for Healthcare":
-        filters: ["Medical Foundation Model", "Healthcare Foundation Model",
-                  "Medical Large Language Model", "Clinical LLM", "Med-LLM",
-                  "Biomedical Language Model", "Healthcare GPT",
-                  "Medical Vision-Language Model", "Clinical Foundation Model"]
+    "Coherence in LLMs":
+        filters: ["LLM Coherence", "Language Model Coherence",
+                  "AI Coherence", "Self-Improvement Coherence", "Alignment Coherence",
+                  "Coherent AI", "Consistency in LLMs"]
     
-    "Medical AI & Diagnosis":
-        filters: ["Medical Diagnosis", "Disease Detection", "Disease Prediction",
-                  "Computer-Aided Diagnosis", "CAD", "Diagnostic AI",
-                  "Medical Prognosis", "Clinical AI", "Healthcare AI",
-                  "Precision Medicine", "Personalized Medicine"]
+    "Reward Hacking":
+        filters: ["Reward Hacking", "Reward Tampering", "Alignment Reward Hacking",
+                  "Spontaneous Reward Hacking", "Iterative Self-Refinement Hacking",
+                  "AI Reward Manipulation", "Safety Reward Hacking"]
     
-    "Drug Discovery & Bioinformatics":
-        filters: ["Drug Discovery", "Molecular Design", "Protein Structure Prediction",
-                  "Genomics", "Proteomics", "Bioinformatics", 
-                  "Drug Repurposing", "Pharmacology AI", "Molecular Property Prediction",
-                  "ADMET Prediction", "Antibody Design"]
+    "AI Alignment Techniques":
+        filters: ["AI Alignment", "LLM Alignment", "Value Alignment",
+                  "Human-AI Alignment", "Alignment Methods", "Safety Alignment",
+                  "Constitutional AI", "Alignment Training"]
     
-    "Healthcare Robotics":
-        filters: ["Surgical Robot", "Medical Robot", "Rehabilitation Robot",
-                  "Assistive Robot", "Robot-Assisted Surgery", "Surgical Automation",
-                  "Medical Robotics", "Healthcare Automation", "Robotic Surgery"]
+    "Unsupervised Elicitation":
+        filters: ["Unsupervised Elicitation", "LLM Elicitation", "AI Elicitation",
+                  "Unsupervised Learning Alignment", "Elicitation Techniques",
+                  "AI Capability Elicitation", "Alignment Elicitation"]
     
-    "VR/AR/XR for Healthcare":
-        filters: ["Virtual Reality Healthcare", "Augmented Reality Surgery",
-                  "Mixed Reality Medical", "XR Healthcare", "VR Medical Training",
-                  "AR Surgical Navigation", "Medical Visualization",
-                  "Immersive Healthcare", "Virtual Surgery", "Surgical Simulation"]
+    "Self-Improvement in AI":
+        filters: ["AI Self-Improvement", "LLM Self-Improvement", "Recursive Improvement",
+                  "Iterative Refinement", "Self-Enhancing AI", "Alignment Self-Improvement",
+                  "Coherence Optimization", "AI Evolution"]
     
-    "HCI & Digital Health":
-        filters: ["Digital Health", "mHealth", "Mobile Health", "Health Informatics",
-                  "Patient Monitoring", "Wearable Health", "Health Sensing",
-                  "Telemedicine", "Telehealth", "Remote Patient Monitoring",
-                  "Healthcare HCI", "Patient-Centered Design", "Health Interface"]
+    "VLM Alignment":
+        filters: ["Vision-Language Model Alignment", "VLM Alignment", "Multimodal Alignment",
+                  "Vision-Language Safety", "Multimodal AI Alignment", "VLM Safety",
+                  "Visual AI Alignment", "Image-Text Alignment"]
     
-    "Biosignal Processing":
-        filters: ["ECG Analysis", "EEG Analysis", "PPG Signal", "EMG Signal",
-                  "Biosignal Processing", "Physiological Signal", 
-                  "Heart Rate Variability", "Brain-Computer Interface", "BCI",
-                  "Neural Signal Processing", "Biomedical Signal"]
+    "AI Safety Mechanisms":
+        filters: ["AI Safety", "LLM Safety", "Alignment Safety", "Safe AI",
+                  "AI Risk Mitigation", "Safety Training", "Robust Alignment",
+                  "AI Governance", "Safety Protocols"]
     
-    "Public Health & Epidemiology":
-        filters: ["Epidemic Modeling", "Disease Surveillance", "Public Health AI",
-                  "Epidemiology", "Health Equity", "Social Determinants of Health",
-                  "Population Health", "Healthcare Disparity", "Pandemic Prediction"]
+    "Adversarial Attacks on Alignment":
+        filters: ["Adversarial Alignment", "Alignment Attacks", "Jailbreaking LLMs",
+                  "Prompt Injection", "Alignment Vulnerabilities", "AI Adversarial",
+                  "Safety Attacks", "Alignment Robustness"]
     
-    "Mental Health & Neuroscience":
-        filters: ["Mental Health AI", "Depression Detection", "Anxiety Detection",
-                  "Neuroimaging", "Brain Imaging", "Alzheimer Detection",
-                  "Psychiatric Diagnosis", "Cognitive Assessment", "Neurodegenerative Disease"]
+    "Scalable Oversight":
+        filters: ["Scalable Oversight", "AI Oversight", "Alignment Oversight",
+                  "Supervision Techniques", "Oversight Methods", "Human Oversight",
+                  "AI Monitoring", "Alignment Verification"]
     
-    "Medical NLP & Knowledge":
-        filters: ["Medical NLP", "Biomedical NLP", "Clinical Text Analysis",
-                  "Medical Information Extraction", "Medical Knowledge Graph",
-                  "Medical Question Answering", "Clinical Named Entity Recognition",
-                  "Medical Relation Extraction", "Biomedical Text Mining"]
+    "Constitutional AI":
+        filters: ["Constitutional AI", "AI Constitution", "Self-Constitutional",
+                  "Alignment Constitution", "Rule-Based Alignment", "AI Ethics",
+                  "Constitutional Learning", "Principled AI"]

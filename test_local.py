@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Local testing script for Health Arxiv Daily
+Local testing script for LLM Alignment Arxiv Daily
 """
 import os
 import sys
@@ -13,23 +13,23 @@ def create_test_config():
     config = {
         'base_url': 'https://arxiv.paperswithcode.com/api/v0/papers/',
         'user_name': 'TestUser',
-        'repo_name': 'health-arxiv-daily',
+        'repo_name': 'alignment-arxiv-daily',
         'show_authors': True,
         'show_links': True,
         'show_badge': True,
         'max_results': 5,  # Reduced for testing
         'publish_readme': True,
         'publish_gitpage': True,
-        'json_readme_path': './docs/health-arxiv-daily.json',
-        'json_gitpage_path': './docs/health-arxiv-daily-web.json',
+        'json_readme_path': './docs/alignment-arxiv-daily.json',
+        'json_gitpage_path': './docs/alignment-arxiv-daily-web.json',
         'md_readme_path': 'README.md',
         'md_gitpage_path': './docs/index.md',
         'keywords': {
-            'Medical Image Analysis': {
-                'filters': ['Medical Image Analysis', 'Medical Image Segmentation']
+            'Deception in LLMs': {
+                'filters': ['LLM Deception', 'Language Model Deception']
             },
-            'Foundation Models for Healthcare': {
-                'filters': ['Medical Foundation Model', 'Clinical LLM']
+            'AI Alignment Techniques': {
+                'filters': ['AI Alignment', 'LLM Alignment']
             }
         }
     }
@@ -76,7 +76,7 @@ def main():
     from daily_arxiv import demo  # local import, keep it at the bottom
 
     print("=" * 80)
-    print("Health Computing Arxiv Daily - Local Testing")
+    print("LLM Alignment Arxiv Daily - Local Testing")
     print("=" * 80)
     print()
 

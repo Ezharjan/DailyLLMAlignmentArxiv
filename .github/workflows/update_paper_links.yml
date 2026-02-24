@@ -58,7 +58,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update Paper Links"
-          files: docs/health-arxiv-daily.json docs/health-arxiv-daily-web.json docs/index.md
+          files: docs/alignment-arxiv-daily.json docs/alignment-arxiv-daily-web.json docs/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

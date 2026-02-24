@@ -346,7 +346,7 @@ def json_to_md(filename, md_filename,
         if use_title and to_web:
             f.write("---\n")
             f.write("layout: papers\n")
-            f.write("title: Health Computing Papers\n")
+            f.write("title: LLM Alignment Papers\n")
             f.write("nav_order: 1\n")
             f.write(f"last_updated: {DateNow}\n")
             f.write("---\n\n")
@@ -406,7 +406,7 @@ def json_to_md(filename, md_filename,
         if show_badge:
             # Badge definitions
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/DailyHealthArxiv.svg?style=for-the-badge\n"))
+                     f"contributors/DailyLLMAlignmentArxiv.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Ezharjan/"
                      f"ezharjan.github.io/graphs/contributors\n"))
             f.write((f"[forks-shield]: https://img.shields.io/github/forks/Ezharjan/"
@@ -481,7 +481,7 @@ def demo(**config):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description='Health Computing Arxiv Daily - Fetch and organize latest papers'
+        description='LLM Alignment Arxiv Daily - Fetch and organize latest papers'
     )
     parser.add_argument('--config_path', type=str, default='config.yaml',
                         help='Configuration file path')

@@ -2,7 +2,7 @@
 layout: default
 title: About
 nav_order: 2
-description: "About Health Computing Arxiv Daily tracker"
+description: "About LLM Alignment Arxiv Daily tracker"
 permalink: /about
 ---
 
@@ -10,7 +10,7 @@ permalink: /about
 
 ## 🎯 Purpose
 
-The Health Computing Arxiv Daily tracker automatically monitors and organizes the latest research papers in AI+Healthcare, Medical AI, and related health computing domains from arXiv.
+The LLM Alignment Arxiv Daily tracker automatically monitors and organizes the latest research papers in LLM / VLM alignment, AI safety, and related alignment domains from arXiv.
 
 ## 🔄 How It Works
 
@@ -24,11 +24,11 @@ The Health Computing Arxiv Daily tracker automatically monitors and organizes th
 We track papers from these arXiv categories:
 - **cs.AI** - Artificial Intelligence
 - **cs.LG** - Machine Learning
-- **cs.CV** - Computer Vision (Medical Imaging)
-- **cs.CL** - Computation and Language (Clinical NLP)
-- **cs.HC** - Human-Computer Interaction (Digital Health)
-- **cs.RO** - Robotics (Healthcare Robotics)
-- **cs.CY** - Computers and Society (Health Equity)
+- **cs.CV** - Computer Vision (multimodal & VLM research)
+- **cs.CL** - Computation and Language (LLMs and NLP alignment)
+- **cs.HC** - Human-Computer Interaction (human oversight research)
+- **cs.RO** - Robotics (multi-agent and safety research)
+- **cs.CY** - Computers and Society (AI ethics and governance)
 
 ## 🚀 Features
 
@@ -38,8 +38,8 @@ We track papers from these arXiv categories:
 - Updates code repository links weekly
 
 ### Smart Organization
-- 12 specialized health computing categories
-- 150+ carefully curated keywords
+- 12 specialized LLM alignment categories
+- 150+ carefully curated alignment keywords
 - Relevance-based filtering
 
 ### User-Friendly Interface
@@ -91,7 +91,7 @@ This project is provided for research and educational purposes, under MIT licens
 
 - **GitHub**: [@Ezharjan](https://github.com/Ezharjan)
 - **Email**: mysoft@111.com
-- **Issues**: [Report here](https://github.com/Ezharjan/DailyHealthArxiv/issues)
+- **Issues**: [Report here](https://github.com/Ezharjan/DailyLLMAlignmentArxiv/issues)
 
 ---
 

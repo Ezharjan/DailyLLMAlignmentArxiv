@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Health Arxiv Papers Daily
+name: Run LLM Alignment Arxiv Papers Daily
 
 # Controls when the workflow will run
 on:
@@ -56,8 +56,8 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update Health Computing Arxiv Papers"
-          files: docs/health-arxiv-daily.json docs/health-arxiv-daily-web.json docs/index.md
+          commit-message: "Github Action Automatic Update LLM Alignment Arxiv Papers"
+          files: docs/alignment-arxiv-daily.json docs/alignment-arxiv-daily-web.json docs/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

@@ -1,20 +1,10 @@
-/* =====================================================/* Custom CSS for Health Computing Arxiv Daily */
+/* =====================================================
+  LLM Alignment Arxiv Daily - Custom Styles
 
-   Health Computing Arxiv Daily - Custom Styles/* ============================================
-
-   Clean, Professional, Mobile-Friendly Design   HCI PRINCIPLES & GUI-FRIENDLY DESIGN
-
-   ===================================================== */   - Visual Hierarchy: Clear, organized content structure
-
-   - Consistency: Uniform spacing, colors, and typography
-
-/* ============================================   - Feedback: Hover states, transitions, visual cues
-
-   SITE LOGO & TITLE - NO OVERFLOW   - Accessibility: High contrast, readable fonts, responsive
-
-   ============================================ */   - Efficiency: Quick navigation, TOC, smooth scrolling
-
-   ============================================ */
+  Clean, Professional, Mobile-Friendly Design
+  Purpose: Styling tuned for LLM / VLM Alignment papers site
+  Principles: Visual hierarchy, accessibility, responsive layout
+===================================================== */
 
 .site-header {
 
@@ -68,9 +58,10 @@
 
 /* Add logo emoji before title */.site-header {
 
+
 .site-title::before {  padding: 0.75rem 1rem !important;
 
-  content: "🏥";  overflow: hidden !important;
+  content: "🤖 ";  overflow: hidden !important;
 
   font-size: 1.5em;}
 
@@ -102,7 +93,7 @@
 
   overflow-y: auto !important;.main,
 /* =====================================================
-   Health Computing Arxiv Daily - Custom Styles (Clean)
+  LLM Alignment Arxiv Daily - Custom Styles (Clean)
    Purpose: Formal, decent, non-overlapping layout with sidebar TOC
    Theme: Just the Docs
    Colors: #667eea (primary), #764ba2 (secondary), #27262b (text)

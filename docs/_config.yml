@@ -1,7 +1,7 @@
-title: Health Computing Arxiv Daily
-description: Automatically Update AI+Healthcare and Medical AI Papers Daily using Github Actions
+title: LLM Alignment Arxiv Daily
+description: Automatically Update LLM / VLM Alignment and AI Safety Papers Daily using Github Actions
 show_downloads: true
-baseurl: "./DailyHealthArxiv" # For root deployment on ezharjan.github.io || Leave This Empty for local test or root deployment
+baseurl: "./DailyLLMAlignmentArxiv" # For root deployment on ezharjan.github.io || Leave This Empty for local test or root deployment
 # baseurl: "" # For root deployment on ezharjan.github.io
 
 # Logo configuration
@@ -11,12 +11,12 @@ favicon_ico: "/assets/images/favicon.svg"
 # SEO and metadata
 author: Ezharjan
 github_username: Ezharjan
-repository: Ezharjan/DailyHealthArxiv
+repository: Ezharjan/DailyLLMAlignmentArxiv
 
 # GitHub links
 github:
-  zip_url: https://github.com/Ezharjan/DailyHealthArxiv
-  repository_url: https://github.com/Ezharjan/DailyHealthArxiv
+  zip_url: https://github.com/Ezharjan/DailyLLMAlignmentArxiv
+  repository_url: https://github.com/Ezharjan/DailyLLMAlignmentArxiv
 
 # Theme configuration - using Just the Docs theme for better navigation
 remote_theme: just-the-docs/just-the-docs@v0.8.2
@@ -40,7 +40,7 @@ nav_enabled: true
 # Enable table of contents in sidebar for section navigation
 aux_links:
   "GitHub Repository":
-    - "//github.com/Ezharjan/DailyHealthArxiv"
+    - "//github.com/Ezharjan/DailyLLMAlignmentArxiv"
 
 # Heading anchors for navigation
 heading_anchors: true
@@ -50,7 +50,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer content
-footer_content: "Copyright &copy; 2025 Ezharjan. Updated daily via GitHub Actions. <a href=\"https://github.com/Ezharjan/DailyHealthArxiv\">View on GitHub</a>"
+footer_content: "Copyright &copy; 2025 Ezharjan. Updated daily via GitHub Actions. <a href=\"https://github.com/Ezharjan/DailyLLMAlignmentArxiv\">View on GitHub</a>"
 
 # Enable collections for better organization
 collections:

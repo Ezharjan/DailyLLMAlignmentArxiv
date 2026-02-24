@@ -1,6 +1,6 @@
 /**
- * Health Computing Arxiv Daily - Site Enhancements
- * Clean, professional JavaScript without dark mode toggle
+ * LLM Alignment Arxiv Daily - Site Enhancements
+ * Clean, professional JavaScript helpers for alignment site
  */
 
 (function() {
@@ -358,7 +358,7 @@
   // Initialize table row animations
   setTimeout(observeTableRows, 300);
 
-  console.log('✅ Health Computing Arxiv Daily - Site enhancements loaded successfully!');
+  console.log('✅ LLM Alignment Arxiv Daily - Site enhancements loaded successfully!');
 
 })();
 
