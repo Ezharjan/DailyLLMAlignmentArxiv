@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<!-- Custom CSS and JavaScript -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+<!-- Clean override stylesheet to ensure no overlaps and sidebar TOC -->
+<link rel="stylesheet" href="{{ '/assets/css/site-clean.css' | relative_url }}">
+<script src="{{ '/assets/js/site-enhancements.js' | relative_url }}" defer></script>
+
+<div class="paper-dashboard">
+  <div class="dashboard-header">
+    <h1 class="dashboard-title">{{ page.title | default: "Health Computing Arxiv Daily" }}</h1>
+    <p class="last-updated">📅 {{ page.last_updated | default: "Last updated" }}: {{ "now" | date: "%Y-%m-%d" }}</p>
+  </div>
+
+  <div class="quick-stats">
+    <div class="stat-card">
+      <span class="stat-icon">📚</span>
+      <span class="stat-label">Research Domains</span>
+      <span class="stat-value">12</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-icon">🔬</span>
+      <span class="stat-label">Daily Updates</span>
+      <span class="stat-value">24h</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-icon">🤖</span>
+      <span class="stat-label">AI+Healthcare</span>
+      <span class="stat-value">Latest</span>
+    </div>
+  </div>
+
+  {{ content }}
+</div>

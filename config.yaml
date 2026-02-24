@@ -1,0 +1,92 @@
+# Health Computing & Medical AI Arxiv Daily Tracker
+# Automatically fetches latest papers in AI+Healthcare, Medical AI, Health Computing domains
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "Ezharjan"
+repo_name: "DailyHealthArxiv"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 15
+
+publish_readme: False
+publish_gitpage: True
+
+# file paths
+json_readme_path: './docs/health-arxiv-daily.json'
+json_gitpage_path: './docs/health-arxiv-daily-web.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+
+# Keywords covering AI+Healthcare, Health Computing, Medical AI, and related domains
+# Aligned with arxiv categories: cs.AI, cs.LG, cs.CV, cs.HC, cs.RO, cs.CL, cs.CY, etc.
+keywords:
+    "Medical Image Analysis": 
+        filters: ["Medical Image Analysis", "Medical Image Segmentation", 
+                  "Medical Image Classification", "Radiology AI", 
+                  "Pathology Image Analysis", "Histopathology", 
+                  "CT Scan", "MRI Analysis", "X-ray Analysis",
+                  "Ultrasound Image Analysis", "Medical Imaging"]
+    
+    "Clinical AI & EHR":
+        filters: ["Electronic Health Record", "EHR", "Clinical Decision Support",
+                  "Clinical NLP", "Clinical Text Mining", "Medical Record",
+                  "Clinical Prediction", "Patient Outcome Prediction",
+                  "Hospital Management", "Healthcare Analytics"]
+    
+    "Foundation Models for Healthcare":
+        filters: ["Medical Foundation Model", "Healthcare Foundation Model",
+                  "Medical Large Language Model", "Clinical LLM", "Med-LLM",
+                  "Biomedical Language Model", "Healthcare GPT",
+                  "Medical Vision-Language Model", "Clinical Foundation Model"]
+    
+    "Medical AI & Diagnosis":
+        filters: ["Medical Diagnosis", "Disease Detection", "Disease Prediction",
+                  "Computer-Aided Diagnosis", "CAD", "Diagnostic AI",
+                  "Medical Prognosis", "Clinical AI", "Healthcare AI",
+                  "Precision Medicine", "Personalized Medicine"]
+    
+    "Drug Discovery & Bioinformatics":
+        filters: ["Drug Discovery", "Molecular Design", "Protein Structure Prediction",
+                  "Genomics", "Proteomics", "Bioinformatics", 
+                  "Drug Repurposing", "Pharmacology AI", "Molecular Property Prediction",
+                  "ADMET Prediction", "Antibody Design"]
+    
+    "Healthcare Robotics":
+        filters: ["Surgical Robot", "Medical Robot", "Rehabilitation Robot",
+                  "Assistive Robot", "Robot-Assisted Surgery", "Surgical Automation",
+                  "Medical Robotics", "Healthcare Automation", "Robotic Surgery"]
+    
+    "VR/AR/XR for Healthcare":
+        filters: ["Virtual Reality Healthcare", "Augmented Reality Surgery",
+                  "Mixed Reality Medical", "XR Healthcare", "VR Medical Training",
+                  "AR Surgical Navigation", "Medical Visualization",
+                  "Immersive Healthcare", "Virtual Surgery", "Surgical Simulation"]
+    
+    "HCI & Digital Health":
+        filters: ["Digital Health", "mHealth", "Mobile Health", "Health Informatics",
+                  "Patient Monitoring", "Wearable Health", "Health Sensing",
+                  "Telemedicine", "Telehealth", "Remote Patient Monitoring",
+                  "Healthcare HCI", "Patient-Centered Design", "Health Interface"]
+    
+    "Biosignal Processing":
+        filters: ["ECG Analysis", "EEG Analysis", "PPG Signal", "EMG Signal",
+                  "Biosignal Processing", "Physiological Signal", 
+                  "Heart Rate Variability", "Brain-Computer Interface", "BCI",
+                  "Neural Signal Processing", "Biomedical Signal"]
+    
+    "Public Health & Epidemiology":
+        filters: ["Epidemic Modeling", "Disease Surveillance", "Public Health AI",
+                  "Epidemiology", "Health Equity", "Social Determinants of Health",
+                  "Population Health", "Healthcare Disparity", "Pandemic Prediction"]
+    
+    "Mental Health & Neuroscience":
+        filters: ["Mental Health AI", "Depression Detection", "Anxiety Detection",
+                  "Neuroimaging", "Brain Imaging", "Alzheimer Detection",
+                  "Psychiatric Diagnosis", "Cognitive Assessment", "Neurodegenerative Disease"]
+    
+    "Medical NLP & Knowledge":
+        filters: ["Medical NLP", "Biomedical NLP", "Clinical Text Analysis",
+                  "Medical Information Extraction", "Medical Knowledge Graph",
+                  "Medical Question Answering", "Clinical Named Entity Recognition",
+                  "Medical Relation Extraction", "Biomedical Text Mining"]
