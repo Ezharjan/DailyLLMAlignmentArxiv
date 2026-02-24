@@ -36,7 +36,7 @@ last_updated: 2026.02.23
 |**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)||
 |**2026-02-12**|**The Five Ws of Multi-Agent Communication: Who Talks to Whom, When, What, and Why -- A Survey from MARL to Emergent Language and LLMs**|Jingdi Chen et.al.|[2602.11583](http://arxiv.org/abs/2602.11583)||
 |**2026-01-30**|**Tri-LLM Cooperative Federated Zero-Shot Intrusion Detection with Semantic Disagreement and Trust-Aware Aggregation**|Saeid Jamshidi et.al.|[2602.00219](http://arxiv.org/abs/2602.00219)||
-|**2026-01-29**|**MoCo: A One-Stop Shop for Model Collaboration Research**|Shangbin Feng et.al.|[2601.21257](http://arxiv.org/abs/2601.21257)||
+|**2026-01-29**|**MoCo: A One-Stop Shop for Model Collaboration Research**|Shangbin Feng et.al.|[2601.21257](http://arxiv.org/abs/2601.21257)|**[link](https://github.com/BunsenFeng/model_collaboration)**|
 |**2026-01-26**|**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**|Li Kang et.al.|[2601.18733](http://arxiv.org/abs/2601.18733)||
 |**2026-01-20**|**Institutional AI: Governing LLM Collusion in Multi-Agent Cournot Markets via Public Governance Graphs**|Marcantonio Bracale Syrnikov et.al.|[2601.11369](http://arxiv.org/abs/2601.11369)||
 |**2026-01-14**|**Single-Round Clustered Federated Learning via Data Collaboration Analysis for Non-IID Data**|Sota Sugawara et.al.|[2601.09304](http://arxiv.org/abs/2601.09304)||
@@ -105,7 +105,7 @@ last_updated: 2026.02.23
 |**2026-02-18**|**NeST: Neuron Selective Tuning for LLM Safety**|Sasha Behrouzi et.al.|[2602.16835](http://arxiv.org/abs/2602.16835)||
 |**2026-02-18**|**IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages**|Priyaranjan Pattnayak et.al.|[2602.16832](http://arxiv.org/abs/2602.16832)||
 |**2026-02-18**|**References Improve LLM Alignment in Non-Verifiable Domains**|Kejian Shi et.al.|[2602.16802](http://arxiv.org/abs/2602.16802)||
-|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)||
+|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)|**[link](https://github.com/Yuyan-B/MLC)**|
 |**2026-02-18**|**Intra-Fairness Dynamics: The Bias Spillover Effect in Targeted LLM Alignment**|Eva Paraschou et.al.|[2602.16438](http://arxiv.org/abs/2602.16438)||
 
 ## Unsupervised Elicitation
@@ -216,7 +216,7 @@ last_updated: 2026.02.23
 |**2026-02-08**|**Transforming Science Learning Materials in the Era of Artificial Intelligence**|Xiaoming Zhai et.al.|[2602.18470](http://arxiv.org/abs/2602.18470)||
 |**2026-02-08**|**The Landscape of AI in Science Education: What is Changing and How to Respond**|Xiaoming Zhai et.al.|[2602.18469](http://arxiv.org/abs/2602.18469)||
 |**2026-02-18**|**Overseeing Agents Without Constant Oversight: Challenges and Opportunities**|Madeleine Grunde-McLaughlin et.al.|[2602.16844](http://arxiv.org/abs/2602.16844)||
-|**2026-02-17**|**Quantifying LLM Attention-Head Stability: Implications for Circuit Universality**|Karan Bali et.al.|[2602.16740](http://arxiv.org/abs/2602.16740)||
+|**2026-02-17**|**Quantifying LLM Attention-Head Stability: Implications for Circuit Universality**|Karan Bali et.al.|[2602.16740](http://arxiv.org/abs/2602.16740)|**[link](https://github.com/karanbali/attention_head_seed_stability)**|
 |**2026-02-14**|**Human Oversight-by-Design for Accessible Generative IUIs**|Blessing Jerry et.al.|[2602.13745](http://arxiv.org/abs/2602.13745)||
 |**2026-02-12**|**From Prompt to Production:Automating Brand-Safe Marketing Imagery with Text-to-Image Models**|Parmida Atighehchian et.al.|[2602.13349](http://arxiv.org/abs/2602.13349)||
 |**2026-02-12**|**PRIME: A Process-Outcome Alignment Benchmark for Verifiable Reasoning in Mathematics and Engineering**|Xiangfeng Wang et.al.|[2602.11570](http://arxiv.org/abs/2602.11570)||
@@ -239,7 +239,7 @@ last_updated: 2026.02.23
 |**2026-02-16**|**An x-ray regenerative amplifier free-electron laser with a step-tapered-undulator**|Henry P. Freund et.al.|[2602.14734](http://arxiv.org/abs/2602.14734)||
 |**2026-02-16**|**Wavemaker and endogeneity of gravitationally stretched weakly viscoelastic jets**|Daniel Moreno-Boza et.al.|[2602.14627](http://arxiv.org/abs/2602.14627)||
 |**2026-02-16**|**WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)**|Kiyotaka Kasubuchi et.al.|[2602.14419](http://arxiv.org/abs/2602.14419)||
-|**2026-02-10**|**P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads**|Yun Luo et.al.|[2602.09443](http://arxiv.org/abs/2602.09443)||
+|**2026-02-10**|**P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads**|Yun Luo et.al.|[2602.09443](http://arxiv.org/abs/2602.09443)|**[link](https://github.com/PRIME-RL/P1-VL)**|
 |**2026-02-09**|**Marco IA593: Modelo de Gobernanza, Ética y Estrategia para la Integración de la Inteligencia Artificial en la Educación Superior del Ecuador**|Luis Chamba-Eras et.al.|[2602.09246](http://arxiv.org/abs/2602.09246)||
 |**2026-02-09**|**Genocide by Algorithm in Gaza: Artificial Intelligence, Countervailing Responsibility, and the Corruption of Public Discourse**|Branislav Radeljic et.al.|[2602.09202](http://arxiv.org/abs/2602.09202)||
 |**2026-02-09**|**Predicting magnetism with first-principles AI**|Max Geier et.al.|[2602.09093](http://arxiv.org/abs/2602.09093)||
