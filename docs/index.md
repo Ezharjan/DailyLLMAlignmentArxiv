@@ -72,6 +72,8 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL**|Xingyu Lu et.al.|[2602.22623](http://arxiv.org/abs/2602.22623)||
+|**2026-02-25**|**RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**|Yukun Chen et.al.|[2602.21628](http://arxiv.org/abs/2602.21628)||
 |**2026-02-24**|**SibylSense: Adaptive Rubric Learning via Memory Tuning and Adversarial Probing**|Yifei Xu et.al.|[2602.20751](http://arxiv.org/abs/2602.20751)||
 |**2026-02-24**|**Counterfactual Simulation Training for Chain-of-Thought Faithfulness**|Peter Hase et.al.|[2602.20710](http://arxiv.org/abs/2602.20710)||
 |**2026-02-23**|**IR $^3$ : Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking**|Mohammad Beigi et.al.|[2602.19416](http://arxiv.org/abs/2602.19416)||
@@ -81,7 +83,7 @@ last_updated: 2026.02.28
 |**2026-02-17**|**The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes**|Mohammad Taufeeque et.al.|[2602.15515](http://arxiv.org/abs/2602.15515)||
 |**2026-02-17**|**Discovering Implicit Large Language Model Alignment Objectives**|Edward Chen et.al.|[2602.15338](http://arxiv.org/abs/2602.15338)||
 |**2026-02-15**|**Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**|Ruipeng Jia et.al.|[2602.14069](http://arxiv.org/abs/2602.14069)||
-|**2026-02-14**|**Small Reward Models via Backward Inference**|Yike Wang et.al.|[2602.13551](http://arxiv.org/abs/2602.13551)||
+|**2026-02-25**|**Small Reward Models via Backward Inference**|Yike Wang et.al.|[2602.13551](http://arxiv.org/abs/2602.13551)||
 |**2026-02-12**|**Synthetic Interaction Data for Scalable Personalization in Large Language Models**|Yuchen Ma et.al.|[2602.12394](http://arxiv.org/abs/2602.12394)||
 |**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)||
 |**2026-02-12**|**Capability-Oriented Training Induced Alignment Risk**|Yujun Zhou et.al.|[2602.12124](http://arxiv.org/abs/2602.12124)||
@@ -94,11 +96,17 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Multilingual Safety Alignment Via Sparse Weight Editing**|Jiaming Liang et.al.|[2602.22554](http://arxiv.org/abs/2602.22554)||
+|**2026-02-26**|**Evaluating the resolution of AI-based accelerated MR reconstruction using a deep learning-based model observer**|Zitong Yu et.al.|[2602.22535](http://arxiv.org/abs/2602.22535)||
+|**2026-02-25**|**Training Agents to Self-Report Misbehavior**|Bruce W. Lee et.al.|[2602.22303](http://arxiv.org/abs/2602.22303)||
+|**2026-02-25**|**Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**|Yining Li et.al.|[2602.22146](http://arxiv.org/abs/2602.22146)||
+|**2026-02-25**|**The Swarm Intelligence Freeway-Urban Trajectories (SWIFTraj) Dataset - Part II: A Graph-Based Approach for Trajectory Connection**|Xinkai Ji et.al.|[2602.21954](http://arxiv.org/abs/2602.21954)||
+|**2026-02-24**|**Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment**|Mengxuan Hu et.al.|[2602.21346](http://arxiv.org/abs/2602.21346)||
 |**2026-02-24**|**Evaluating Proactive Risk Awareness of Large Language Models**|Xuan Luo et.al.|[2602.20976](http://arxiv.org/abs/2602.20976)||
 |**2026-02-24**|**ID-LoRA: Efficient Low-Rank Adaptation Inspired by Matrix Interpolative Decomposition**|Xindian Ma et.al.|[2602.20727](http://arxiv.org/abs/2602.20727)||
 |**2026-02-24**|**Oracle-Robust Online Alignment for Large Language Models**|Zimeng Li et.al.|[2602.20457](http://arxiv.org/abs/2602.20457)||
 |**2026-02-23**|**IR $^3$ : Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking**|Mohammad Beigi et.al.|[2602.19416](http://arxiv.org/abs/2602.19416)||
-|**2026-02-22**|**Soft Sequence Policy Optimization: Bridging GMPO and SAPO**|Svetlana Glazyrina et.al.|[2602.19327](http://arxiv.org/abs/2602.19327)||
+|**2026-02-26**|**Soft Sequence Policy Optimization**|Svetlana Glazyrina et.al.|[2602.19327](http://arxiv.org/abs/2602.19327)||
 |**2026-02-22**|**Value Entanglement: Conflation Between Different Kinds of Good In (Some) Large Language Models**|Seong Hah Cho et.al.|[2602.19101](http://arxiv.org/abs/2602.19101)||
 |**2026-02-21**|**EDU-MATRIX: A Society-Centric Generative Cognitive Digital Twin Architecture for Secondary Education**|Wenjing Zhai et.al.|[2602.18705](http://arxiv.org/abs/2602.18705)||
 |**2026-02-20**|**Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems**|Hanjing Shi et.al.|[2602.17910](http://arxiv.org/abs/2602.17910)||
@@ -138,6 +146,21 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**ParamMem: Augmenting Language Agents with Parametric Reflective Memory**|Tianjun Yao et.al.|[2602.23320](http://arxiv.org/abs/2602.23320)||
+|**2026-02-26**|**Uncertainty-Aware Calculation of Analytical Gradients of Matrix-Interpolatory Reduced-Order Models for Efficient Structural Optimization**|Marcel Warzecha et.al.|[2602.23314](http://arxiv.org/abs/2602.23314)||
+|**2026-02-26**|**Large Multimodal Models as General In-Context Classifiers**|Marco Garosi et.al.|[2602.23229](http://arxiv.org/abs/2602.23229)||
+|**2026-02-26**|**Align-Consistency: Improving Non-autoregressive and Semi-supervised ASR with Consistency Regularization**|Wanting Huang et.al.|[2602.23171](http://arxiv.org/abs/2602.23171)||
+|**2026-02-26**|**Digital Twin-Based Beamforming for Interference Mitigation in AF Relay MIMO Systems**|Alexander Bonora et.al.|[2602.22991](http://arxiv.org/abs/2602.22991)||
+|**2026-02-26**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)||
+|**2026-02-26**|**Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference**|Yushi Ye et.al.|[2602.22868](http://arxiv.org/abs/2602.22868)||
+|**2026-02-26**|**DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation**|Hao Zheng et.al.|[2602.22839](http://arxiv.org/abs/2602.22839)||
+|**2026-02-26**|**PhotoAgent: Agentic Photo Editing with Exploratory Visual Aesthetic Planning**|Mingde Yao et.al.|[2602.22809](http://arxiv.org/abs/2602.22809)||
+|**2026-02-26**|**LLM-driven discovery for carbon allotropes with bond-network entropy**|Yuzhou Hao et.al.|[2602.22706](http://arxiv.org/abs/2602.22706)||
+|**2026-02-26**|**GIFSplat: Generative Prior-Guided Iterative Feed-Forward 3D Gaussian Splatting from Sparse Views**|Tianyu Chen et.al.|[2602.22571](http://arxiv.org/abs/2602.22571)||
+|**2026-02-25**|**Model Predictive Control for output tracking with prescribed performance**|Dario Dennstädt et.al.|[2602.22458](http://arxiv.org/abs/2602.22458)||
+|**2026-02-25**|**GeoMotion: Rethinking Motion Segmentation via Latent 4D Geometry**|Xiankang He et.al.|[2602.21810](http://arxiv.org/abs/2602.21810)||
+|**2026-02-24**|**Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking**|Shengqiong Wu et.al.|[2602.21435](http://arxiv.org/abs/2602.21435)||
+|**2026-02-24**|**WildSVG: Towards Reliable SVG Generation Under Real-Word Conditions**|Marco Terral et.al.|[2602.21416](http://arxiv.org/abs/2602.21416)||
 |**2026-02-24**|**UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling**|Kaiyuan Tan et.al.|[2602.20943](http://arxiv.org/abs/2602.20943)||
 |**2026-02-24**|**LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding**|Jihao Qiu et.al.|[2602.20913](http://arxiv.org/abs/2602.20913)||
 |**2026-02-24**|**AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?**|Hailong Yan et.al.|[2602.20664](http://arxiv.org/abs/2602.20664)||
@@ -166,7 +189,7 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-24**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[2602.20981](http://arxiv.org/abs/2602.20981)||
+|**2026-02-25**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[2602.20981](http://arxiv.org/abs/2602.20981)||
 |**2026-02-24**|**An interactive enhanced driving dataset for autonomous driving**|Haojie Feng et.al.|[2602.20575](http://arxiv.org/abs/2602.20575)||
 |**2026-02-14**|**Detecting Deepfakes with Multivariate Soft Blending and CLIP-based Image-Text Alignment**|Jingwei Li et.al.|[2602.15903](http://arxiv.org/abs/2602.15903)||
 |**2026-02-16**|**Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment**|Mounvik K et.al.|[2602.14889](http://arxiv.org/abs/2602.14889)||
@@ -176,7 +199,7 @@ last_updated: 2026.02.28
 |**2026-02-07**|**SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens**|Xiaoyan Zhang et.al.|[2602.07564](http://arxiv.org/abs/2602.07564)||
 |**2026-02-05**|**Exploring Physical Intelligence Emergence via Omni-Modal Architecture and Physical Data Engine**|Minghao Han et.al.|[2602.07064](http://arxiv.org/abs/2602.07064)||
 |**2026-02-09**|**Cross-Modal Redundancy and the Geometry of Vision-Language Embeddings**|Grégoire Dhimoïla et.al.|[2602.06218](http://arxiv.org/abs/2602.06218)||
-|**2026-02-03**|**TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection**|Alireza Salehi et.al.|[2602.03594](http://arxiv.org/abs/2602.03594)||
+|**2026-02-25**|**TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection**|Alireza Salehi et.al.|[2602.03594](http://arxiv.org/abs/2602.03594)||
 |**2026-02-03**|**Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance**|Yingjie Zhu et.al.|[2602.03491](http://arxiv.org/abs/2602.03491)||
 |**2026-02-03**|**ObjEmbed: Towards Universal Multimodal Object Embeddings**|Shenghao Fu et.al.|[2602.01753](http://arxiv.org/abs/2602.01753)||
 |**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257](http://arxiv.org/abs/2602.01257)||
@@ -188,8 +211,15 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety**|Umid Suleymanov et.al.|[2602.22557](http://arxiv.org/abs/2602.22557)||
+|**2026-02-25**|**Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents**|Jonas Karge et.al.|[2602.22413](http://arxiv.org/abs/2602.22413)||
+|**2026-02-25**|**Manifold of Failure: Behavioral Attraction Basins in Language Models**|Sarthak Munshi et.al.|[2602.22291](http://arxiv.org/abs/2602.22291)||
+|**2026-02-25**|**Language Models Exhibit Inconsistent Biases Towards Algorithmic Agents and Human Experts**|Jessica Y. Bo et.al.|[2602.22070](http://arxiv.org/abs/2602.22070)||
+|**2026-02-25**|**Outpatient Appointment Scheduling Optimization with a Genetic Algorithm Approach**|Ana Rodrigues et.al.|[2602.21995](http://arxiv.org/abs/2602.21995)||
+|**2026-02-25**|**DWA-KD: Dual-Space Weighting and Time-Warped Alignment for Cross-Tokenizer Knowledge Distillation**|Duc Trung Vu et.al.|[2602.21669](http://arxiv.org/abs/2602.21669)||
+|**2026-02-26**|**Under the Influence: Quantifying Persuasion and Vigilance in Large Language Models**|Sasha Robinson et.al.|[2602.21262](http://arxiv.org/abs/2602.21262)||
 |**2026-02-24**|**International AI Safety Report 2026**|Yoshua Bengio et.al.|[2602.21012](http://arxiv.org/abs/2602.21012)||
-|**2026-02-24**|**When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance**|Yongli Xiang et.al.|[2602.20880](http://arxiv.org/abs/2602.20880)||
+|**2026-02-25**|**When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance**|Yongli Xiang et.al.|[2602.20880](http://arxiv.org/abs/2602.20880)||
 |**2026-02-23**|**BarrierSteer: LLM Safety via Learning Barrier Steering**|Thanh Q. Tran et.al.|[2602.20102](http://arxiv.org/abs/2602.20102)||
 |**2026-02-23**|**The Digital Gorilla: Rebalancing Power in the Age of AI**|M. Alejandra Parra-Orlandoni et.al.|[2602.20080](http://arxiv.org/abs/2602.20080)||
 |**2026-02-23**|**Carbon-Aware Governance Gates: An Architecture for Sustainable GenAI Development**|Mateen A. Abbasi et.al.|[2602.19718](http://arxiv.org/abs/2602.19718)||
@@ -210,11 +240,15 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification**|Tian Zhang et.al.|[2602.22724](http://arxiv.org/abs/2602.22724)||
+|**2026-02-25**|**Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace**|Qianlong Lan et.al.|[2602.22450](http://arxiv.org/abs/2602.22450)||
+|**2026-02-24**|**Analysis of LLMs Against Prompt Injection and Jailbreak Attacks**|Piyush Jaiswal et.al.|[2602.22242](http://arxiv.org/abs/2602.22242)||
+|**2026-02-24**|**Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment**|Mengxuan Hu et.al.|[2602.21346](http://arxiv.org/abs/2602.21346)||
 |**2026-02-24**|**SoK: Agentic Skills -- Beyond Tool Use in LLM Agents**|Yanna Jiang et.al.|[2602.20867](http://arxiv.org/abs/2602.20867)||
 |**2026-02-24**|**AdapTools: Adaptive Tool-based Indirect Prompt Injection Attacks on Agentic LLMs**|Che Wang et.al.|[2602.20720](http://arxiv.org/abs/2602.20720)||
 |**2026-02-24**|**ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction**|Che Wang et.al.|[2602.20708](http://arxiv.org/abs/2602.20708)||
 |**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584](http://arxiv.org/abs/2602.20584)||
-|**2026-02-24**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)||
+|**2026-02-25**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)||
 |**2026-02-23**|**The LLMbda Calculus: AI Agents, Conversations, and Information Flow**|Zac Garby et.al.|[2602.20064](http://arxiv.org/abs/2602.20064)||
 |**2026-02-23**|**CIBER: A Comprehensive Benchmark for Security Evaluation of Code Interpreter Agents**|Lei Ba et.al.|[2602.19547](http://arxiv.org/abs/2602.19547)||
 |**2026-02-21**|**TIACam: Text-Anchored Invariant Feature Learning with Auto-Augmentation for Camera-Robust Zero-Watermarking**|Abdullah All Tanvir et.al.|[2602.18863](http://arxiv.org/abs/2602.18863)||
@@ -234,7 +268,9 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-23**|**Quantifying the Expectation-Realisation Gap for Agentic AI Systems**|Sebastian Lobentanzer et.al.|[2602.20292](http://arxiv.org/abs/2602.20292)||
+|**2026-02-26**|**The AI Research Assistant: Promise, Peril, and a Proof of Concept**|Tan Bui-Thanh et.al.|[2602.22842](http://arxiv.org/abs/2602.22842)||
+|**2026-02-25**|**Interface Framework for Human-AI Collaboration within Intelligent User Interface Ecosystems**|Shruthi Andru et.al.|[2602.22343](http://arxiv.org/abs/2602.22343)||
+|**2026-02-25**|**Quantifying the Expectation-Realisation Gap for Agentic AI Systems**|Sebastian Lobentanzer et.al.|[2602.20292](http://arxiv.org/abs/2602.20292)||
 |**2026-02-23**|**Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence**|Olga Viberg et.al.|[2602.20014](http://arxiv.org/abs/2602.20014)||
 |**2026-02-24**|**Transforming Science Learning Materials in the Era of Artificial Intelligence**|Xiaoming Zhai et.al.|[2602.18470](http://arxiv.org/abs/2602.18470)||
 |**2026-02-08**|**The Landscape of AI in Science Education: What is Changing and How to Respond**|Xiaoming Zhai et.al.|[2602.18469](http://arxiv.org/abs/2602.18469)||
@@ -255,6 +291,7 @@ last_updated: 2026.02.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Irresponsible Counselors: Large Language Models and the Loneliness of Modern Humans**|Abas Bertina et.al.|[2602.21653](http://arxiv.org/abs/2602.21653)||
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)||
 |**2026-02-19**|**Lyα forest bounds on sterile neutrino production via neutrino self-interactions**|Priyank Parashari et.al.|[2602.17821](http://arxiv.org/abs/2602.17821)||
 |**2026-02-19**|**Light-Activated Self-thermophoretic Janus Nanopropellers**|Henri Truong et.al.|[2602.17548](http://arxiv.org/abs/2602.17548)||
