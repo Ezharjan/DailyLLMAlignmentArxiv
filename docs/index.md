@@ -75,14 +75,14 @@ last_updated: 2026.03.02
 |**2026-02-26**|**ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL**|Xingyu Lu et.al.|[2602.22623](http://arxiv.org/abs/2602.22623)||
 |**2026-02-25**|**RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**|Yukun Chen et.al.|[2602.21628](http://arxiv.org/abs/2602.21628)||
 |**2026-02-24**|**SibylSense: Adaptive Rubric Learning via Memory Tuning and Adversarial Probing**|Yifei Xu et.al.|[2602.20751](http://arxiv.org/abs/2602.20751)||
-|**2026-02-24**|**Counterfactual Simulation Training for Chain-of-Thought Faithfulness**|Peter Hase et.al.|[2602.20710](http://arxiv.org/abs/2602.20710)||
+|**2026-02-24**|**Counterfactual Simulation Training for Chain-of-Thought Faithfulness**|Peter Hase et.al.|[2602.20710](http://arxiv.org/abs/2602.20710)|**[link](https://github.com/peterbhase/counterfactual-simulation-training)**|
 |**2026-02-23**|**IR $^3$ : Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking**|Mohammad Beigi et.al.|[2602.19416](http://arxiv.org/abs/2602.19416)||
 |**2026-02-20**|**Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory**|Usman Anwar et.al.|[2602.18297](http://arxiv.org/abs/2602.18297)||
 |**2026-02-20**|**Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards**|Johannes Ackermann et.al.|[2602.18037](http://arxiv.org/abs/2602.18037)||
 |**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)||
 |**2026-02-17**|**The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes**|Mohammad Taufeeque et.al.|[2602.15515](http://arxiv.org/abs/2602.15515)||
 |**2026-02-17**|**Discovering Implicit Large Language Model Alignment Objectives**|Edward Chen et.al.|[2602.15338](http://arxiv.org/abs/2602.15338)||
-|**2026-02-15**|**Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**|Ruipeng Jia et.al.|[2602.14069](http://arxiv.org/abs/2602.14069)||
+|**2026-02-27**|**Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**|Ruipeng Jia et.al.|[2602.14069](http://arxiv.org/abs/2602.14069)||
 |**2026-02-25**|**Small Reward Models via Backward Inference**|Yike Wang et.al.|[2602.13551](http://arxiv.org/abs/2602.13551)||
 |**2026-02-12**|**Synthetic Interaction Data for Scalable Personalization in Large Language Models**|Yuchen Ma et.al.|[2602.12394](http://arxiv.org/abs/2602.12394)||
 |**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)||
@@ -96,6 +96,8 @@ last_updated: 2026.03.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**|Jialiang Fan et.al.|[2602.24235](http://arxiv.org/abs/2602.24235)||
+|**2026-02-27**|**GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models**|Xingyu Zhu et.al.|[2602.24027](http://arxiv.org/abs/2602.24027)||
 |**2026-02-26**|**Multilingual Safety Alignment Via Sparse Weight Editing**|Jiaming Liang et.al.|[2602.22554](http://arxiv.org/abs/2602.22554)||
 |**2026-02-26**|**Evaluating the resolution of AI-based accelerated MR reconstruction using a deep learning-based model observer**|Zitong Yu et.al.|[2602.22535](http://arxiv.org/abs/2602.22535)||
 |**2026-02-25**|**Training Agents to Self-Report Misbehavior**|Bruce W. Lee et.al.|[2602.22303](http://arxiv.org/abs/2602.22303)||
@@ -146,12 +148,15 @@ last_updated: 2026.03.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-26**|**ParamMem: Augmenting Language Agents with Parametric Reflective Memory**|Tianjun Yao et.al.|[2602.23320](http://arxiv.org/abs/2602.23320)||
+|**2026-02-27**|**Iterative Refinement for a Subset of Eigenvectors of Symmetric Matrices via Matrix Multiplications**|Takeshi Terao et.al.|[2602.23778](http://arxiv.org/abs/2602.23778)||
+|**2026-02-27**|**Towards Source-Aware Object Swapping with Initial Noise Perturbation**|Jiahui Zhan et.al.|[2602.23697](http://arxiv.org/abs/2602.23697)||
+|**2026-02-27**|**LLM-Driven Multi-Turn Task-Oriented Dialogue Synthesis for Realistic Reasoning**|Yu Zhu et.al.|[2602.23610](http://arxiv.org/abs/2602.23610)||
+|**2026-02-27**|**ParamMem: Augmenting Language Agents with Parametric Reflective Memory**|Tianjun Yao et.al.|[2602.23320](http://arxiv.org/abs/2602.23320)||
 |**2026-02-26**|**Uncertainty-Aware Calculation of Analytical Gradients of Matrix-Interpolatory Reduced-Order Models for Efficient Structural Optimization**|Marcel Warzecha et.al.|[2602.23314](http://arxiv.org/abs/2602.23314)||
 |**2026-02-26**|**Large Multimodal Models as General In-Context Classifiers**|Marco Garosi et.al.|[2602.23229](http://arxiv.org/abs/2602.23229)||
 |**2026-02-26**|**Align-Consistency: Improving Non-autoregressive and Semi-supervised ASR with Consistency Regularization**|Wanting Huang et.al.|[2602.23171](http://arxiv.org/abs/2602.23171)||
 |**2026-02-26**|**Digital Twin-Based Beamforming for Interference Mitigation in AF Relay MIMO Systems**|Alexander Bonora et.al.|[2602.22991](http://arxiv.org/abs/2602.22991)||
-|**2026-02-26**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)||
+|**2026-02-27**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)||
 |**2026-02-26**|**Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference**|Yushi Ye et.al.|[2602.22868](http://arxiv.org/abs/2602.22868)||
 |**2026-02-26**|**DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation**|Hao Zheng et.al.|[2602.22839](http://arxiv.org/abs/2602.22839)||
 |**2026-02-26**|**PhotoAgent: Agentic Photo Editing with Exploratory Visual Aesthetic Planning**|Mingde Yao et.al.|[2602.22809](http://arxiv.org/abs/2602.22809)||
@@ -189,6 +194,7 @@ last_updated: 2026.03.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Shape vs. Context: Examining Human--AI Gaps in Ambiguous Japanese Character Recognition**|Daichi Haraguchi et.al.|[2602.23746](http://arxiv.org/abs/2602.23746)||
 |**2026-02-25**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[2602.20981](http://arxiv.org/abs/2602.20981)||
 |**2026-02-24**|**An interactive enhanced driving dataset for autonomous driving**|Haojie Feng et.al.|[2602.20575](http://arxiv.org/abs/2602.20575)||
 |**2026-02-14**|**Detecting Deepfakes with Multivariate Soft Blending and CLIP-based Image-Text Alignment**|Jingwei Li et.al.|[2602.15903](http://arxiv.org/abs/2602.15903)||
@@ -211,9 +217,10 @@ last_updated: 2026.03.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Lifecycle-Integrated Security for AI-Cloud Convergence in Cyber-Physical Infrastructure**|S M Zia Ur Rashid et.al.|[2602.23397](http://arxiv.org/abs/2602.23397)||
 |**2026-02-26**|**CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety**|Umid Suleymanov et.al.|[2602.22557](http://arxiv.org/abs/2602.22557)||
 |**2026-02-25**|**Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents**|Jonas Karge et.al.|[2602.22413](http://arxiv.org/abs/2602.22413)||
-|**2026-02-25**|**Manifold of Failure: Behavioral Attraction Basins in Language Models**|Sarthak Munshi et.al.|[2602.22291](http://arxiv.org/abs/2602.22291)||
+|**2026-02-27**|**Manifold of Failure: Behavioral Attraction Basins in Language Models**|Sarthak Munshi et.al.|[2602.22291](http://arxiv.org/abs/2602.22291)||
 |**2026-02-25**|**Language Models Exhibit Inconsistent Biases Towards Algorithmic Agents and Human Experts**|Jessica Y. Bo et.al.|[2602.22070](http://arxiv.org/abs/2602.22070)||
 |**2026-02-25**|**Outpatient Appointment Scheduling Optimization with a Genetic Algorithm Approach**|Ana Rodrigues et.al.|[2602.21995](http://arxiv.org/abs/2602.21995)||
 |**2026-02-25**|**DWA-KD: Dual-Space Weighting and Time-Warped Alignment for Cross-Tokenizer Knowledge Distillation**|Duc Trung Vu et.al.|[2602.21669](http://arxiv.org/abs/2602.21669)||
@@ -240,6 +247,7 @@ last_updated: 2026.03.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls**|Qianxun Xu et.al.|[2602.23956](http://arxiv.org/abs/2602.23956)||
 |**2026-02-26**|**AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification**|Tian Zhang et.al.|[2602.22724](http://arxiv.org/abs/2602.22724)||
 |**2026-02-25**|**Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace**|Qianlong Lan et.al.|[2602.22450](http://arxiv.org/abs/2602.22450)||
 |**2026-02-24**|**Analysis of LLMs Against Prompt Injection and Jailbreak Attacks**|Piyush Jaiswal et.al.|[2602.22242](http://arxiv.org/abs/2602.22242)||
