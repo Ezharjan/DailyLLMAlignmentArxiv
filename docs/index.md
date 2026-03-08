@@ -340,8 +340,8 @@ last_updated: 2026.03.08
 |**2026-03-01**|**Tracking Capabilities for Safer Agents**|Martin Odersky et.al.|[2603.00991](http://arxiv.org/abs/2603.00991)||
 |**2026-02-28**|**From Goals to Aspects, Revisited: An NFR Pattern Language for Agentic AI Systems**|Yijun Yu et.al.|[2603.00472](http://arxiv.org/abs/2603.00472)||
 |**2026-02-27**|**LiaisonAgent: An Multi-Agent Framework for Autonomous Risk Investigation and Governance**|Chuanming Tang et.al.|[2603.00200](http://arxiv.org/abs/2603.00200)||
-|**2026-02-26**|**Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection**|Marcus Graves et.al.|[2603.00164](http://arxiv.org/abs/2603.00164)||
-|**2026-02-27**|**SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls**|Qianxun Xu et.al.|[2602.23956](http://arxiv.org/abs/2602.23956)||
+|**2026-02-26**|**Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection**|Marcus Graves et.al.|[2603.00164](http://arxiv.org/abs/2603.00164)|**[link](https://github.com/canonicalmg/reverse-captcha-eval)**|
+|**2026-02-27**|**SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls**|Qianxun Xu et.al.|[2602.23956](http://arxiv.org/abs/2602.23956)|**[link](https://github.com/Westlake-AGI-Lab/SwitchCraft)**|
 |**2026-02-26**|**AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification**|Tian Zhang et.al.|[2602.22724](http://arxiv.org/abs/2602.22724)||
 |**2026-02-25**|**Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace**|Qianlong Lan et.al.|[2602.22450](http://arxiv.org/abs/2602.22450)||
 |**2026-02-24**|**Analysis of LLMs Against Prompt Injection and Jailbreak Attacks**|Piyush Jaiswal et.al.|[2602.22242](http://arxiv.org/abs/2602.22242)||
@@ -410,7 +410,7 @@ last_updated: 2026.03.08
 |**2026-02-19**|**Lyα forest bounds on sterile neutrino production via neutrino self-interactions**|Priyank Parashari et.al.|[2602.17821](http://arxiv.org/abs/2602.17821)||
 |**2026-02-19**|**Light-Activated Self-thermophoretic Janus Nanopropellers**|Henri Truong et.al.|[2602.17548](http://arxiv.org/abs/2602.17548)||
 |**2026-02-04**|**Pluralism in AI Governance: Toward Sociotechnical Alignment and Normative Coherence**|Mike Wa Nkongolo et.al.|[2602.15881](http://arxiv.org/abs/2602.15881)||
-|**2026-02-16**|**An x-ray regenerative amplifier free-electron laser with a step-tapered-undulator**|Henry P. Freund et.al.|[2602.14734](http://arxiv.org/abs/2602.14734)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-02-16**|**An x-ray regenerative amplifier free-electron laser with a step-tapered-undulator**|Henry P. Freund et.al.|[2602.14734](http://arxiv.org/abs/2602.14734)||
 |**2026-02-16**|**Wavemaker and endogeneity of gravitationally stretched weakly viscoelastic jets**|Daniel Moreno-Boza et.al.|[2602.14627](http://arxiv.org/abs/2602.14627)||
 |**2026-02-16**|**WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)**|Kiyotaka Kasubuchi et.al.|[2602.14419](http://arxiv.org/abs/2602.14419)||
 |**2026-02-10**|**P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads**|Yun Luo et.al.|[2602.09443](http://arxiv.org/abs/2602.09443)||
