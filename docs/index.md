@@ -74,6 +74,8 @@ last_updated: 2026.03.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Confidence Before Answering: A Paradigm Shift for Efficient LLM Uncertainty Estimation**|Changcheng Li et.al.|[2603.05881](http://arxiv.org/abs/2603.05881)||
+|**2026-03-05**|**Revisiting the (Sub)Optimality of Best-of-N for Inference-Time Alignment**|Ved Sriraman et.al.|[2603.05739](http://arxiv.org/abs/2603.05739)||
 |**2026-03-05**|**VRM: Teaching Reward Models to Understand Authentic Human Preferences**|Biao Liu et.al.|[2603.04974](http://arxiv.org/abs/2603.04974)||
 |**2026-03-04**|**Monitoring Emergent Reward Hacking During Generation via Internal Activations**|Patrick Wilhelm et.al.|[2603.04069](http://arxiv.org/abs/2603.04069)||
 |**2026-03-03**|**StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning**|Shiyang Li et.al.|[2603.02637](http://arxiv.org/abs/2603.02637)||
@@ -103,9 +105,15 @@ last_updated: 2026.03.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-05**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)||
+|**2026-03-06**|**Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion**|Pengcheng Jiang et.al.|[2603.06397](http://arxiv.org/abs/2603.06397)||
+|**2026-03-06**|**Mind the Gap: Pitfalls of LLM Alignment with Asian Public Opinion**|Hari Shankar et.al.|[2603.06264](http://arxiv.org/abs/2603.06264)||
+|**2026-03-06**|**Towards High-resolution and Disentangled Reference-based Sketch Colorization**|Dingkun Yan et.al.|[2603.05971](http://arxiv.org/abs/2603.05971)||
+|**2026-03-06**|**Evaluating LLM Alignment With Human Trust Models**|Anushka Debnath et.al.|[2603.05839](http://arxiv.org/abs/2603.05839)||
+|**2026-03-06**|**Knowing without Acting: The Disentangled Geometry of Safety Mechanisms in Large Language Models**|Jinman Wu et.al.|[2603.05773](http://arxiv.org/abs/2603.05773)||
+|**2026-03-05**|**Revisiting the (Sub)Optimality of Best-of-N for Inference-Time Alignment**|Ved Sriraman et.al.|[2603.05739](http://arxiv.org/abs/2603.05739)||
+|**2026-03-06**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)||
 |**2026-03-05**|**LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services**|Jinwen Chen et.al.|[2603.04946](http://arxiv.org/abs/2603.04946)||
-|**2026-03-05**|**Can LLMs Capture Expert Uncertainty? A Comparative Analysis of Value Alignment in Ethnographic Qualitative Research**|Arina Kostina et.al.|[2603.04897](http://arxiv.org/abs/2603.04897)||
+|**2026-03-06**|**Can LLMs Capture Expert Uncertainty? A Comparative Analysis of Value Alignment in Ethnographic Qualitative Research**|Arina Kostina et.al.|[2603.04897](http://arxiv.org/abs/2603.04897)||
 |**2026-03-05**|**Why Is RLHF Alignment Shallow? A Gradient Analysis**|Robin Young et.al.|[2603.04851](http://arxiv.org/abs/2603.04851)||
 |**2026-03-05**|**Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models**|G. Madan Mohan et.al.|[2603.04837](http://arxiv.org/abs/2603.04837)||
 |**2026-03-05**|**VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment**|Jiawei Chen et.al.|[2603.04822](http://arxiv.org/abs/2603.04822)||
@@ -187,6 +195,10 @@ last_updated: 2026.03.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Pano3DComposer: Feed-Forward Compositional 3D Scene Generation from Single Panoramic Image**|Zidian Qiu et.al.|[2603.05908](http://arxiv.org/abs/2603.05908)||
+|**2026-03-06**|**Evolving Deception: When Agents Evolve, Deception Wins**|Zonghao Ying et.al.|[2603.05872](http://arxiv.org/abs/2603.05872)||
+|**2026-03-06**|**ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning**|Juyong Jiang et.al.|[2603.05863](http://arxiv.org/abs/2603.05863)||
+|**2026-03-05**|**LTLGuard: Formalizing LTL Specifications with Compact Language Models and Lightweight Symbolic Reasoning**|Medina Andresel et.al.|[2603.05728](http://arxiv.org/abs/2603.05728)||
 |**2026-03-05**|**Constraint Learning for Non-confluent Proof Search**|Michael Rawson et.al.|[2603.05258](http://arxiv.org/abs/2603.05258)||
 |**2026-03-05**|**Why the Brain Consolidates: Predictive Forgetting for Optimal Generalisation**|Zafeirios Fountas et.al.|[2603.04688](http://arxiv.org/abs/2603.04688)||
 |**2026-03-04**|**Theory Discovery in Social Networks: Automating ERGM Specification with Large Language Models**|Yidan Sun et.al.|[2603.04306](http://arxiv.org/abs/2603.04306)||
@@ -257,6 +269,7 @@ last_updated: 2026.03.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs**|Zhi Lei et.al.|[2603.05997](http://arxiv.org/abs/2603.05997)||
 |**2026-03-05**|**VisionPangu: A Compact and Fine-Grained Multimodal Assistant with 1.7B Parameters**|Jiaxin Fan et.al.|[2603.04957](http://arxiv.org/abs/2603.04957)||
 |**2026-03-04**|**Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks**|Haoyu Liu et.al.|[2603.04364](http://arxiv.org/abs/2603.04364)||
 |**2026-03-03**|**PinCLIP: Large-scale Foundational Multimodal Representation at Pinterest**|Josh Beal et.al.|[2603.03544](http://arxiv.org/abs/2603.03544)||
@@ -287,7 +300,7 @@ last_updated: 2026.03.09
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-05**|**Knowledge Divergence and the Value of Debate for Scalable Oversight**|Robin Young et.al.|[2603.05293](http://arxiv.org/abs/2603.05293)||
-|**2026-03-05**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)||
+|**2026-03-06**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)||
 |**2026-03-04**|**Token Taxes: mitigating AGI's economic risks**|Lucas Irwin et.al.|[2603.04555](http://arxiv.org/abs/2603.04555)||
 |**2026-03-03**|**Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks**|Junjie Chu et.al.|[2603.04459](http://arxiv.org/abs/2603.04459)||
 |**2026-03-04**|**Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks**|Haoyu Liu et.al.|[2603.04364](http://arxiv.org/abs/2603.04364)||
@@ -341,7 +354,7 @@ last_updated: 2026.03.09
 |**2026-02-28**|**From Goals to Aspects, Revisited: An NFR Pattern Language for Agentic AI Systems**|Yijun Yu et.al.|[2603.00472](http://arxiv.org/abs/2603.00472)||
 |**2026-02-27**|**LiaisonAgent: An Multi-Agent Framework for Autonomous Risk Investigation and Governance**|Chuanming Tang et.al.|[2603.00200](http://arxiv.org/abs/2603.00200)||
 |**2026-02-26**|**Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection**|Marcus Graves et.al.|[2603.00164](http://arxiv.org/abs/2603.00164)|**[link](https://github.com/canonicalmg/reverse-captcha-eval)**|
-|**2026-02-27**|**SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls**|Qianxun Xu et.al.|[2602.23956](http://arxiv.org/abs/2602.23956)|**[link](https://github.com/Westlake-AGI-Lab/SwitchCraft)**|
+|**2026-02-27**|**SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls**|Qianxun Xu et.al.|[2602.23956](http://arxiv.org/abs/2602.23956)||
 |**2026-02-26**|**AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification**|Tian Zhang et.al.|[2602.22724](http://arxiv.org/abs/2602.22724)||
 |**2026-02-25**|**Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace**|Qianlong Lan et.al.|[2602.22450](http://arxiv.org/abs/2602.22450)||
 |**2026-02-24**|**Analysis of LLMs Against Prompt Injection and Jailbreak Attacks**|Piyush Jaiswal et.al.|[2602.22242](http://arxiv.org/abs/2602.22242)||
@@ -370,6 +383,8 @@ last_updated: 2026.03.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Human, Algorithm, or Both? Gender Bias in Human-Augmented Recruiting**|Mesut Kaya et.al.|[2603.06240](http://arxiv.org/abs/2603.06240)||
+|**2026-03-05**|**Unsupervised domain adaptation for radioisotope identification in gamma spectroscopy**|Peter Lalor et.al.|[2603.05719](http://arxiv.org/abs/2603.05719)||
 |**2026-03-05**|**Knowledge Divergence and the Value of Debate for Scalable Oversight**|Robin Young et.al.|[2603.05293](http://arxiv.org/abs/2603.05293)||
 |**2026-03-04**|**Self-Attribution Bias: When AI Monitors Go Easy on Themselves**|Dipika Khullar et.al.|[2603.04582](http://arxiv.org/abs/2603.04582)||
 |**2026-03-04**|**Beyond the Interface: Redefining UX for Society-in-the-Loop AI Systems**|Nahal Mafi et.al.|[2603.04552](http://arxiv.org/abs/2603.04552)||
@@ -400,6 +415,8 @@ last_updated: 2026.03.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Gradient Flow Polarizes Softmax Outputs towards Low-Entropy Solutions**|Aditya Varre et.al.|[2603.06248](http://arxiv.org/abs/2603.06248)||
+|**2026-03-06**|**Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks**|Shira Gur-Arieh et.al.|[2603.05801](http://arxiv.org/abs/2603.05801)||
 |**2026-02-26**|**Physics Education under the Application of Artificial Intelligence: Bibliometric Analysis Based on Web of Science Core Library (2021-2025)**|Chengtian Liang et.al.|[2603.03348](http://arxiv.org/abs/2603.03348)||
 |**2026-03-03**|**Probing Axions with Relativistic Jet Polarimetry**|Dashon Michel Jones et.al.|[2603.03244](http://arxiv.org/abs/2603.03244)||
 |**2026-03-03**|**AI Space Physics: Constitutive boundary semantics for open AI institutions**|Oleg Romanchuk et.al.|[2603.03119](http://arxiv.org/abs/2603.03119)||
