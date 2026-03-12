@@ -16,7 +16,8 @@
     "2510.03999": "|**2026-02-05**|**LH-Deception: Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions**|Yang Xu et.al.|[2510.03999](http://arxiv.org/abs/2510.03999)||\n",
     "2509.12158": "|**2025-09-20**|**Pun Unintended: LLMs and the Illusion of Humor Understanding**|Alessandro Zangari et.al.|[2509.12158](http://arxiv.org/abs/2509.12158)||\n",
     "2603.07202": "|**2026-03-07**|**Lying to Win: Assessing LLM Deception through Human-AI Games and Parallel-World Probing**|Arash Marioriyad et.al.|[2603.07202](http://arxiv.org/abs/2603.07202)||\n",
-    "2603.06874": "|**2026-03-06**|**LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models**|Matthew Lyle Olson et.al.|[2603.06874](http://arxiv.org/abs/2603.06874)||\n"
+    "2603.06874": "|**2026-03-06**|**LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models**|Matthew Lyle Olson et.al.|[2603.06874](http://arxiv.org/abs/2603.06874)||\n",
+    "2603.10003": "|**2026-02-16**|**Probing the Limits of the Lie Detector Approach to LLM Deception**|Tom-Felix Berger et.al.|[2603.10003](http://arxiv.org/abs/2603.10003)||\n"
   },
   "Collusion in LLMs": {
     "2602.12136": "|**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)||\n",
@@ -84,7 +85,8 @@
     "2603.08640": "|**2026-03-10**|**PostTrainBench: Can LLM Agents Automate LLM Post-Training?**|Ben Rank et.al.|[2603.08640](http://arxiv.org/abs/2603.08640)||\n",
     "2603.08030": "|**2026-03-09**|**QualiTeacher: Quality-Conditioned Pseudo-Labeling for Real-World Image Restoration**|Fengyang Xiao et.al.|[2603.08030](http://arxiv.org/abs/2603.08030)||\n",
     "2603.07084": "|**2026-03-07**|**Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking in RLVR**|Muhammad Khalifa et.al.|[2603.07084](http://arxiv.org/abs/2603.07084)||\n",
-    "2603.06797": "|**2026-03-06**|**Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment**|Hsiang Hsu et.al.|[2603.06797](http://arxiv.org/abs/2603.06797)||\n"
+    "2603.06797": "|**2026-03-06**|**Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment**|Hsiang Hsu et.al.|[2603.06797](http://arxiv.org/abs/2603.06797)||\n",
+    "2603.10279": "|**2026-03-10**|**Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF**|Keertana Chidambaram et.al.|[2603.10279](http://arxiv.org/abs/2603.10279)||\n"
   },
   "AI Alignment Techniques": {
     "2602.19416": "|**2026-02-23**|**IR$^3$: Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking**|Mohammad Beigi et.al.|[2602.19416](http://arxiv.org/abs/2602.19416)||\n",
@@ -167,7 +169,13 @@
     "2603.09246": "|**2026-03-10**|**Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models**|Quanchen Zou et.al.|[2603.09246](http://arxiv.org/abs/2603.09246)||\n",
     "2603.09086": "|**2026-03-10**|**Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges**|Rongxiang Zeng et.al.|[2603.09086](http://arxiv.org/abs/2603.09086)||\n",
     "2603.09020": "|**2026-03-09**|**AI Phenomenology for Understanding Human-AI Experiences Across Eras**|Bhada Yun et.al.|[2603.09020](http://arxiv.org/abs/2603.09020)||\n",
-    "2603.08761": "|**2026-03-08**|**On the Formal Limits of Alignment Verification**|Ayushi Agarwal et.al.|[2603.08761](http://arxiv.org/abs/2603.08761)||\n"
+    "2603.08761": "|**2026-03-08**|**On the Formal Limits of Alignment Verification**|Ayushi Agarwal et.al.|[2603.08761](http://arxiv.org/abs/2603.08761)||\n",
+    "2603.10913": "|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)||\n",
+    "2603.10588": "|**2026-03-11**|**Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning**|Zhaowei Zhang et.al.|[2603.10588](http://arxiv.org/abs/2603.10588)||\n",
+    "2603.10476": "|**2026-03-11**|**Learning to Negotiate: Multi-Agent Deliberation for Collective Value Alignment in LLMs**|Panatchakorn Anantaprayoon et.al.|[2603.10476](http://arxiv.org/abs/2603.10476)||\n",
+    "2603.10370": "|**2026-03-11**|**GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning**|Ruiheng Liu et.al.|[2603.10370](http://arxiv.org/abs/2603.10370)||\n",
+    "2603.10243": "|**2026-03-10**|**GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning**|Zhouxiang Fang et.al.|[2603.10243](http://arxiv.org/abs/2603.10243)||\n",
+    "2603.10091": "|**2026-03-10**|**Multi-Stream Perturbation Attack: Breaking Safety Alignment of Thinking LLMs Through Concurrent Task Interference**|Fan Yang et.al.|[2603.10091](http://arxiv.org/abs/2603.10091)||\n"
   },
   "Unsupervised Elicitation": {
     "2601.17728": "|**2026-01-25**|**Unsupervised Elicitation of Moral Values from Language Models**|Meysam Alizadeh et.al.|[2601.17728](http://arxiv.org/abs/2601.17728)||\n",
@@ -186,7 +194,8 @@
     "2503.20104": "|**2025-03-25**|**\"Is There Anything Else?'': Examining Administrator Influence on Linguistic Features from the Cookie Theft Picture Description Cognitive Test**|Changye Li et.al.|[2503.20104](http://arxiv.org/abs/2503.20104)||\n",
     "2503.05047": "|**2025-03-06**|**Biases in Large Language Model-Elicited Text: A Case Study in Natural Language Inference**|Grace Proebsting et.al.|[2503.05047](http://arxiv.org/abs/2503.05047)||\n",
     "2602.20400": "|**2026-02-23**|**Three Concrete Challenges and Two Hopes for the Safety of Unsupervised Elicitation**|Callum Canavan et.al.|[2602.20400](http://arxiv.org/abs/2602.20400)||\n",
-    "2603.05494": "|**2026-03-10**|**Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation**|Helena Casademunt et.al.|[2603.05494](http://arxiv.org/abs/2603.05494)||\n"
+    "2603.05494": "|**2026-03-10**|**Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation**|Helena Casademunt et.al.|[2603.05494](http://arxiv.org/abs/2603.05494)||\n",
+    "2603.10396": "|**2026-03-11**|**Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities**|Anita Yang et.al.|[2603.10396](http://arxiv.org/abs/2603.10396)||\n"
   },
   "Self-Improvement in AI": {
     "2602.19753": "|**2026-02-23**|**RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing**|Kaifa Yang et.al.|[2602.19753](http://arxiv.org/abs/2602.19753)||\n",
@@ -274,7 +283,14 @@
     "2603.09036": "|**2026-03-10**|**SCALAR: Learning and Composing Skills through LLM Guided Symbolic Planning and Deep RL Grounding**|Renos Zabounidis et.al.|[2603.09036](http://arxiv.org/abs/2603.09036)||\n",
     "2603.08989": "|**2026-03-09**|**Automated Thematic Analysis for Clinical Qualitative Data: Iterative Codebook Refinement with Full Provenance**|Seungjun Yi et.al.|[2603.08989](http://arxiv.org/abs/2603.08989)||\n",
     "2603.08898": "|**2026-03-09**|**Towards Visual Query Segmentation in the Wild**|Bing Fan et.al.|[2603.08898](http://arxiv.org/abs/2603.08898)||\n",
-    "2603.08806": "|**2026-03-09**|**Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral Specifications**|Tzafrir Rehan et.al.|[2603.08806](http://arxiv.org/abs/2603.08806)||\n"
+    "2603.08806": "|**2026-03-09**|**Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral Specifications**|Tzafrir Rehan et.al.|[2603.08806](http://arxiv.org/abs/2603.08806)||\n",
+    "2603.10921": "|**2026-03-11**|**Training-Free Multi-Step Inference for Target Speaker Extraction**|Zhenghai You et.al.|[2603.10921](http://arxiv.org/abs/2603.10921)||\n",
+    "2603.10846": "|**2026-03-11**|**Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis**|Yujie Zheng et.al.|[2603.10846](http://arxiv.org/abs/2603.10846)||\n",
+    "2603.10828": "|**2026-03-11**|**BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation**|Prithwijit Chowdhury et.al.|[2603.10828](http://arxiv.org/abs/2603.10828)||\n",
+    "2603.10747": "|**2026-03-11**|**Pneuma-Seeker: A Relational Reification Mechanism to Align AI Agents with Human Work over Relational Data**|Muhammad Imam Luthfi Balaka et.al.|[2603.10747](http://arxiv.org/abs/2603.10747)||\n",
+    "2603.10544": "|**2026-03-11**|**SCORE: Replacing Layer Stacking with Contractive Recurrent Depth**|Guillaume Godin et.al.|[2603.10544](http://arxiv.org/abs/2603.10544)||\n",
+    "2603.10191": "|**2026-03-10**|**Regularized Warm-Started Quantum Approximate Optimization and Conditions for Surpassing Classical Solvers on the Max-Cut Problem**|Zichang He et.al.|[2603.10191](http://arxiv.org/abs/2603.10191)||\n",
+    "2603.10098": "|**2026-03-10**|**Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models**|Daniel Hennes et.al.|[2603.10098](http://arxiv.org/abs/2603.10098)||\n"
   },
   "VLM Alignment": {
     "2602.14889": "|**2026-02-16**|**Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment**|Mounvik K et.al.|[2602.14889](http://arxiv.org/abs/2602.14889)||\n",
@@ -352,7 +368,8 @@
     "2603.06816": "|**2026-03-06**|**\"Dark Triad\" Model Organisms of Misalignment: Narrow Fine-Tuning Mirrors Human Antisocial Behavior**|Roshni Lulla et.al.|[2603.06816](http://arxiv.org/abs/2603.06816)||\n",
     "2603.09154": "|**2026-03-10**|**Bioalignment: Measuring and Improving LLM Disposition Toward Biological Systems for AI Safety**|Trent R Northen et.al.|[2603.09154](http://arxiv.org/abs/2603.09154)||\n",
     "2603.08761": "|**2026-03-08**|**On the Formal Limits of Alignment Verification**|Ayushi Agarwal et.al.|[2603.08761](http://arxiv.org/abs/2603.08761)||\n",
-    "2603.08760": "|**2026-03-08**|**Clear, Compelling Arguments: Rethinking the Foundations of Frontier AI Safety Cases**|Shaun Feakins et.al.|[2603.08760](http://arxiv.org/abs/2603.08760)||\n"
+    "2603.08760": "|**2026-03-08**|**Clear, Compelling Arguments: Rethinking the Foundations of Frontier AI Safety Cases**|Shaun Feakins et.al.|[2603.08760](http://arxiv.org/abs/2603.08760)||\n",
+    "2603.10068": "|**2026-03-10**|**ADVERSA: Measuring Multi-Turn Guardrail Degradation and Judge Reliability in Large Language Models**|Harry Owiredu-Ashley et.al.|[2603.10068](http://arxiv.org/abs/2603.10068)||\n"
   },
   "Adversarial Attacks on Alignment": {
     "2602.20156": "|**2026-02-25**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)||\n",
@@ -393,7 +410,10 @@
     "2603.04459": "|**2026-03-03**|**Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks**|Junjie Chu et.al.|[2603.04459](http://arxiv.org/abs/2603.04459)||\n",
     "2603.07708": "|**2026-03-08**|**VoiceSHIELD-Small: Real-Time Malicious Speech Detection and Transcription**|Sumit Ranjan et.al.|[2603.07708](http://arxiv.org/abs/2603.07708)||\n",
     "2603.07211": "|**2026-03-07**|**wDPO: Winsorized Direct Preference Optimization for Robust LLM Alignment**|Jilong Liu et.al.|[2603.07211](http://arxiv.org/abs/2603.07211)||\n",
-    "2603.07191": "|**2026-03-10**|**Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice**|Yuxu Ge et.al.|[2603.07191](http://arxiv.org/abs/2603.07191)||\n"
+    "2603.07191": "|**2026-03-10**|**Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice**|Yuxu Ge et.al.|[2603.07191](http://arxiv.org/abs/2603.07191)||\n",
+    "2603.10749": "|**2026-03-11**|**AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via Causal Attribution of Tool Invocations**|Yu He et.al.|[2603.10749](http://arxiv.org/abs/2603.10749)||\n",
+    "2603.10521": "|**2026-03-11**|**IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs**|Chuan Guo et.al.|[2603.10521](http://arxiv.org/abs/2603.10521)||\n",
+    "2603.10163": "|**2026-03-10**|**Compatibility at a Cost: Systematic Discovery and Exploitation of MCP Clause-Compliance Vulnerabilities**|Nanzi Yang et.al.|[2603.10163](http://arxiv.org/abs/2603.10163)||\n"
   },
   "Scalable Oversight": {
     "2602.20014": "|**2026-02-23**|**Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence**|Olga Viberg et.al.|[2602.20014](http://arxiv.org/abs/2602.20014)||\n",
@@ -453,9 +473,10 @@
     "2603.03000": "|**2026-03-03**|**Why Does RLAIF Work At All?**|Robin Young et.al.|[2603.03000](http://arxiv.org/abs/2603.03000)||\n",
     "2603.02756": "|**2026-03-03**|**Rethinking Time Series Domain Generalization via Structure-Stratified Calibration**|Jinyang Li et.al.|[2603.02756](http://arxiv.org/abs/2603.02756)||\n",
     "2603.03348": "|**2026-02-26**|**Physics Education under the Application of Artificial Intelligence: Bibliometric Analysis Based on Web of Science Core Library (2021-2025)**|Chengtian Liang et.al.|[2603.03348](http://arxiv.org/abs/2603.03348)||\n",
-    "2603.06248": "|**2026-03-06**|**Gradient Flow Polarizes Softmax Outputs towards Low-Entropy Solutions**|Aditya Varre et.al.|[2603.06248](http://arxiv.org/abs/2603.06248)||\n",
+    "2603.06248": "|**2026-03-06**|**Gradient Flow Polarizes Softmax Outputs towards Low-Entropy Solutions**|Aditya Varre et.al.|[2603.06248](http://arxiv.org/abs/2603.06248)|**[link](https://github.com/tml-epfl/softmax)**|\n",
     "2603.05801": "|**2026-03-06**|**Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks**|Shira Gur-Arieh et.al.|[2603.05801](http://arxiv.org/abs/2603.05801)||\n",
     "2603.08575": "|**2026-03-09**|**Trust via Reputation of Conviction**|Aravind R. Iyengar et.al.|[2603.08575](http://arxiv.org/abs/2603.08575)||\n",
-    "2603.06599": "|**2026-02-16**|**Building the ethical AI framework of the future: from philosophy to practice**|Jasper Kyle Catapang et.al.|[2603.06599](http://arxiv.org/abs/2603.06599)||\n"
+    "2603.06599": "|**2026-02-16**|**Building the ethical AI framework of the future: from philosophy to practice**|Jasper Kyle Catapang et.al.|[2603.06599](http://arxiv.org/abs/2603.06599)||\n",
+    "2603.10476": "|**2026-03-11**|**Learning to Negotiate: Multi-Agent Deliberation for Collective Value Alignment in LLMs**|Panatchakorn Anantaprayoon et.al.|[2603.10476](http://arxiv.org/abs/2603.10476)||\n"
   }
 }
