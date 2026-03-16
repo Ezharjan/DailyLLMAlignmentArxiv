@@ -87,7 +87,10 @@
     "2603.07084": "|**2026-03-07**|**Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking in RLVR**|Muhammad Khalifa et.al.|[2603.07084](http://arxiv.org/abs/2603.07084)||\n",
     "2603.06797": "|**2026-03-06**|**Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment**|Hsiang Hsu et.al.|[2603.06797](http://arxiv.org/abs/2603.06797)||\n",
     "2603.10279": "|**2026-03-10**|**Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF**|Keertana Chidambaram et.al.|[2603.10279](http://arxiv.org/abs/2603.10279)||\n",
-    "2603.12246": "|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)||\n"
+    "2603.12246": "|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)||\n",
+    "2603.13224": "|**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)||\n",
+    "2603.13045": "|**2026-03-13**|**Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation**|Yifeng Liu et.al.|[2603.13045](http://arxiv.org/abs/2603.13045)||\n",
+    "2603.12826": "|**2026-03-13**|**Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design**|Xu Guo et.al.|[2603.12826](http://arxiv.org/abs/2603.12826)||\n"
   },
   "AI Alignment Techniques": {
     "2602.19416": "|**2026-02-23**|**IR$^3$: Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking**|Mohammad Beigi et.al.|[2602.19416](http://arxiv.org/abs/2602.19416)||\n",
@@ -182,8 +185,11 @@
     "2603.11667": "|**2026-03-12**|**A technology-oriented mapping of the language and translation industry: Analysing stakeholder values and their potential implication for translation pedagogy**|María Isabel Rivas Ginel et.al.|[2603.11667](http://arxiv.org/abs/2603.11667)||\n",
     "2603.11388": "|**2026-03-12**|**Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment**|Zhiyu Xue et.al.|[2603.11388](http://arxiv.org/abs/2603.11388)||\n",
     "2603.11331": "|**2026-03-11**|**Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover**|Indranil Halder et.al.|[2603.11331](http://arxiv.org/abs/2603.11331)||\n",
-    "2603.11277": "|**2026-03-11**|**COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics**|Jean-Sébastien et.al.|[2603.11277](http://arxiv.org/abs/2603.11277)||\n",
-    "2603.11126": "|**2026-03-11**|**Enhancing Value Alignment of LLMs with Multi-agent system and Combinatorial Fusion**|Yuanhong Wu et.al.|[2603.11126](http://arxiv.org/abs/2603.11126)||\n"
+    "2603.11277": "|**2026-03-13**|**COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics**|Jean-Sébastien Dessureault et.al.|[2603.11277](http://arxiv.org/abs/2603.11277)||\n",
+    "2603.11126": "|**2026-03-11**|**Enhancing Value Alignment of LLMs with Multi-agent system and Combinatorial Fusion**|Yuanhong Wu et.al.|[2603.11126](http://arxiv.org/abs/2603.11126)||\n",
+    "2603.12875": "|**2026-03-13**|**Test-time RL alignment exposes task familiarity artifacts in LLM benchmarks**|Kun Wang et.al.|[2603.12875](http://arxiv.org/abs/2603.12875)||\n",
+    "2603.12681": "|**2026-03-13**|**Colluding LoRA: A Composite Attack on LLM Safety Alignment**|Sihao Ding et.al.|[2603.12681](http://arxiv.org/abs/2603.12681)||\n",
+    "2603.12521": "|**2026-03-12**|**Applying Value Sensitive Design to Location-Based Services: Designing for Shared Spaces and Local Conditions**|Hiruni Kegalle et.al.|[2603.12521](http://arxiv.org/abs/2603.12521)||\n"
   },
   "Unsupervised Elicitation": {
     "2601.17728": "|**2026-01-25**|**Unsupervised Elicitation of Moral Values from Language Models**|Meysam Alizadeh et.al.|[2601.17728](http://arxiv.org/abs/2601.17728)||\n",
@@ -304,7 +310,10 @@
     "2603.12155": "|**2026-03-12**|**GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows**|Zexuan Yan et.al.|[2603.12155](http://arxiv.org/abs/2603.12155)||\n",
     "2603.11984": "|**2026-03-12**|**Ada3Drift: Adaptive Training-Time Drifting for One-Step 3D Visuomotor Robotic Manipulation**|Chongyang Xu et.al.|[2603.11984](http://arxiv.org/abs/2603.11984)||\n",
     "2603.11103": "|**2026-03-11**|**Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining**|Zhiyuan Zeng et.al.|[2603.11103](http://arxiv.org/abs/2603.11103)||\n",
-    "2603.11068": "|**2026-03-10**|**From Phase Prediction to Phase Design: A ReAct Agent Framework for High-Entropy Alloy Discovery**|Iman Peivaste et.al.|[2603.11068](http://arxiv.org/abs/2603.11068)||\n"
+    "2603.11068": "|**2026-03-10**|**From Phase Prediction to Phase Design: A ReAct Agent Framework for High-Entropy Alloy Discovery**|Iman Peivaste et.al.|[2603.11068](http://arxiv.org/abs/2603.11068)||\n",
+    "2603.12698": "|**2026-03-13**|**EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning**|Chi Ruan et.al.|[2603.12698](http://arxiv.org/abs/2603.12698)||\n",
+    "2603.12649": "|**2026-03-13**|**Autonomous Integration and Improvement of Robotic Assembly using Skill Graph Representations**|Peiqi Yu et.al.|[2603.12649](http://arxiv.org/abs/2603.12649)||\n",
+    "2603.12508": "|**2026-03-12**|**ELLA: Generative AI-Powered Social Robots for Early Language Development at Home**|Victor Nikhil Antony et.al.|[2603.12508](http://arxiv.org/abs/2603.12508)||\n"
   },
   "VLM Alignment": {
     "2602.14889": "|**2026-02-16**|**Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment**|Mounvik K et.al.|[2602.14889](http://arxiv.org/abs/2602.14889)||\n",
@@ -385,7 +394,9 @@
     "2603.08761": "|**2026-03-08**|**On the Formal Limits of Alignment Verification**|Ayushi Agarwal et.al.|[2603.08761](http://arxiv.org/abs/2603.08761)||\n",
     "2603.08760": "|**2026-03-08**|**Clear, Compelling Arguments: Rethinking the Foundations of Frontier AI Safety Cases**|Shaun Feakins et.al.|[2603.08760](http://arxiv.org/abs/2603.08760)||\n",
     "2603.10068": "|**2026-03-10**|**ADVERSA: Measuring Multi-Turn Guardrail Degradation and Judge Reliability in Large Language Models**|Harry Owiredu-Ashley et.al.|[2603.10068](http://arxiv.org/abs/2603.10068)||\n",
-    "2603.12023": "|**2026-03-12**|**Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems**|Sarbartha Banerjee et.al.|[2603.12023](http://arxiv.org/abs/2603.12023)||\n"
+    "2603.12023": "|**2026-03-12**|**Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems**|Sarbartha Banerjee et.al.|[2603.12023](http://arxiv.org/abs/2603.12023)||\n",
+    "2603.13038": "|**2026-03-13**|**Interpretable Semantic Gradients in SSD: A PCA Sweep Approach and a Case Study on AI Discourse**|Hubert Plisiecki et.al.|[2603.13038](http://arxiv.org/abs/2603.13038)||\n",
+    "2603.12681": "|**2026-03-13**|**Colluding LoRA: A Composite Attack on LLM Safety Alignment**|Sihao Ding et.al.|[2603.12681](http://arxiv.org/abs/2603.12681)||\n"
   },
   "Adversarial Attacks on Alignment": {
     "2602.20156": "|**2026-02-25**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)||\n",
@@ -434,8 +445,10 @@
     "2603.11875": "|**2026-03-12**|**The Mirror Design Pattern: Strict Data Geometry over Model Scale for Prompt Injection Detection**|J Alex Corll et.al.|[2603.11875](http://arxiv.org/abs/2603.11875)||\n",
     "2603.11853": "|**2026-03-12**|**OpenClaw PRISM: A Zero-Fork, Defense-in-Depth Runtime Security Layer for Tool-Augmented LLM Agents**|Frank Li et.al.|[2603.11853](http://arxiv.org/abs/2603.11853)||\n",
     "2603.11619": "|**2026-03-12**|**Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats**|Xinhao Deng et.al.|[2603.11619](http://arxiv.org/abs/2603.11619)||\n",
-    "2603.11460": "|**2026-03-12**|**Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning**|Seung hee Choi et.al.|[2603.11460](http://arxiv.org/abs/2603.11460)||\n",
-    "2603.11331": "|**2026-03-11**|**Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover**|Indranil Halder et.al.|[2603.11331](http://arxiv.org/abs/2603.11331)||\n"
+    "2603.11460": "|**2026-03-13**|**Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning**|Seung hee Choi et.al.|[2603.11460](http://arxiv.org/abs/2603.11460)||\n",
+    "2603.11331": "|**2026-03-11**|**Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover**|Indranil Halder et.al.|[2603.11331](http://arxiv.org/abs/2603.11331)||\n",
+    "2603.13026": "|**2026-03-13**|**PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses**|Chenlong Yin et.al.|[2603.13026](http://arxiv.org/abs/2603.13026)||\n",
+    "2603.12644": "|**2026-03-13**|**Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw**|Zonghao Ying et.al.|[2603.12644](http://arxiv.org/abs/2603.12644)||\n"
   },
   "Scalable Oversight": {
     "2602.20014": "|**2026-02-23**|**Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence**|Olga Viberg et.al.|[2602.20014](http://arxiv.org/abs/2602.20014)||\n",
@@ -505,6 +518,8 @@
     "2603.11910": "|**2026-03-12**|**Quantum synchronization and chimera states in a programmable quantum many-body system**|Kazuya Shinjo et.al.|[2603.11910](http://arxiv.org/abs/2603.11910)||\n",
     "2603.11776": "|**2026-03-12**|**Phase Separation in Heritage Objects Made of Plasticised PVC: the Case of Joseph Beuys Multiples**|Marwa Saad et.al.|[2603.11776](http://arxiv.org/abs/2603.11776)||\n",
     "2603.11675": "|**2026-03-12**|**PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On**|Haohua Chen et.al.|[2603.11675](http://arxiv.org/abs/2603.11675)||\n",
-    "2603.11143": "|**2026-03-11**|**Martian concretion sizes predicted from two independently constrained inputs: atmospheric dust grain size and obliquity-forced wetting duration**|Samuel Cody et.al.|[2603.11143](http://arxiv.org/abs/2603.11143)||\n"
+    "2603.11143": "|**2026-03-13**|**Martian concretion sizes predicted from two independently constrained inputs: atmospheric dust grain size and obliquity-forced wetting duration**|Samuel Cody et.al.|[2603.11143](http://arxiv.org/abs/2603.11143)||\n",
+    "2603.12971": "|**2026-03-13**|**Generative Horcrux: Designing AI Carriers for Afterlife Selves**|Zhen-Chi Lai et.al.|[2603.12971](http://arxiv.org/abs/2603.12971)||\n",
+    "2603.12615": "|**2026-03-13**|**Literary Narrative as Moral Probe : A Cross-System Framework for Evaluating AI Ethical Reasoning and Refusal Behavior**|David C. Flynn et.al.|[2603.12615](http://arxiv.org/abs/2603.12615)||\n"
   }
 }
