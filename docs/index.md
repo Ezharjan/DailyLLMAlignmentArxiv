@@ -35,6 +35,7 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-15**|**Bridging the Gap in the Responsible AI Divides**|Bálint Gyevnár et.al.|[2603.14495](http://arxiv.org/abs/2603.14495)||
 |**2026-03-03**|**Engineering a Governance-Aware AI Sandbox: Design, Implementation, and Lessons Learned**|Muhammad Waseem et.al.|[2603.03394](http://arxiv.org/abs/2603.03394)||
 |**2026-01-11**|**Toward Resource-Efficient Collaboration of Large AI Models in Mobile Edge Networks**|Peichun Li et.al.|[2602.13206](http://arxiv.org/abs/2602.13206)||
 |**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)||
@@ -77,6 +78,8 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Consequentialist Objectives and Catastrophe**|Henrik Marklund et.al.|[2603.15017](http://arxiv.org/abs/2603.15017)||
+|**2026-03-14**|**Diffusion Reinforcement Learning via Centered Reward Distillation**|Yuanzhi Zhu et.al.|[2603.14128](http://arxiv.org/abs/2603.14128)||
 |**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)||
 |**2026-03-13**|**Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation**|Yifeng Liu et.al.|[2603.13045](http://arxiv.org/abs/2603.13045)||
 |**2026-03-13**|**Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design**|Xu Guo et.al.|[2603.12826](http://arxiv.org/abs/2603.12826)||
@@ -117,6 +120,15 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph**|Zhenheng Tang et.al.|[2603.15527](http://arxiv.org/abs/2603.15527)||
+|**2026-03-16**|**SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration**|Yu Pan et.al.|[2603.15397](http://arxiv.org/abs/2603.15397)||
+|**2026-03-16**|**FuXiWeather2: Learning accurate atmospheric state estimation for operational global weather forecasting**|Xiaoze Xu et.al.|[2603.15358](http://arxiv.org/abs/2603.15358)||
+|**2026-03-16**|**Directional Embedding Smoothing for Robust Vision Language Models**|Ye Wang et.al.|[2603.15259](http://arxiv.org/abs/2603.15259)||
+|**2026-03-16**|**The Hrunting of AI: Where and How to Improve English Dialectal Fairness**|Wei Li et.al.|[2603.15187](http://arxiv.org/abs/2603.15187)||
+|**2026-03-16**|**ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation**|Yuzhe Shang et.al.|[2603.14903](http://arxiv.org/abs/2603.14903)||
+|**2026-03-15**|**$PA^3$: $\textbf{P}$olicy-$\textbf{A}$ware $\textbf{A}$gent $\textbf{A}$ lignment through Chain-of-Thought**|Shubhashis Roy Dipta et.al.|[2603.14602](http://arxiv.org/abs/2603.14602)||
+|**2026-03-15**|**Questionnaire Responses Do not Capture the Safety of AI Agents**|Max Hellrigel-Holderbaum et.al.|[2603.14417](http://arxiv.org/abs/2603.14417)||
+|**2026-03-15**|**Using large language models for sensitivity analysis in causal inference: cases studies on Cornfield inequality and E-value**|Qingyan Xiang et.al.|[2603.14273](http://arxiv.org/abs/2603.14273)||
 |**2026-03-13**|**Test-time RL alignment exposes task familiarity artifacts in LLM benchmarks**|Kun Wang et.al.|[2603.12875](http://arxiv.org/abs/2603.12875)||
 |**2026-03-13**|**Colluding LoRA: A Composite Attack on LLM Safety Alignment**|Sihao Ding et.al.|[2603.12681](http://arxiv.org/abs/2603.12681)||
 |**2026-03-12**|**Applying Value Sensitive Design to Location-Based Services: Designing for Shared Spaces and Local Conditions**|Hiruni Kegalle et.al.|[2603.12521](http://arxiv.org/abs/2603.12521)||
@@ -242,6 +254,18 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)||
+|**2026-03-16**|**Multi-Plane Spatially Resolved Phase Structuring Using Optical Communication Modes**|Vinicius S. de Angelis et.al.|[2603.15222](http://arxiv.org/abs/2603.15222)||
+|**2026-03-16**|**Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**|Runze Lin et.al.|[2603.15180](http://arxiv.org/abs/2603.15180)||
+|**2026-03-16**|**A Score Filter Enhanced Data Assimilation Framework for Data-Driven Dynamical Systems**|Jingqiao Tang et.al.|[2603.14863](http://arxiv.org/abs/2603.14863)||
+|**2026-03-15**|**Parameter-Efficient Quality Estimation via Frozen Recursive Models**|Umar Abubacar et.al.|[2603.14593](http://arxiv.org/abs/2603.14593)||
+|**2026-03-15**|**Refining 3D Medical Segmentation with Verbal Instruction**|Kangxian Xie et.al.|[2603.14496](http://arxiv.org/abs/2603.14496)||
+|**2026-03-15**|**Joint Segmentation and Grading with Iterative Optimization for Multimodal Glaucoma Diagnosis**|Zhiwei Wang et.al.|[2603.14188](http://arxiv.org/abs/2603.14188)||
+|**2026-03-14**|**Amortizing Trajectory Diffusion with Keyed Drift Fields**|Gokul Puthumanaillam et.al.|[2603.14056](http://arxiv.org/abs/2603.14056)||
+|**2026-03-14**|**LegacyTranslate: LLM-based Multi-Agent Method for Legacy Code Translation**|Zahra Moti et.al.|[2603.14054](http://arxiv.org/abs/2603.14054)||
+|**2026-03-14**|**NLOS-Aided Joint OTA Synchronization and Off-Grid Imaging for Distributed MIMO Systems**|Xin Tong et.al.|[2603.13981](http://arxiv.org/abs/2603.13981)||
+|**2026-03-14**|**Discriminative Flow Matching Via Local Generative Predictors**|Om Govind Jha et.al.|[2603.13928](http://arxiv.org/abs/2603.13928)||
+|**2026-03-13**|**Scalable Classification of Course Information Sheets Using Large Language Models: A Reusable Institutional Method for Academic Quality Assurance**|Brecht Verbeken et.al.|[2603.13562](http://arxiv.org/abs/2603.13562)||
 |**2026-03-13**|**EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning**|Chi Ruan et.al.|[2603.12698](http://arxiv.org/abs/2603.12698)||
 |**2026-03-13**|**Autonomous Integration and Improvement of Robotic Assembly using Skill Graph Representations**|Peiqi Yu et.al.|[2603.12649](http://arxiv.org/abs/2603.12649)||
 |**2026-03-12**|**ELLA: Generative AI-Powered Social Robots for Early Language Development at Home**|Victor Nikhil Antony et.al.|[2603.12508](http://arxiv.org/abs/2603.12508)||
@@ -386,6 +410,12 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration**|Yu Pan et.al.|[2603.15397](http://arxiv.org/abs/2603.15397)||
+|**2026-03-16**|**Why the Valuable Capabilities of LLMs Are Precisely the Unexplainable Ones**|Quan Cheng et.al.|[2603.15238](http://arxiv.org/abs/2603.15238)||
+|**2026-03-15**|**Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences**|Pandurang Mopgar et.al.|[2603.14531](http://arxiv.org/abs/2603.14531)||
+|**2026-03-15**|**Bridging the Gap in the Responsible AI Divides**|Bálint Gyevnár et.al.|[2603.14495](http://arxiv.org/abs/2603.14495)||
+|**2026-03-15**|**LoCAtion: Long-time Collaborative Attention Framework for High Dynamic Range Video Reconstruction**|Qianyu Zhang et.al.|[2603.14377](http://arxiv.org/abs/2603.14377)||
+|**2026-03-14**|**OmniCompliance-100K: A Multi-Domain, Rule-Grounded, Real-World Safety Compliance Dataset**|Wenbin Hu et.al.|[2603.13933](http://arxiv.org/abs/2603.13933)||
 |**2026-03-13**|**Interpretable Semantic Gradients in SSD: A PCA Sweep Approach and a Case Study on AI Discourse**|Hubert Plisiecki et.al.|[2603.13038](http://arxiv.org/abs/2603.13038)||
 |**2026-03-13**|**Colluding LoRA: A Composite Attack on LLM Safety Alignment**|Sihao Ding et.al.|[2603.12681](http://arxiv.org/abs/2603.12681)||
 |**2026-03-12**|**Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems**|Sarbartha Banerjee et.al.|[2603.12023](http://arxiv.org/abs/2603.12023)||
@@ -438,6 +468,9 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Amplification Effects in Test-Time Reinforcement Learning: Safety and Reasoning Vulnerabilities**|Vanshaj Khattar et.al.|[2603.15417](http://arxiv.org/abs/2603.15417)||
+|**2026-03-14**|**Sirens' Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**|Zijian Ling et.al.|[2603.13847](http://arxiv.org/abs/2603.13847)||
+|**2026-03-13**|**Agent Privilege Separation in OpenClaw: A Structural Defense Against Prompt Injection**|Darren Cheng et.al.|[2603.13424](http://arxiv.org/abs/2603.13424)||
 |**2026-03-13**|**PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses**|Chenlong Yin et.al.|[2603.13026](http://arxiv.org/abs/2603.13026)||
 |**2026-03-13**|**Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw**|Zonghao Ying et.al.|[2603.12644](http://arxiv.org/abs/2603.12644)||
 |**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|Ninghui Li et.al.|[2603.12230](http://arxiv.org/abs/2603.12230)||
@@ -493,6 +526,8 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-15**|**ISTQB Certifications Under the Lens: Their Contributions to the Software-Testing Profession; and AI-assisted Synthesis of Practitioners' Endorsements and Criticisms**|Vehid Geruslu et.al.|[2603.14572](http://arxiv.org/abs/2603.14572)||
+|**2026-03-14**|**Six Interventions for the Responsible and Ethical Implementation of Medical AI Agents**|Tom Bisson et.al.|[2603.13743](http://arxiv.org/abs/2603.13743)||
 |**2026-03-12**|**AI Knows What's Wrong But Cannot Fix It: Helicoid Dynamics in Frontier LLMs Under High-Stakes Decisions**|Alejandro R Jadad et.al.|[2603.11559](http://arxiv.org/abs/2603.11559)||
 |**2026-03-11**|**Understanding User Perceptions of Human-centered AI-Enhanced Support Group Formation in Online Healthcare Communities**|Pronob Kumar Barman et.al.|[2603.11237](http://arxiv.org/abs/2603.11237)||
 |**2026-03-09**|**Can AI Agents Generate Microservices? How Far are We?**|Bassam Adnan et.al.|[2603.09004](http://arxiv.org/abs/2603.09004)||
@@ -534,6 +569,13 @@ last_updated: 2026.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**CCTU: A Benchmark for Tool Use under Complex Constraints**|Junjie Ye et.al.|[2603.15309](http://arxiv.org/abs/2603.15309)||
+|**2026-03-15**|**Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences**|Pandurang Mopgar et.al.|[2603.14531](http://arxiv.org/abs/2603.14531)||
+|**2026-03-15**|**Bridging the Gap in the Responsible AI Divides**|Bálint Gyevnár et.al.|[2603.14495](http://arxiv.org/abs/2603.14495)||
+|**2026-03-15**|**Yamabe problems for formally self-adjoint, conformally covariant, polydifferential operators**|Jeffrey S. Case et.al.|[2603.14340](http://arxiv.org/abs/2603.14340)||
+|**2026-03-15**|**Non-Resonant Boundary Time Crystals from Quantum Synchronization Breakdown**|Jun Wang et.al.|[2603.14311](http://arxiv.org/abs/2603.14311)||
+|**2026-03-14**|**MeTok: An Efficient Meteorological Tokenization with Hyper-Aligned Group Learning for Precipitation Nowcasting**|Qizhao Jin et.al.|[2603.13752](http://arxiv.org/abs/2603.13752)||
+|**2026-03-14**|**Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia**|Sandy Hardian Susanto Herho et.al.|[2603.13715](http://arxiv.org/abs/2603.13715)||
 |**2026-03-13**|**Generative Horcrux: Designing AI Carriers for Afterlife Selves**|Zhen-Chi Lai et.al.|[2603.12971](http://arxiv.org/abs/2603.12971)||
 |**2026-03-13**|**Literary Narrative as Moral Probe : A Cross-System Framework for Evaluating AI Ethical Reasoning and Refusal Behavior**|David C. Flynn et.al.|[2603.12615](http://arxiv.org/abs/2603.12615)||
 |**2026-03-12**|**Quantum synchronization and chimera states in a programmable quantum many-body system**|Kazuya Shinjo et.al.|[2603.11910](http://arxiv.org/abs/2603.11910)||
