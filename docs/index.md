@@ -57,9 +57,10 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Understanding Moral Reasoning Trajectories in Large Language Models: Toward Probing-Based Explainability**|Fan Huang et.al.|[2603.16017](http://arxiv.org/abs/2603.16017)||
 |**2026-02-09**|**Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment**|Banseok Lee et.al.|[2603.00042](http://arxiv.org/abs/2603.00042)||
-|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)||
-|**2026-02-18**|**Who can we trust? LLM-as-a-jury for Comparative Assessment**|Mengjie Qian et.al.|[2602.16610](http://arxiv.org/abs/2602.16610)||
+|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)|**[link](https://github.com/Yuyan-B/MLC)**|
+|**2026-02-18**|**Who can we trust? LLM-as-a-jury for Comparative Assessment**|Mengjie Qian et.al.|[2602.16610](http://arxiv.org/abs/2602.16610)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-02-12**|**When Agents Disagree With Themselves: Measuring Behavioral Consistency in LLM-Based Agents**|Aman Mehta et.al.|[2602.11619](http://arxiv.org/abs/2602.11619)||
 |**2026-02-08**|**Online Domain-aware LLM Decoding for Continual Domain Evolution**|Mohammad Abu-Shaira et.al.|[2602.08088](http://arxiv.org/abs/2602.08088)||
 |**2026-01-31**|**Rethinking Hallucinations: Correctness, Consistency, and Prompt Multiplicity**|Prakhar Ganesh et.al.|[2602.00723](http://arxiv.org/abs/2602.00723)||
@@ -78,6 +79,8 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**When and Why Does Unsupervised RL Succeed in Mathematical Reasoning? A Manifold Envelopment Perspective**|Zelin Zhang et.al.|[2603.16578](http://arxiv.org/abs/2603.16578)||
+|**2026-03-17**|**From the Inside Out: Progressive Distribution Refinement for Confidence Calibration**|Xizhong Yang et.al.|[2603.16500](http://arxiv.org/abs/2603.16500)||
 |**2026-03-16**|**Consequentialist Objectives and Catastrophe**|Henrik Marklund et.al.|[2603.15017](http://arxiv.org/abs/2603.15017)||
 |**2026-03-14**|**Diffusion Reinforcement Learning via Centered Reward Distillation**|Yuanzhi Zhu et.al.|[2603.14128](http://arxiv.org/abs/2603.14128)||
 |**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)||
@@ -120,12 +123,19 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising**|Han Lin et.al.|[2603.16792](http://arxiv.org/abs/2603.16792)||
+|**2026-03-17**|**Visual Distraction Undermines Moral Reasoning in Vision-Language Models**|Xinyi Yang et.al.|[2603.16445](http://arxiv.org/abs/2603.16445)||
+|**2026-03-17**|**Via Negativa for AI Alignment: Why Negative Constraints Are Structurally Superior to Positive Preferences**|Quan Cheng et.al.|[2603.16417](http://arxiv.org/abs/2603.16417)||
+|**2026-03-17**|**MOSAIC: Composable Safety Alignment with Modular Control Tokens**|Jingyu Peng et.al.|[2603.16210](http://arxiv.org/abs/2603.16210)||
+|**2026-03-17**|**SIA: A Synthesize-Inject-Align Framework for Knowledge-Grounded and Secure E-commerce Search LLMs with Industrial Deployment**|Zhouwei Zhai et.al.|[2603.16137](http://arxiv.org/abs/2603.16137)||
+|**2026-03-16**|**MAC: Multi-Agent Constitution Learning**|Rushil Thareja et.al.|[2603.15968](http://arxiv.org/abs/2603.15968)||
 |**2026-03-16**|**Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph**|Zhenheng Tang et.al.|[2603.15527](http://arxiv.org/abs/2603.15527)||
 |**2026-03-16**|**SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration**|Yu Pan et.al.|[2603.15397](http://arxiv.org/abs/2603.15397)||
 |**2026-03-16**|**FuXiWeather2: Learning accurate atmospheric state estimation for operational global weather forecasting**|Xiaoze Xu et.al.|[2603.15358](http://arxiv.org/abs/2603.15358)||
 |**2026-03-16**|**Directional Embedding Smoothing for Robust Vision Language Models**|Ye Wang et.al.|[2603.15259](http://arxiv.org/abs/2603.15259)||
 |**2026-03-16**|**The Hrunting of AI: Where and How to Improve English Dialectal Fairness**|Wei Li et.al.|[2603.15187](http://arxiv.org/abs/2603.15187)||
 |**2026-03-16**|**ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation**|Yuzhe Shang et.al.|[2603.14903](http://arxiv.org/abs/2603.14903)||
+|**2026-03-17**|**LUMINA: A Multi-Vendor Mammography Benchmark with Energy Harmonization Protocol**|Hongyi Pan et.al.|[2603.14644](http://arxiv.org/abs/2603.14644)||
 |**2026-03-15**|**$PA^3$: $\textbf{P}$olicy-$\textbf{A}$ware $\textbf{A}$gent $\textbf{A}$ lignment through Chain-of-Thought**|Shubhashis Roy Dipta et.al.|[2603.14602](http://arxiv.org/abs/2603.14602)||
 |**2026-03-15**|**Questionnaire Responses Do not Capture the Safety of AI Agents**|Max Hellrigel-Holderbaum et.al.|[2603.14417](http://arxiv.org/abs/2603.14417)||
 |**2026-03-15**|**Using large language models for sensitivity analysis in causal inference: cases studies on Cornfield inequality and E-value**|Qingyan Xiang et.al.|[2603.14273](http://arxiv.org/abs/2603.14273)||
@@ -254,6 +264,9 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning**|Yanyu Qian et.al.|[2603.16459](http://arxiv.org/abs/2603.16459)||
+|**2026-03-16**|**Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents**|Jacopo Teneggi et.al.|[2603.15952](http://arxiv.org/abs/2603.15952)||
+|**2026-03-14**|**Spectral Edge Dynamics of Training Trajectories: Signal--Noise Geometry Across Scales**|Yongzhong Xu et.al.|[2603.15678](http://arxiv.org/abs/2603.15678)||
 |**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)||
 |**2026-03-16**|**Multi-Plane Spatially Resolved Phase Structuring Using Optical Communication Modes**|Vinicius S. de Angelis et.al.|[2603.15222](http://arxiv.org/abs/2603.15222)||
 |**2026-03-16**|**Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**|Runze Lin et.al.|[2603.15180](http://arxiv.org/abs/2603.15180)||
@@ -373,6 +386,8 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Evo-Retriever: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval**|Weiqing Li et.al.|[2603.16455](http://arxiv.org/abs/2603.16455)||
+|**2026-03-17**|**Semantic One-Dimensional Tokenizer for Image Reconstruction and Generation**|Yunpeng Qu et.al.|[2603.16373](http://arxiv.org/abs/2603.16373)||
 |**2026-03-12**|**Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans**|Sizhong Qin et.al.|[2603.11640](http://arxiv.org/abs/2603.11640)||
 |**2026-03-10**|**GeoAlignCLIP: Enhancing Fine-Grained Vision-Language Alignment in Remote Sensing via Multi-Granular Consistency Learning**|Xiao Yang et.al.|[2603.09566](http://arxiv.org/abs/2603.09566)||
 |**2026-03-09**|**Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images**|Qishun Yang et.al.|[2603.08486](http://arxiv.org/abs/2603.08486)||
@@ -410,8 +425,10 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Why Avoid Generative Legal AI Systems? Hallucination, Overreliance, and their Impact on Explainability**|Gizem Gültekin Varkonyi et.al.|[2603.15937](http://arxiv.org/abs/2603.15937)||
+|**2026-03-14**|**IdentityGuard: Context-Aware Restriction and Provenance for Personalized Synthesis**|Lingyun Zhang et.al.|[2603.15679](http://arxiv.org/abs/2603.15679)||
 |**2026-03-16**|**SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration**|Yu Pan et.al.|[2603.15397](http://arxiv.org/abs/2603.15397)||
-|**2026-03-16**|**Why the Valuable Capabilities of LLMs Are Precisely the Unexplainable Ones**|Quan Cheng et.al.|[2603.15238](http://arxiv.org/abs/2603.15238)||
+|**2026-03-17**|**Why the Valuable Capabilities of LLMs Are Precisely the Unexplainable Ones**|Quan Cheng et.al.|[2603.15238](http://arxiv.org/abs/2603.15238)||
 |**2026-03-15**|**Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences**|Pandurang Mopgar et.al.|[2603.14531](http://arxiv.org/abs/2603.14531)||
 |**2026-03-15**|**Bridging the Gap in the Responsible AI Divides**|Bálint Gyevnár et.al.|[2603.14495](http://arxiv.org/abs/2603.14495)||
 |**2026-03-15**|**LoCAtion: Long-time Collaborative Attention Framework for High Dynamic Range Video Reconstruction**|Qianyu Zhang et.al.|[2603.14377](http://arxiv.org/abs/2603.14377)||
@@ -468,10 +485,12 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**CoMAI: A Collaborative Multi-Agent Framework for Robust and Equitable Interview Evaluation**|Gengxin Sun et.al.|[2603.16215](http://arxiv.org/abs/2603.16215)||
+|**2026-03-16**|**How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition**|Mateusz Dziemian et.al.|[2603.15714](http://arxiv.org/abs/2603.15714)||
 |**2026-03-16**|**Amplification Effects in Test-Time Reinforcement Learning: Safety and Reasoning Vulnerabilities**|Vanshaj Khattar et.al.|[2603.15417](http://arxiv.org/abs/2603.15417)||
 |**2026-03-14**|**Sirens' Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**|Zijian Ling et.al.|[2603.13847](http://arxiv.org/abs/2603.13847)||
 |**2026-03-13**|**Agent Privilege Separation in OpenClaw: A Structural Defense Against Prompt Injection**|Darren Cheng et.al.|[2603.13424](http://arxiv.org/abs/2603.13424)||
-|**2026-03-13**|**PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses**|Chenlong Yin et.al.|[2603.13026](http://arxiv.org/abs/2603.13026)||
+|**2026-03-13**|**PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses**|Chenlong Yin et.al.|[2603.13026](http://arxiv.org/abs/2603.13026)|**[link](https://github.com/albert-y1n/PISmith)**|
 |**2026-03-13**|**Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw**|Zonghao Ying et.al.|[2603.12644](http://arxiv.org/abs/2603.12644)||
 |**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|Ninghui Li et.al.|[2603.12230](http://arxiv.org/abs/2603.12230)||
 |**2026-03-12**|**The Mirror Design Pattern: Strict Data Geometry over Model Scale for Prompt Injection Detection**|J Alex Corll et.al.|[2603.11875](http://arxiv.org/abs/2603.11875)||
@@ -526,6 +545,8 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**A Context Alignment Pre-processor for Enhancing the Coherence of Human-LLM Dialog**|Ding Wei et.al.|[2603.16052](http://arxiv.org/abs/2603.16052)||
+|**2026-03-16**|**Human-AI Synergy in Agentic Code Review**|Suzhen Zhong et.al.|[2603.15911](http://arxiv.org/abs/2603.15911)||
 |**2026-03-15**|**ISTQB Certifications Under the Lens: Their Contributions to the Software-Testing Profession; and AI-assisted Synthesis of Practitioners' Endorsements and Criticisms**|Vehid Geruslu et.al.|[2603.14572](http://arxiv.org/abs/2603.14572)||
 |**2026-03-14**|**Six Interventions for the Responsible and Ethical Implementation of Medical AI Agents**|Tom Bisson et.al.|[2603.13743](http://arxiv.org/abs/2603.13743)||
 |**2026-03-12**|**AI Knows What's Wrong But Cannot Fix It: Helicoid Dynamics in Frontier LLMs Under High-Stakes Decisions**|Alejandro R Jadad et.al.|[2603.11559](http://arxiv.org/abs/2603.11559)||
@@ -569,6 +590,9 @@ last_updated: 2026.03.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**SympFormer: Accelerated attention blocks via Inertial Dynamics on Density Manifolds**|Viktor Stein et.al.|[2603.16535](http://arxiv.org/abs/2603.16535)||
+|**2026-03-17**|**Via Negativa for AI Alignment: Why Negative Constraints Are Structurally Superior to Positive Preferences**|Quan Cheng et.al.|[2603.16417](http://arxiv.org/abs/2603.16417)||
+|**2026-03-16**|**MAC: Multi-Agent Constitution Learning**|Rushil Thareja et.al.|[2603.15968](http://arxiv.org/abs/2603.15968)||
 |**2026-03-16**|**CCTU: A Benchmark for Tool Use under Complex Constraints**|Junjie Ye et.al.|[2603.15309](http://arxiv.org/abs/2603.15309)||
 |**2026-03-15**|**Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences**|Pandurang Mopgar et.al.|[2603.14531](http://arxiv.org/abs/2603.14531)||
 |**2026-03-15**|**Bridging the Gap in the Responsible AI Divides**|Bálint Gyevnár et.al.|[2603.14495](http://arxiv.org/abs/2603.14495)||
