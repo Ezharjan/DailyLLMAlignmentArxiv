@@ -295,7 +295,7 @@ last_updated: 2026.03.21
 |**2026-03-17**|**DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning**|Yanyu Qian et.al.|[2603.16459](http://arxiv.org/abs/2603.16459)||
 |**2026-03-16**|**Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents**|Jacopo Teneggi et.al.|[2603.15952](http://arxiv.org/abs/2603.15952)||
 |**2026-03-14**|**Spectral Edge Dynamics of Training Trajectories: Signal--Noise Geometry Across Scales**|Yongzhong Xu et.al.|[2603.15678](http://arxiv.org/abs/2603.15678)||
-|**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)||
+|**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)|**[link](https://github.com/wokaikaixinxin/O2-RT-DETR)**|
 |**2026-03-16**|**Multi-Plane Spatially Resolved Phase Structuring Using Optical Communication Modes**|Vinicius S. de Angelis et.al.|[2603.15222](http://arxiv.org/abs/2603.15222)||
 |**2026-03-16**|**Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**|Runze Lin et.al.|[2603.15180](http://arxiv.org/abs/2603.15180)||
 |**2026-03-16**|**A Score Filter Enhanced Data Assimilation Framework for Data-Driven Dynamical Systems**|Jingqiao Tang et.al.|[2603.14863](http://arxiv.org/abs/2603.14863)||
