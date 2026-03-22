@@ -38,7 +38,7 @@ last_updated: 2026.03.22
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-15**|**Bridging the Gap in the Responsible AI Divides**|Bálint Gyevnár et.al.|[2603.14495](http://arxiv.org/abs/2603.14495)||
 |**2026-03-03**|**Engineering a Governance-Aware AI Sandbox: Design, Implementation, and Lessons Learned**|Muhammad Waseem et.al.|[2603.03394](http://arxiv.org/abs/2603.03394)||
-|**2026-01-11**|**Toward Resource-Efficient Collaboration of Large AI Models in Mobile Edge Networks**|Peichun Li et.al.|[2602.13206](http://arxiv.org/abs/2602.13206)||
+|**2026-01-11**|**Toward Resource-Efficient Collaboration of Large AI Models in Mobile Edge Networks**|Peichun Li et.al.|[2602.13206](http://arxiv.org/abs/2602.13206)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)||
 |**2026-02-12**|**The Five Ws of Multi-Agent Communication: Who Talks to Whom, When, What, and Why -- A Survey from MARL to Emergent Language and LLMs**|Jingdi Chen et.al.|[2602.11583](http://arxiv.org/abs/2602.11583)||
 |**2026-01-30**|**Tri-LLM Cooperative Federated Zero-Shot Intrusion Detection with Semantic Disagreement and Trust-Aware Aggregation**|Saeid Jamshidi et.al.|[2602.00219](http://arxiv.org/abs/2602.00219)||
@@ -47,8 +47,8 @@ last_updated: 2026.03.22
 |**2026-01-20**|**Institutional AI: Governing LLM Collusion in Multi-Agent Cournot Markets via Public Governance Graphs**|Marcantonio Bracale Syrnikov et.al.|[2601.11369](http://arxiv.org/abs/2601.11369)||
 |**2026-01-14**|**Single-Round Clustered Federated Learning via Data Collaboration Analysis for Non-IID Data**|Sota Sugawara et.al.|[2601.09304](http://arxiv.org/abs/2601.09304)||
 |**2026-01-09**|**Toward Safe and Responsible AI Agents: A Three-Pillar Model for Transparency, Accountability, and Trustworthiness**|Edward C. Cheng et.al.|[2601.06223](http://arxiv.org/abs/2601.06223)||
-|**2026-01-08**|**Autonomous Agents on Blockchains: Standards, Execution Models, and Trust Boundaries**|Saad Alqithami et.al.|[2601.04583](http://arxiv.org/abs/2601.04583)||
-|**2026-01-07**|**O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL**|Yi Yao et.al.|[2601.03743](http://arxiv.org/abs/2601.03743)||
+|**2026-01-08**|**Autonomous Agents on Blockchains: Standards, Execution Models, and Trust Boundaries**|Saad Alqithami et.al.|[2601.04583](http://arxiv.org/abs/2601.04583)|**[link](https://github.com/alqithami/AgentsBChain)**|
+|**2026-01-07**|**O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL**|Yi Yao et.al.|[2601.03743](http://arxiv.org/abs/2601.03743)|**[link](https://github.com/OPPO-PersonalAI/O-Researcher)**|
 |**2026-01-04**|**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**|Jinwei Hu et.al.|[2601.01685](http://arxiv.org/abs/2601.01685)||
 |**2026-01-03**|**LLM Collusion**|Shengyu Cao et.al.|[2601.01279](http://arxiv.org/abs/2601.01279)||
 |**2025-12-16**|**Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning**|Leo Lu et.al.|[2512.20647](http://arxiv.org/abs/2512.20647)||
@@ -295,7 +295,7 @@ last_updated: 2026.03.22
 |**2026-03-17**|**DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning**|Yanyu Qian et.al.|[2603.16459](http://arxiv.org/abs/2603.16459)||
 |**2026-03-16**|**Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents**|Jacopo Teneggi et.al.|[2603.15952](http://arxiv.org/abs/2603.15952)||
 |**2026-03-14**|**Spectral Edge Dynamics of Training Trajectories: Signal--Noise Geometry Across Scales**|Yongzhong Xu et.al.|[2603.15678](http://arxiv.org/abs/2603.15678)||
-|**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)|**[link](https://github.com/wokaikaixinxin/O2-RT-DETR)**|
+|**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)||
 |**2026-03-16**|**Multi-Plane Spatially Resolved Phase Structuring Using Optical Communication Modes**|Vinicius S. de Angelis et.al.|[2603.15222](http://arxiv.org/abs/2603.15222)||
 |**2026-03-16**|**Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**|Runze Lin et.al.|[2603.15180](http://arxiv.org/abs/2603.15180)||
 |**2026-03-16**|**A Score Filter Enhanced Data Assimilation Framework for Data-Driven Dynamical Systems**|Jingqiao Tang et.al.|[2603.14863](http://arxiv.org/abs/2603.14863)||
