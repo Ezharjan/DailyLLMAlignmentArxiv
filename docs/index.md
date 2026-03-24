@@ -80,6 +80,8 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Reward Sharpness-Aware Fine-Tuning for Diffusion Models**|Kwanyoung Kim et.al.|[2603.21175](http://arxiv.org/abs/2603.21175)||
+|**2026-03-22**|**LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning**|Jianing Wang et.al.|[2603.21065](http://arxiv.org/abs/2603.21065)||
 |**2026-03-19**|**Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas**|Víctor Gallego et.al.|[2603.19453](http://arxiv.org/abs/2603.19453)||
 |**2026-03-19**|**SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits**|Edward Lin et.al.|[2603.19173](http://arxiv.org/abs/2603.19173)||
 |**2026-03-18**|**AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization**|Dailan He et.al.|[2603.17461](http://arxiv.org/abs/2603.17461)||
@@ -130,6 +132,12 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models**|Aryan Kasat et.al.|[2603.21854](http://arxiv.org/abs/2603.21854)||
+|**2026-03-23**|**Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models**|Rui Yang Tan et.al.|[2603.21697](http://arxiv.org/abs/2603.21697)||
+|**2026-03-22**|**Behavioural feasible set: Value alignment constraints on AI decision support**|Taejin Park et.al.|[2603.21435](http://arxiv.org/abs/2603.21435)||
+|**2026-03-21**|**Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models**|Xinyue Liu et.al.|[2603.20957](http://arxiv.org/abs/2603.20957)||
+|**2026-03-21**|**The Art of Midwifery in LLMs: Optimizing Role Personas for Large Language Models as Moral Assistants**|Yangyi Wu et.al.|[2603.20626](http://arxiv.org/abs/2603.20626)||
+|**2026-03-19**|**The Causal Impact of Tool Affordance on Safety Alignment in LLM Agents**|Shasha Yu et.al.|[2603.20320](http://arxiv.org/abs/2603.20320)||
 |**2026-03-20**|**Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models**|Wenjing Hong et.al.|[2603.20122](http://arxiv.org/abs/2603.20122)||
 |**2026-03-20**|**Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts**|John Turnbull et.al.|[2603.19994](http://arxiv.org/abs/2603.19994)||
 |**2026-03-19**|**MOSAIC: Multi-Objective Slice-Aware Iterative Curation for Alignment**|Yipu Dou et.al.|[2603.18637](http://arxiv.org/abs/2603.18637)||
@@ -288,6 +296,15 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement**|Junrong Guo et.al.|[2603.22187](http://arxiv.org/abs/2603.22187)||
+|**2026-03-23**|**P-Flow: Prompting Visual Effects Generation**|Rui Zhao et.al.|[2603.22091](http://arxiv.org/abs/2603.22091)||
+|**2026-03-23**|**GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction**|Ayesh Abu Lehyeh et.al.|[2603.21943](http://arxiv.org/abs/2603.21943)||
+|**2026-03-23**|**Optimizing Multi-Agent Weather Captioning via Text Gradient Descent: A Training-Free Approach with Consensus-Aware Gradient Fusion**|Shixu Liu et.al.|[2603.21673](http://arxiv.org/abs/2603.21673)||
+|**2026-03-22**|**Cerebra: Aligning Implicit Knowledge in Interactive SQL Authoring**|Yunfan Zhou et.al.|[2603.21363](http://arxiv.org/abs/2603.21363)||
+|**2026-03-22**|**AutoKernel: Autonomous GPU Kernel Optimization via Iterative Agent-Driven Search**|Jaber Jaber et.al.|[2603.21331](http://arxiv.org/abs/2603.21331)||
+|**2026-03-22**|**Parallel Adaptive Reweighting Importance Sampling (PARIS)**|Miaoxin Liu et.al.|[2603.21249](http://arxiv.org/abs/2603.21249)||
+|**2026-03-21**|**Large Neighborhood Search meets Iterative Neural Constraint Heuristics**|Yudong W. Xu et.al.|[2603.20801](http://arxiv.org/abs/2603.20801)||
+|**2026-03-21**|**Improving Diffusion Generalization with Weak-to-Strong Segmented Guidance**|Liangyu Yuan et.al.|[2603.20584](http://arxiv.org/abs/2603.20584)||
 |**2026-03-20**|**The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning**|Jiyu Lim et.al.|[2603.20164](http://arxiv.org/abs/2603.20164)||
 |**2026-03-20**|**Controllable Text-to-Motion Generation via Modular Body-Part Phase Control**|Minyue Dai et.al.|[2603.19795](http://arxiv.org/abs/2603.19795)||
 |**2026-03-20**|**Helix: A Dual-Helix Co-Evolutionary Multi-Agent System for Prompt Optimization and Question Reformulation**|Kewen Zhu et.al.|[2603.19732](http://arxiv.org/abs/2603.19732)||
@@ -422,6 +439,10 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Towards Multimodal Time Series Anomaly Detection with Semantic Alignment and Condensed Interaction**|Shiyan Hu et.al.|[2603.21612](http://arxiv.org/abs/2603.21612)||
+|**2026-03-23**|**DATASHI: A Parallel English-Tashlhiyt Corpus for Orthography Normalization and Low-Resource Language Processing**|Nasser-Eddine Monir et.al.|[2603.21571](http://arxiv.org/abs/2603.21571)||
+|**2026-03-22**|**Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos**|Masoumeh Sharafi et.al.|[2603.21309](http://arxiv.org/abs/2603.21309)||
+|**2026-03-20**|**DCG-Net: Dual Cross-Attention with Concept-Value Graph Reasoning for Interpretable Medical Diagnosis**|Getamesay Dagnaw et.al.|[2603.20325](http://arxiv.org/abs/2603.20325)||
 |**2026-03-20**|**CycleCap: Improving VLMs Captioning Performance via Self-Supervised Cycle Consistency Fine-Tuning**|Marios Krestenitis et.al.|[2603.18282](http://arxiv.org/abs/2603.18282)||
 |**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)||
 |**2026-03-18**|**Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**|Zhihua Wei et.al.|[2603.17372](http://arxiv.org/abs/2603.17372)||
@@ -464,6 +485,10 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Cognitive Agency Surrender: Defending Epistemic Sovereignty via Scaffolded AI Friction**|Kuangzhe Xu et.al.|[2603.21735](http://arxiv.org/abs/2603.21735)||
+|**2026-03-22**|**ARYA: A Physics-Constrained Composable & Deterministic World Model Architecture**|Seth Dobrin et.al.|[2603.21340](http://arxiv.org/abs/2603.21340)||
+|**2026-03-22**|**Active Inference Agency Formalization, Metrics, and Convergence Assessments**|Eduard Kapelko et.al.|[2603.21319](http://arxiv.org/abs/2603.21319)||
+|**2026-03-22**|**Emergent Formal Verification: How an Autonomous AI Ecosystem Independently Discovered SMT-Based Safety Across Six Domains**|Octavian Untila et.al.|[2603.21149](http://arxiv.org/abs/2603.21149)||
 |**2026-03-19**|**Security, privacy, and agentic AI in a regulatory view: From definitions and distinctions to provisions and reflections**|Shiliang Zhang et.al.|[2603.18914](http://arxiv.org/abs/2603.18914)||
 |**2026-03-19**|**Multimodal Model for Computational Pathology:Representation Learning and Image Compression**|Peihang Wu et.al.|[2603.18660](http://arxiv.org/abs/2603.18660)||
 |**2026-03-18**|**Interpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal representations**|Sanjay Basu et.al.|[2603.18353](http://arxiv.org/abs/2603.18353)||
@@ -532,6 +557,12 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**SecureBreak -- A dataset towards safe and secure models**|Marco Arazzi et.al.|[2603.21975](http://arxiv.org/abs/2603.21975)||
+|**2026-03-23**|**Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models**|Rui Yang Tan et.al.|[2603.21697](http://arxiv.org/abs/2603.21697)||
+|**2026-03-23**|**Are AI-assisted Development Tools Immune to Prompt Injection?**|Charoes Huang et.al.|[2603.21642](http://arxiv.org/abs/2603.21642)||
+|**2026-03-22**|**Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs**|Zihui Chen et.al.|[2603.21155](http://arxiv.org/abs/2603.21155)||
+|**2026-03-21**|**Detection of adversarial intent in Human-AI teams using LLMs**|Abed K. Musaffar et.al.|[2603.20976](http://arxiv.org/abs/2603.20976)||
+|**2026-03-20**|**The production of meaning in the processing of natural language**|Christopher J. Agostino et.al.|[2603.20381](http://arxiv.org/abs/2603.20381)||
 |**2026-03-20**|**Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance**|Fazhong Liu et.al.|[2603.19974](http://arxiv.org/abs/2603.19974)||
 |**2026-03-19**|**A Framework for Formalizing LLM Agent Security**|Vincent Siu et.al.|[2603.19469](http://arxiv.org/abs/2603.19469)||
 |**2026-03-19**|**The Autonomy Tax: Defense Training Breaks LLM Agents**|Shawn Li et.al.|[2603.19423](http://arxiv.org/abs/2603.19423)||
@@ -600,6 +631,7 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-21**|**Position: Multi-Agent Algorithmic Care Systems Demand Contestability for Trustworthy AI**|Truong Thanh Hung Nguyen et.al.|[2603.20595](http://arxiv.org/abs/2603.20595)||
 |**2026-03-20**|**Large Language Models and Stock Investing: Is the Human Factor Required?**|Ricardo Crisostomo et.al.|[2603.19944](http://arxiv.org/abs/2603.19944)||
 |**2026-03-19**|**Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems**|Kevin Baum et.al.|[2603.19213](http://arxiv.org/abs/2603.19213)||
 |**2026-03-19**|**Unsupervised Contrastive Learning for Efficient and Robust Spectral Shape Matching**|Feifan Luo et.al.|[2603.18924](http://arxiv.org/abs/2603.18924)||
@@ -649,9 +681,10 @@ last_updated: 2026.03.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**SAM Molecular Stacking with Heterogeneous Orientationfor High-Performance Perovskite Photovoltaics**|Lei Huang et.al.|[2603.21657](http://arxiv.org/abs/2603.21657)||
 |**2026-03-20**|**LiteAtt: Secure and Seamless IoT Services Using TinyML-based Self-Attestation as a Primitive**|Varun Kohli et.al.|[2603.19727](http://arxiv.org/abs/2603.19727)||
 |**2026-03-19**|**Student views in AI Ethics and Social Impact**|Tudor-Dan Mihoc et.al.|[2603.18827](http://arxiv.org/abs/2603.18827)||
-|**2026-03-18**|**Proton Irradiation of Primitive Atmospheres of Young Exoplanets and early Earth: $N_{\mathrm{2}}O$ Greenhouse Warming and Prebiotic Synthesis**|Kensei Kobayashi et.al.|[2603.18206](http://arxiv.org/abs/2603.18206)||
+|**2026-03-20**|**Proton Irradiation of Primitive Atmospheres of Young Exoplanets and early Earth: $N_{\mathrm{2}}O$ Greenhouse Warming and Prebiotic Synthesis**|Kensei Kobayashi et.al.|[2603.18206](http://arxiv.org/abs/2603.18206)||
 |**2026-03-18**|**Differential Attention-Augmented BiomedCLIP with Asymmetric Focal Optimization for Imbalanced Multi-Label Video Capsule Endoscopy Classification**|Podakanti Satyajith Chary et.al.|[2603.17879](http://arxiv.org/abs/2603.17879)||
 |**2026-03-18**|**Large Language Models as a Semantic Interface and Ethical Mediator in Neuro-Digital Ecosystems: Conceptual Foundations and a Regulatory Imperative**|Alexander V. Shenderuk-Zhidkov et.al.|[2603.17444](http://arxiv.org/abs/2603.17444)||
 |**2026-03-17**|**Narrative Frames: A New Approach to Analysing Metaphors in AI Ethics and Policy Discourse**|Daniel Stone et.al.|[2603.17192](http://arxiv.org/abs/2603.17192)||
