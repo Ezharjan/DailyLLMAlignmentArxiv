@@ -80,6 +80,7 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**|Ben Chen et.al.|[2603.24422](http://arxiv.org/abs/2603.24422)||
 |**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)||
 |**2026-03-22**|**Reward Sharpness-Aware Fine-Tuning for Diffusion Models**|Kwanyoung Kim et.al.|[2603.21175](http://arxiv.org/abs/2603.21175)||
 |**2026-03-22**|**LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning**|Jianing Wang et.al.|[2603.21065](http://arxiv.org/abs/2603.21065)||
@@ -133,6 +134,8 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**YingMusic-Singer: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance**|Chunbo Hao et.al.|[2603.24589](http://arxiv.org/abs/2603.24589)||
+|**2026-03-25**|**A^3: Towards Advertising Aesthetic Assessment**|Kaiyuan Ji et.al.|[2603.24037](http://arxiv.org/abs/2603.24037)||
 |**2026-03-24**|**SafeSeek: Universal Attribution of Safety Circuits in Language Models**|Miao Yu et.al.|[2603.23268](http://arxiv.org/abs/2603.23268)||
 |**2026-03-24**|**ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment**|Hao Wang et.al.|[2603.23184](http://arxiv.org/abs/2603.23184)||
 |**2026-03-24**|**From Morality Installation in LLMs to LLMs in Morality-as-a-System**|Gunter Bombaerts et.al.|[2603.22944](http://arxiv.org/abs/2603.22944)||
@@ -140,7 +143,7 @@ last_updated: 2026.03.26
 |**2026-03-23**|**Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models**|Aryan Kasat et.al.|[2603.21854](http://arxiv.org/abs/2603.21854)||
 |**2026-03-23**|**Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models**|Rui Yang Tan et.al.|[2603.21697](http://arxiv.org/abs/2603.21697)||
 |**2026-03-22**|**Behavioural feasible set: Value alignment constraints on AI decision support**|Taejin Park et.al.|[2603.21435](http://arxiv.org/abs/2603.21435)||
-|**2026-03-21**|**Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models**|Xinyue Liu et.al.|[2603.20957](http://arxiv.org/abs/2603.20957)||
+|**2026-03-25**|**Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models**|Xinyue Liu et.al.|[2603.20957](http://arxiv.org/abs/2603.20957)||
 |**2026-03-21**|**The Art of Midwifery in LLMs: Optimizing Role Personas for Large Language Models as Moral Assistants**|Yangyi Wu et.al.|[2603.20626](http://arxiv.org/abs/2603.20626)||
 |**2026-03-19**|**The Causal Impact of Tool Affordance on Safety Alignment in LLM Agents**|Shasha Yu et.al.|[2603.20320](http://arxiv.org/abs/2603.20320)||
 |**2026-03-20**|**Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models**|Wenjing Hong et.al.|[2603.20122](http://arxiv.org/abs/2603.20122)||
@@ -301,6 +304,9 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Positive-First Most Ambiguous: A Simple Active Learning Criterion for Interactive Retrieval of Rare Categories**|Kawtar Zaher et.al.|[2603.24480](http://arxiv.org/abs/2603.24480)||
+|**2026-03-25**|**A Deep Dive into Scaling RL for Code Generation with Synthetic Data and Curricula**|Cansu Sancaktar et.al.|[2603.24202](http://arxiv.org/abs/2603.24202)||
+|**2026-03-24**|**Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection**|Ning Zhu et.al.|[2603.23766](http://arxiv.org/abs/2603.23766)||
 |**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)||
 |**2026-03-24**|**Joint Task Orchestration and Resource Optimization for SC3 Closed Loop in 6G Networks**|Xinran Fang et.al.|[2603.23217](http://arxiv.org/abs/2603.23217)||
 |**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796](http://arxiv.org/abs/2603.22796)||
@@ -449,6 +455,9 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition**|Florian Stilz et.al.|[2603.24539](http://arxiv.org/abs/2603.24539)||
+|**2026-03-25**|**Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers**|Jun Ma et.al.|[2603.24275](http://arxiv.org/abs/2603.24275)||
+|**2026-03-24**|**Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition**|Lucas H. Ueda et.al.|[2603.23673](http://arxiv.org/abs/2603.23673)||
 |**2026-03-24**|**KARMA: Knowledge-Action Regularized Multimodal Alignment for Personalized Search at Taobao**|Zhi Sun et.al.|[2603.22779](http://arxiv.org/abs/2603.22779)||
 |**2026-03-23**|**Towards Multimodal Time Series Anomaly Detection with Semantic Alignment and Condensed Interaction**|Shiyan Hu et.al.|[2603.21612](http://arxiv.org/abs/2603.21612)||
 |**2026-03-23**|**DATASHI: A Parallel English-Tashlhiyt Corpus for Orthography Normalization and Low-Resource Language Processing**|Nasser-Eddine Monir et.al.|[2603.21571](http://arxiv.org/abs/2603.21571)||
@@ -496,6 +505,10 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA**|Saahil Mathur et.al.|[2603.24580](http://arxiv.org/abs/2603.24580)||
+|**2026-03-25**|**SEGAR: Selective Enhancement for Generative Augmented Reality**|Fanjun Bu et.al.|[2603.24541](http://arxiv.org/abs/2603.24541)||
+|**2026-03-25**|**DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction**|Yuhan Zhao et.al.|[2603.24265](http://arxiv.org/abs/2603.24265)||
+|**2026-03-25**|**RVLM: Recursive Vision-Language Models with Adaptive Depth**|Nicanor Mayumu et.al.|[2603.24224](http://arxiv.org/abs/2603.24224)||
 |**2026-03-24**|**SafeSeek: Universal Attribution of Safety Circuits in Language Models**|Miao Yu et.al.|[2603.23268](http://arxiv.org/abs/2603.23268)||
 |**2026-03-24**|**From the AI Act to a European AI Agency: Completing the Union's Regulatory Architecture**|Georgios Pavlidis et.al.|[2603.22912](http://arxiv.org/abs/2603.22912)||
 |**2026-03-22**|**Animal Welfare and Policy Risk Index (AWPRI): Constructing and Validating a Cross-National Governance Risk Measure, 25 Countries, 2004-2022**|Jason Hung et.al.|[2603.22356](http://arxiv.org/abs/2603.22356)||
@@ -571,7 +584,11 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-24**|**Mind Your HEARTBEAT! Claw Background Execution Inherently Enables Silent Memory Pollution**|Yechao Zhang et.al.|[2603.23064](http://arxiv.org/abs/2603.23064)||
+|**2026-03-25**|**Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs**|Alexander Panfilov et.al.|[2603.24511](http://arxiv.org/abs/2603.24511)||
+|**2026-03-25**|**HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with Hierarchical Directional Alignment and Adversarial Knowledge Transfer**|Minjun Kim et.al.|[2603.24209](http://arxiv.org/abs/2603.24209)||
+|**2026-03-25**|**Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search**|Yulin Shen et.al.|[2603.24203](http://arxiv.org/abs/2603.24203)||
+|**2026-03-24**|**The Cognitive Firewall:Securing Browser Based AI Agents Against Indirect Prompt Injection Via Hybrid Edge Cloud Defense**|Qianlong Lan et.al.|[2603.23791](http://arxiv.org/abs/2603.23791)||
+|**2026-03-25**|**Mind Your HEARTBEAT! Claw Background Execution Inherently Enables Silent Memory Pollution**|Yechao Zhang et.al.|[2603.23064](http://arxiv.org/abs/2603.23064)||
 |**2026-03-24**|**SoK: The Attack Surface of Agentic AI -- Tools, and Autonomy**|Ali Dehghantanha et.al.|[2603.22928](http://arxiv.org/abs/2603.22928)||
 |**2026-03-23**|**LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface**|Michael Hind et.al.|[2603.22519](http://arxiv.org/abs/2603.22519)||
 |**2026-03-23**|**Model Context Protocol Threat Modeling and Analyzing Vulnerabilities to Prompt Injection with Tool Poisoning**|Charoes Huang et.al.|[2603.22489](http://arxiv.org/abs/2603.22489)||
@@ -649,6 +666,8 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**When AI Meets Early Childhood Education: Large Language Models as Assessment Teammates in Chinese Preschools**|Xingming Li et.al.|[2603.24389](http://arxiv.org/abs/2603.24389)||
+|**2026-03-25**|**Environment-Grounded Multi-Agent Workflow for Autonomous Penetration Testing**|Michael Somma et.al.|[2603.24221](http://arxiv.org/abs/2603.24221)||
 |**2026-03-24**|**Regulating AI Agents**|Kathrin Gardhouse et.al.|[2603.23471](http://arxiv.org/abs/2603.23471)||
 |**2026-03-24**|**Bilevel Autoresearch: Meta-Autoresearching Itself**|Yaonan Qu et.al.|[2603.23420](http://arxiv.org/abs/2603.23420)||
 |**2026-03-24**|**FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning**|Jingchen Ni et.al.|[2603.22969](http://arxiv.org/abs/2603.22969)||
@@ -703,11 +722,14 @@ last_updated: 2026.03.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**The First Generation of AI-Assisted Programming Learners: Gendered Patterns in Critical Thinking and AI Ethics of German Secondary School Students**|Isabella Graßl et.al.|[2603.24197](http://arxiv.org/abs/2603.24197)||
+|**2026-03-24**|**Probabilistic Geometric Alignment via Bayesian Latent Transport for Domain-Adaptive Foundation Models**|Kuepon Aueawatthanaphisut et.al.|[2603.23783](http://arxiv.org/abs/2603.23783)||
 |**2026-03-24**|**Unilateral Relationship Revision Power in Human-AI Companion Interaction**|Benjamin Lange et.al.|[2603.23315](http://arxiv.org/abs/2603.23315)||
 |**2026-03-24**|**Inflation driven by a bare cosmological constant and its graceful exit**|Chengsheng Mu et.al.|[2603.23263](http://arxiv.org/abs/2603.23263)||
 |**2026-03-24**|**From Morality Installation in LLMs to LLMs in Morality-as-a-System**|Gunter Bombaerts et.al.|[2603.22944](http://arxiv.org/abs/2603.22944)||
 |**2026-03-19**|**The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis**|Di Zhang et.al.|[2603.22312](http://arxiv.org/abs/2603.22312)||
 |**2026-03-23**|**SAM Molecular Stacking with Heterogeneous Orientationfor High-Performance Perovskite Photovoltaics**|Lei Huang et.al.|[2603.21657](http://arxiv.org/abs/2603.21657)||
+|**2026-03-25**|**From the Stochastic Embedding Sufficiency Theorem to a Superspace Diffusion Framework**|Carolina Garcia et.al.|[2603.20423](http://arxiv.org/abs/2603.20423)||
 |**2026-03-20**|**LiteAtt: Secure and Seamless IoT Services Using TinyML-based Self-Attestation as a Primitive**|Varun Kohli et.al.|[2603.19727](http://arxiv.org/abs/2603.19727)||
 |**2026-03-19**|**Student views in AI Ethics and Social Impact**|Tudor-Dan Mihoc et.al.|[2603.18827](http://arxiv.org/abs/2603.18827)||
 |**2026-03-20**|**Proton Irradiation of Primitive Atmospheres of Young Exoplanets and early Earth: $N_{\mathrm{2}}O$ Greenhouse Warming and Prebiotic Synthesis**|Kensei Kobayashi et.al.|[2603.18206](http://arxiv.org/abs/2603.18206)||
