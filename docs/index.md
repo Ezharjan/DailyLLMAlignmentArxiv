@@ -17,7 +17,7 @@ last_updated: 2026.03.28
 |**2026-03-07**|**Lying to Win: Assessing LLM Deception through Human-AI Games and Parallel-World Probing**|Arash Marioriyad et.al.|[2603.07202](http://arxiv.org/abs/2603.07202)||
 |**2026-03-06**|**LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models**|Matthew Lyle Olson et.al.|[2603.06874](http://arxiv.org/abs/2603.06874)||
 |**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)||
-|**2026-01-20**|**Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games**|Christopher Kao et.al.|[2601.13709](http://arxiv.org/abs/2601.13709)||
+|**2026-01-20**|**Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games**|Christopher Kao et.al.|[2601.13709](http://arxiv.org/abs/2601.13709)|**[link](https://github.com/cocochief4/llm-mafia)**|
 |**2026-01-19**|**Adversarial News and Lost Profits: Manipulating Headlines in LLM-Driven Algorithmic Trading**|Advije Rizvani et.al.|[2601.13082](http://arxiv.org/abs/2601.13082)||
 |**2026-01-13**|**Baiting AI: Deceptive Adversary Against AI-Protected Industrial Infrastructures**|Aryan Pasikhani et.al.|[2601.08481](http://arxiv.org/abs/2601.08481)||
 |**2025-12-24**|**LLM-Driven Feature-Level Adversarial Attacks on Android Malware Detectors**|Tianwei Lan et.al.|[2512.21404](http://arxiv.org/abs/2512.21404)||
@@ -291,7 +291,7 @@ last_updated: 2026.03.28
 |**2026-02-23**|**Three Concrete Challenges and Two Hopes for the Safety of Unsupervised Elicitation**|Callum Canavan et.al.|[2602.20400](http://arxiv.org/abs/2602.20400)||
 |**2026-01-25**|**Unsupervised Elicitation of Moral Values from Language Models**|Meysam Alizadeh et.al.|[2601.17728](http://arxiv.org/abs/2601.17728)||
 |**2026-01-23**|**Supporting Stakeholder Requirements Expression with LLM Revisions: An Empirical Evaluation**|Michael Mircea et.al.|[2601.16699](http://arxiv.org/abs/2601.16699)||
-|**2026-01-22**|**Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning**|Jianqi Zhang et.al.|[2601.07903](http://arxiv.org/abs/2601.07903)||
+|**2026-01-22**|**Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning**|Jianqi Zhang et.al.|[2601.07903](http://arxiv.org/abs/2601.07903)|**[link](https://github.com/jlu-phyComputer/LVICL)**|
 |**2025-11-13**|**Preference Elicitation for Step-Wise Explanations in Logic Puzzles**|Marco Foschini et.al.|[2511.10436](http://arxiv.org/abs/2511.10436)||
 |**2025-11-12**|**Exploring The Interaction-Outcome Paradox: Seemingly Richer and More Self-Aware Interactions with LLMs May Not Yet Lead to Better Learning**|Rahul R. Divekar et.al.|[2511.09458](http://arxiv.org/abs/2511.09458)||
 |**2025-10-31**|**Pairwise and Attribute-Aware Decision Tree-Based Preference Elicitation for Cold-Start Recommendation**|Alireza Gharahighehi et.al.|[2510.27342](http://arxiv.org/abs/2510.27342)||
