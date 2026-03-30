@@ -12,12 +12,13 @@ last_updated: 2026.03.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Search-Induced Issues in Web-Augmented LLM Code Generation: Detecting and Repairing Error-Inducing Pages**|Guoqing Wang et.al.|[2603.26091](http://arxiv.org/abs/2603.26091)||
 |**2026-03-19**|**GenVideoLens: Where LVLMs Fall Short in AI-Generated Video Detection?**|Yueying Zou et.al.|[2603.18625](http://arxiv.org/abs/2603.18625)||
 |**2026-02-16**|**Probing the Limits of the Lie Detector Approach to LLM Deception**|Tom-Felix Berger et.al.|[2603.10003](http://arxiv.org/abs/2603.10003)||
 |**2026-03-07**|**Lying to Win: Assessing LLM Deception through Human-AI Games and Parallel-World Probing**|Arash Marioriyad et.al.|[2603.07202](http://arxiv.org/abs/2603.07202)||
 |**2026-03-06**|**LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models**|Matthew Lyle Olson et.al.|[2603.06874](http://arxiv.org/abs/2603.06874)||
 |**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)||
-|**2026-01-20**|**Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games**|Christopher Kao et.al.|[2601.13709](http://arxiv.org/abs/2601.13709)|**[link](https://github.com/cocochief4/llm-mafia)**|
+|**2026-01-20**|**Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games**|Christopher Kao et.al.|[2601.13709](http://arxiv.org/abs/2601.13709)||
 |**2026-01-19**|**Adversarial News and Lost Profits: Manipulating Headlines in LLM-Driven Algorithmic Trading**|Advije Rizvani et.al.|[2601.13082](http://arxiv.org/abs/2601.13082)||
 |**2026-01-13**|**Baiting AI: Deceptive Adversary Against AI-Protected Industrial Infrastructures**|Aryan Pasikhani et.al.|[2601.08481](http://arxiv.org/abs/2601.08481)||
 |**2025-12-24**|**LLM-Driven Feature-Level Adversarial Attacks on Android Malware Detectors**|Tianwei Lan et.al.|[2512.21404](http://arxiv.org/abs/2512.21404)||
@@ -81,6 +82,7 @@ last_updated: 2026.03.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**|Zelin Tan et.al.|[2603.26535](http://arxiv.org/abs/2603.26535)||
 |**2026-03-25**|**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**|Ben Chen et.al.|[2603.24422](http://arxiv.org/abs/2603.24422)||
 |**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)||
 |**2026-03-22**|**Reward Sharpness-Aware Fine-Tuning for Diffusion Models**|Kwanyoung Kim et.al.|[2603.21175](http://arxiv.org/abs/2603.21175)||
@@ -135,6 +137,8 @@ last_updated: 2026.03.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward**|Zhaochong An et.al.|[2603.26599](http://arxiv.org/abs/2603.26599)||
+|**2026-03-26**|**ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions**|Zikai Wang et.al.|[2603.25791](http://arxiv.org/abs/2603.25791)||
 |**2026-03-26**|**CIAR: Interval-based Collaborative Decoding for Image Generation Acceleration**|Keming Ye et.al.|[2603.25463](http://arxiv.org/abs/2603.25463)||
 |**2026-03-26**|**SafeMath: Inference-time Safety improves Math Accuracy**|Sagnik Basu et.al.|[2603.25201](http://arxiv.org/abs/2603.25201)||
 |**2026-03-26**|**Imperative Interference: Social Register Shapes Instruction Topology in Large Language Models**|Tony Mason et.al.|[2603.25015](http://arxiv.org/abs/2603.25015)||
@@ -291,7 +295,7 @@ last_updated: 2026.03.30
 |**2026-02-23**|**Three Concrete Challenges and Two Hopes for the Safety of Unsupervised Elicitation**|Callum Canavan et.al.|[2602.20400](http://arxiv.org/abs/2602.20400)||
 |**2026-01-25**|**Unsupervised Elicitation of Moral Values from Language Models**|Meysam Alizadeh et.al.|[2601.17728](http://arxiv.org/abs/2601.17728)||
 |**2026-01-23**|**Supporting Stakeholder Requirements Expression with LLM Revisions: An Empirical Evaluation**|Michael Mircea et.al.|[2601.16699](http://arxiv.org/abs/2601.16699)||
-|**2026-01-22**|**Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning**|Jianqi Zhang et.al.|[2601.07903](http://arxiv.org/abs/2601.07903)|**[link](https://github.com/jlu-phyComputer/LVICL)**|
+|**2026-01-22**|**Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning**|Jianqi Zhang et.al.|[2601.07903](http://arxiv.org/abs/2601.07903)||
 |**2025-11-13**|**Preference Elicitation for Step-Wise Explanations in Logic Puzzles**|Marco Foschini et.al.|[2511.10436](http://arxiv.org/abs/2511.10436)||
 |**2025-11-12**|**Exploring The Interaction-Outcome Paradox: Seemingly Richer and More Self-Aware Interactions with LLMs May Not Yet Lead to Better Learning**|Rahul R. Divekar et.al.|[2511.09458](http://arxiv.org/abs/2511.09458)||
 |**2025-10-31**|**Pairwise and Attribute-Aware Decision Tree-Based Preference Elicitation for Cold-Start Recommendation**|Alireza Gharahighehi et.al.|[2510.27342](http://arxiv.org/abs/2510.27342)||
@@ -309,6 +313,12 @@ last_updated: 2026.03.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation**|Jesse Barkley et.al.|[2603.26512](http://arxiv.org/abs/2603.26512)||
+|**2026-03-27**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen et.al.|[2603.26320](http://arxiv.org/abs/2603.26320)||
+|**2026-03-27**|**A Solution Concept for Convex Vector Optimization Problems based on a User-defined Region of Interest**|Daniel Dörfler et.al.|[2603.26305](http://arxiv.org/abs/2603.26305)||
+|**2026-03-27**|**Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding**|Shrinidhi Kumbhar et.al.|[2603.26211](http://arxiv.org/abs/2603.26211)||
+|**2026-03-27**|**AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation**|Borui Zhang et.al.|[2603.26005](http://arxiv.org/abs/2603.26005)||
+|**2026-03-26**|**Exact Penalty Method for Variationally Coherent Stochastic Programming Problems**|Bogdan K. Jastrzębski et.al.|[2603.25815](http://arxiv.org/abs/2603.25815)||
 |**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)||
 |**2026-03-26**|**Self-Improvement of Large Language Models: A Technical Overview and Future Outlook**|Haoyan Yang et.al.|[2603.25681](http://arxiv.org/abs/2603.25681)||
 |**2026-03-26**|**MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation**|Taolin Han et.al.|[2603.25253](http://arxiv.org/abs/2603.25253)||
@@ -467,6 +477,7 @@ last_updated: 2026.03.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**ClipTTT: CLIP-Guided Test-Time Training Helps LVLMs See Better**|Mriganka Nath et.al.|[2603.26486](http://arxiv.org/abs/2603.26486)||
 |**2026-03-25**|**CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition**|Florian Stilz et.al.|[2603.24539](http://arxiv.org/abs/2603.24539)||
 |**2026-03-25**|**Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers**|Jun Ma et.al.|[2603.24275](http://arxiv.org/abs/2603.24275)||
 |**2026-03-24**|**Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition**|Lucas H. Ueda et.al.|[2603.23673](http://arxiv.org/abs/2603.23673)||
@@ -684,6 +695,9 @@ last_updated: 2026.03.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Automating Clinical Information Retrieval from Finnish Electronic Health Records Using Large Language Models**|Mikko Saukkoriipi et.al.|[2603.26434](http://arxiv.org/abs/2603.26434)||
+|**2026-03-26**|**Self-Organizing Multi-Agent Systems for Continuous Software Development**|Wenhan Lyu et.al.|[2603.25928](http://arxiv.org/abs/2603.25928)||
+|**2026-03-26**|**On Integrating Resilience and Human Oversight into LLM-Assisted Modeling Workflows for Digital Twins**|Lekshmi P et.al.|[2603.25898](http://arxiv.org/abs/2603.25898)||
 |**2026-03-26**|**Cross-Model Disagreement as a Label-Free Correctness Signal**|Matt Gorbett et.al.|[2603.25450](http://arxiv.org/abs/2603.25450)||
 |**2026-03-26**|**Factors Influencing the Quality of AI-Generated Code: A Synthesis of Empirical Evidence**|Vehid Geruslu et.al.|[2603.25146](http://arxiv.org/abs/2603.25146)||
 |**2026-03-26**|**ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents**|Cristian Lupascu et.al.|[2603.25097](http://arxiv.org/abs/2603.25097)||
@@ -743,9 +757,11 @@ last_updated: 2026.03.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Sensitivity to new physics: single-Higgs couplings vs. the trilinear Higgs coupling**|Henning Bahl et.al.|[2603.26633](http://arxiv.org/abs/2603.26633)||
+|**2026-03-27**|**Foundation Model for Cardiac Time Series via Masked Latent Attention**|Moritz Vandenhirtz et.al.|[2603.26475](http://arxiv.org/abs/2603.26475)||
 |**2026-03-26**|**Converting vertical heat supply into horizontal motion for microtechnological pumping and autonomous waste heat recovery**|Jan-Niklas Schäfer et.al.|[2603.25626](http://arxiv.org/abs/2603.25626)||
 |**2026-03-26**|**Imperative Interference: Social Register Shapes Instruction Topology in Large Language Models**|Tony Mason et.al.|[2603.25015](http://arxiv.org/abs/2603.25015)||
-|**2026-03-25**|**The First Generation of AI-Assisted Programming Learners: Gendered Patterns in Critical Thinking and AI Ethics of German Secondary School Students**|Isabella Graßl et.al.|[2603.24197](http://arxiv.org/abs/2603.24197)||
+|**2026-03-27**|**Learning to Program Alongside AI: Critical Thinking, AI Ethics, and Gendered Patterns of German Secondary School Students**|Isabella Graßl et.al.|[2603.24197](http://arxiv.org/abs/2603.24197)||
 |**2026-03-26**|**Probabilistic Geometric Alignment via Bayesian Latent Transport for Domain-Adaptive Foundation Models**|Aueaphum Aueawatthanaphisut et.al.|[2603.23783](http://arxiv.org/abs/2603.23783)||
 |**2026-03-24**|**Unilateral Relationship Revision Power in Human-AI Companion Interaction**|Benjamin Lange et.al.|[2603.23315](http://arxiv.org/abs/2603.23315)||
 |**2026-03-24**|**Inflation driven by a bare cosmological constant and its graceful exit**|Chengsheng Mu et.al.|[2603.23263](http://arxiv.org/abs/2603.23263)||
