@@ -90,13 +90,15 @@ last_updated: 2026.04.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Mitigating Reward Hacking in RLHF via Advantage Sign Robustness**|Shinnosuke Ono et.al.|[2604.02986](http://arxiv.org/abs/2604.02986)||
+|**2026-04-03**|**Beyond Semantic Manipulation: Token-Space Attacks on Reward Models**|Yuheng Zhang et.al.|[2604.02686](http://arxiv.org/abs/2604.02686)||
 |**2026-04-01**|**When Reward Hacking Rebounds: Understanding and Mitigating It with Representation-Level Signals**|Rui Wu et.al.|[2604.01476](http://arxiv.org/abs/2604.01476)||
 |**2026-04-01**|**Safety, Security, and Cognitive Risks in World Models**|Manoj Parmar et.al.|[2604.01346](http://arxiv.org/abs/2604.01346)||
 |**2026-03-31**|**Extending MONA in Camera Dropbox: Reproduction, Learned Approval, and Design Implications for Reward-Hacking Mitigation**|Nathan Heath et.al.|[2603.29993](http://arxiv.org/abs/2603.29993)||
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)||
 |**2026-03-30**|**Reward Hacking as Equilibrium under Finite Evaluation**|Jiacheng Wang et.al.|[2603.28063](http://arxiv.org/abs/2603.28063)||
 |**2026-03-29**|**TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration**|Yisheng Zhang et.al.|[2603.27742](http://arxiv.org/abs/2603.27742)||
-|**2026-04-02**|**Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**|Zelin Tan et.al.|[2603.26535](http://arxiv.org/abs/2603.26535)||
+|**2026-04-03**|**PAPO: Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**|Zelin Tan et.al.|[2603.26535](http://arxiv.org/abs/2603.26535)||
 |**2026-03-25**|**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**|Ben Chen et.al.|[2603.24422](http://arxiv.org/abs/2603.24422)||
 |**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)||
 |**2026-03-22**|**Reward Sharpness-Aware Fine-Tuning for Diffusion Models**|Kwanyoung Kim et.al.|[2603.21175](http://arxiv.org/abs/2603.21175)||
@@ -151,11 +153,16 @@ last_updated: 2026.04.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Evaluating Bounded Superintelligent Authority in Multi-Level Governance: A Framework for Governance Under Radical Capability Asymmetry**|Tony Rost et.al.|[2604.02720](http://arxiv.org/abs/2604.02720)||
+|**2026-04-03**|**Redirected, Not Removed: Task-Dependent Stereotyping Reveals the Limits of LLM Alignments**|Divyanshu Kumar et.al.|[2604.02669](http://arxiv.org/abs/2604.02669)||
+|**2026-04-02**|**Understanding the Effects of Safety Unalignment on Large Language Models**|John T. Halloran et.al.|[2604.02574](http://arxiv.org/abs/2604.02574)||
+|**2026-04-02**|**Reinforcement Learning from Human Feedback: A Statistical Perspective**|Pangpang Liu et.al.|[2604.02507](http://arxiv.org/abs/2604.02507)||
+|**2026-03-31**|**Backdoor Attacks on Decentralised Post-Training**|Oğuzhan Ersoy et.al.|[2604.02372](http://arxiv.org/abs/2604.02372)||
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276](http://arxiv.org/abs/2604.02276)||
 |**2026-04-02**|**$k$ NNProxy: Efficient Training-Free Proxy Alignment for Black-Box Zero-Shot LLM-Generated Text Detection**|Kahim Wong et.al.|[2604.02008](http://arxiv.org/abs/2604.02008)||
 |**2026-04-02**|**DEFT: Distribution-guided Efficient Fine-Tuning for Human Alignment**|Liang Zhu et.al.|[2604.01787](http://arxiv.org/abs/2604.01787)||
 |**2026-04-02**|**Care-Conditioned Neuromodulation for Autonomy-Preserving Supportive Dialogue Agents**|Shalima Binta Manir et.al.|[2604.01576](http://arxiv.org/abs/2604.01576)||
-|**2026-04-01**|**Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models**|Weidi Luo et.al.|[2604.01444](http://arxiv.org/abs/2604.01444)||
+|**2026-04-03**|**Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models**|Weidi Luo et.al.|[2604.01444](http://arxiv.org/abs/2604.01444)||
 |**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)||
 |**2026-04-01**|**When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion**|Jiaqing Li et.al.|[2604.00627](http://arxiv.org/abs/2604.00627)||
 |**2026-04-01**|**Deep Learning-Accelerated Surrogate Optimization for High-Dimensional Well Control in Stress-Sensitive Reservoirs**|Mahammad Valiyev et.al.|[2604.00352](http://arxiv.org/abs/2604.00352)||
@@ -342,6 +349,13 @@ last_updated: 2026.04.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)||
+|**2026-04-03**|**Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks**|Weixiong Sun et.al.|[2604.03061](http://arxiv.org/abs/2604.03061)||
+|**2026-04-03**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al.|[2604.03040](http://arxiv.org/abs/2604.03040)||
+|**2026-04-03**|**Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment**|Jia Feng et.al.|[2604.02852](http://arxiv.org/abs/2604.02852)||
+|**2026-04-03**|**Iterative Refinement for Diagonalizable Non-Hermitian Eigendecompositions**|Takeshi Terao et.al.|[2604.02840](http://arxiv.org/abs/2604.02840)||
+|**2026-04-03**|**Runtime Execution Traces Guided Automated Program Repair with Multi-Agent Debate**|Jiaqing Wu et.al.|[2604.02647](http://arxiv.org/abs/2604.02647)||
+|**2026-04-03**|**Moondream Segmentation: From Words to Masks**|Ethan Reid et.al.|[2604.02593](http://arxiv.org/abs/2604.02593)||
 |**2026-04-02**|**Semantic Evolution over Populations for LLM-Guided Automated Program Repair**|Cuong Chi Le et.al.|[2604.02134](http://arxiv.org/abs/2604.02134)||
 |**2026-04-02**|**Tracking the emergence of linguistic structure in self-supervised models learning from speech**|Marianne de Heer Kloots et.al.|[2604.02043](http://arxiv.org/abs/2604.02043)||
 |**2026-04-02**|**Combating Data Laundering in LLM Training**|Muxing Li et.al.|[2604.01904](http://arxiv.org/abs/2604.01904)||
@@ -521,6 +535,7 @@ last_updated: 2026.04.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Foundation Models Defining A New Era In Sensor-based Human Activity Recognition: A Survey And Outlook**|Sizhen Bian et.al.|[2604.02711](http://arxiv.org/abs/2604.02711)||
 |**2026-03-30**|**AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**|Milton Zhou et.al.|[2603.28366](http://arxiv.org/abs/2603.28366)||
 |**2026-03-27**|**ClipTTT: CLIP-Guided Test-Time Training Helps LVLMs See Better**|Mriganka Nath et.al.|[2603.26486](http://arxiv.org/abs/2603.26486)||
 |**2026-03-25**|**CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition**|Florian Stilz et.al.|[2603.24539](http://arxiv.org/abs/2603.24539)||
@@ -573,6 +588,9 @@ last_updated: 2026.04.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Corporations Constitute Intelligence**|Gilad Abiri et.al.|[2604.02912](http://arxiv.org/abs/2604.02912)||
+|**2026-04-03**|**Evaluating Bounded Superintelligent Authority in Multi-Level Governance: A Framework for Governance Under Radical Capability Asymmetry**|Tony Rost et.al.|[2604.02720](http://arxiv.org/abs/2604.02720)||
+|**2026-04-03**|**Generalization Limits of Reinforcement Learning Alignment**|Haruhi Shida et.al.|[2604.02652](http://arxiv.org/abs/2604.02652)||
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276](http://arxiv.org/abs/2604.02276)||
 |**2026-04-02**|**Quantifying Self-Preservation Bias in Large Language Models**|Matteo Migliarini et.al.|[2604.02174](http://arxiv.org/abs/2604.02174)||
 |**2026-03-31**|**The Persistent Vulnerability of Aligned AI Systems**|Aengus Lynch et.al.|[2604.00324](http://arxiv.org/abs/2604.00324)||
@@ -667,6 +685,9 @@ last_updated: 2026.04.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study**|Zhihao Chen et.al.|[2604.03070](http://arxiv.org/abs/2604.03070)||
+|**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|Yilin Xiao et.al.|[2604.02954](http://arxiv.org/abs/2604.02954)||
+|**2026-03-31**|**KAIJU: An Executive Kernel for Intent-Gated Execution of LLM Agents**|Cormac Guerin et.al.|[2604.02375](http://arxiv.org/abs/2604.02375)||
 |**2026-04-02**|**Seclens: Role-specific Evaluation of LLM's for security vulnerablity detection**|Subho Halder et.al.|[2604.01637](http://arxiv.org/abs/2604.01637)||
 |**2026-04-01**|**ClawSafety: "Safe" LLMs, Unsafe Agents**|Bowen Wei et.al.|[2604.01438](http://arxiv.org/abs/2604.01438)||
 |**2026-04-01**|**AgentWatcher: A Rule-based Prompt Injection Monitor**|Yanting Wang et.al.|[2604.01194](http://arxiv.org/abs/2604.01194)||
@@ -676,7 +697,7 @@ last_updated: 2026.04.06
 |**2026-03-30**|**Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering**|Yanjie Zhang et.al.|[2603.28583](http://arxiv.org/abs/2603.28583)||
 |**2026-03-30**|**Crossing the NL/PL Divide: Information Flow Analysis Across the NL/PL Boundary in LLM-Integrated Code**|Zihao Xu et.al.|[2603.28345](http://arxiv.org/abs/2603.28345)||
 |**2026-03-30**|**Evaluating Privilege Usage of Agents on Real-World Tools**|Quan Zhang et.al.|[2603.28166](http://arxiv.org/abs/2603.28166)||
-|**2026-03-30**|**Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers**|Haochuan Kevin Wang et.al.|[2603.28013](http://arxiv.org/abs/2603.28013)||
+|**2026-04-03**|**Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers**|Haochuan Kevin Wang et.al.|[2603.28013](http://arxiv.org/abs/2603.28013)||
 |**2026-03-29**|**Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models**|Duanyi Yao et.al.|[2603.27522](http://arxiv.org/abs/2603.27522)||
 |**2026-03-29**|**A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework**|Surada Suwansathit et.al.|[2603.27517](http://arxiv.org/abs/2603.27517)||
 |**2026-03-28**|**The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models**|Shivang Chopra et.al.|[2603.27139](http://arxiv.org/abs/2603.27139)||
@@ -767,9 +788,10 @@ last_updated: 2026.04.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**From Industry Claims to Empirical Reality: An Empirical Study of Code Review Agents in Pull Requests**|Kowshik Chowdhury et.al.|[2604.03196](http://arxiv.org/abs/2604.03196)||
 |**2026-04-02**|**Beyond Detection: Ethical Foundations for Automated Dyslexic Error Attribution**|Samuel Rose et.al.|[2604.01853](http://arxiv.org/abs/2604.01853)||
 |**2026-04-01**|**A Multi-Agent Human-LLM Collaborative Framework for Closed-Loop Scientific Literature Summarization**|Maxwell J. Jacobson et.al.|[2604.01452](http://arxiv.org/abs/2604.01452)||
-|**2026-04-01**|**When AI Gets it Wong: Reliability and Risk in AI-Assisted Medication Decision Systems**|Khalid Adnan Alsayed et.al.|[2604.01449](http://arxiv.org/abs/2604.01449)||
+|**2026-04-03**|**When AI Gets it Wrong: Reliability and Risk in AI-Assisted Medication Decision Systems**|Khalid Adnan Alsayed et.al.|[2604.01449](http://arxiv.org/abs/2604.01449)||
 |**2026-04-01**|**Detecting Multi-Agent Collusion Through Multi-Agent Interpretability**|Aaron Rose et.al.|[2604.01151](http://arxiv.org/abs/2604.01151)||
 |**2026-03-31**|**Beyond Symbolic Control: Societal Consequences of AI-Driven Workforce Displacement and the Imperative for Genuine Human Oversight Architectures**|Richard J. Mitchell et.al.|[2604.00081](http://arxiv.org/abs/2604.00081)||
 |**2026-03-31**|**Kwame 2.0: Human-in-the-Loop Generative AI Teaching Assistant for Large Scale Online Coding Education in Africa**|George Boateng et.al.|[2603.29159](http://arxiv.org/abs/2603.29159)||
