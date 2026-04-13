@@ -126,7 +126,7 @@
     "2603.24422": "|**2026-03-25**|**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**|Ben Chen et.al.|[2603.24422](http://arxiv.org/abs/2603.24422)||\n",
     "2603.26535": "|**2026-04-03**|**PAPO: Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**|Zelin Tan et.al.|[2603.26535](http://arxiv.org/abs/2603.26535)||\n",
     "2604.01476": "|**2026-04-01**|**When Reward Hacking Rebounds: Understanding and Mitigating It with Representation-Level Signals**|Rui Wu et.al.|[2604.01476](http://arxiv.org/abs/2604.01476)||\n",
-    "2604.01346": "|**2026-04-06**|**Safety, Security, and Cognitive Risks in World Models**|Manoj Parmar et.al.|[2604.01346](http://arxiv.org/abs/2604.01346)|**[link](https://github.com/parmarmanojkumar/safety_securty_cognitive_risk_world_model)**|\n",
+    "2604.01346": "|**2026-04-06**|**Safety, Security, and Cognitive Risks in World Models**|Manoj Parmar et.al.|[2604.01346](http://arxiv.org/abs/2604.01346)||\n",
     "2603.29993": "|**2026-03-31**|**Extending MONA in Camera Dropbox: Reproduction, Learned Approval, and Design Implications for Reward-Hacking Mitigation**|Nathan Heath et.al.|[2603.29993](http://arxiv.org/abs/2603.29993)||\n",
     "2603.28730": "|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)||\n",
     "2603.28063": "|**2026-03-30**|**Reward Hacking as Equilibrium under Finite Evaluation**|Jiacheng Wang et.al.|[2603.28063](http://arxiv.org/abs/2603.28063)||\n",
@@ -339,7 +339,11 @@
     "2604.07853": "|**2026-04-09**|**QaRL: Rollout-Aligned Quantization-Aware RL for Fast and Stable Training under Training--Inference Mismatch**|Hao Gu et.al.|[2604.07853](http://arxiv.org/abs/2604.07853)||\n",
     "2604.07835": "|**2026-04-09**|**Silencing the Guardrails: Inference-Time Jailbreaking via Dynamic Contextual Representation Ablation**|Wenpeng Xing et.al.|[2604.07835](http://arxiv.org/abs/2604.07835)||\n",
     "2604.07831": "|**2026-04-09**|**Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection**|Wenkui Yang et.al.|[2604.07831](http://arxiv.org/abs/2604.07831)||\n",
-    "2604.07754": "|**2026-04-09**|**The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training**|Rui Zhang et.al.|[2604.07754](http://arxiv.org/abs/2604.07754)||\n"
+    "2604.07754": "|**2026-04-09**|**The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training**|Rui Zhang et.al.|[2604.07754](http://arxiv.org/abs/2604.07754)||\n",
+    "2604.09544": "|**2026-04-10**|**Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism**|Hadas Orgad et.al.|[2604.09544](http://arxiv.org/abs/2604.09544)||\n",
+    "2604.08828": "|**2026-04-10**|**Post-Hoc Guidance for Consistency Models by Joint Flow Distribution Learning**|Chia-Hong Hsu et.al.|[2604.08828](http://arxiv.org/abs/2604.08828)||\n",
+    "2604.08757": "|**2026-04-09**|**Cards Against LLMs: Benchmarking Humor Alignment in Large Language Models**|Yousra Fettach et.al.|[2604.08757](http://arxiv.org/abs/2604.08757)||\n",
+    "2604.08606": "|**2026-04-08**|**Extrapolating Volition with Recursive Information Markets**|Abhimanyu Pallavi Sudhir et.al.|[2604.08606](http://arxiv.org/abs/2604.08606)||\n"
   },
   "Unsupervised Elicitation": {
     "2601.17728": "|**2026-01-25**|**Unsupervised Elicitation of Moral Values from Language Models**|Meysam Alizadeh et.al.|[2601.17728](http://arxiv.org/abs/2601.17728)||\n",
@@ -565,7 +569,10 @@
     "2604.05137": "|**2026-04-06**|**EffiPair: Improving the Efficiency of LLM-generated Code with Relative Contrastive Feedback**|Samira Hajizadeh et.al.|[2604.05137](http://arxiv.org/abs/2604.05137)||\n",
     "2604.08042": "|**2026-04-09**|**3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience**|Hongcan Xiao et.al.|[2604.08042](http://arxiv.org/abs/2604.08042)||\n",
     "2604.07900": "|**2026-04-09**|**AnomalyAgent: Agentic Industrial Anomaly Synthesis via Tool-Augmented Reinforcement Learning**|Jiaming Su et.al.|[2604.07900](http://arxiv.org/abs/2604.07900)||\n",
-    "2604.07645": "|**2026-04-08**|**PRIME: Training Free Proactive Reasoning via Iterative Memory Evolution for User-Centric Agent**|Prince Zizhuang Wang et.al.|[2604.07645](http://arxiv.org/abs/2604.07645)||\n"
+    "2604.07645": "|**2026-04-08**|**PRIME: Training Free Proactive Reasoning via Iterative Memory Evolution for User-Centric Agent**|Prince Zizhuang Wang et.al.|[2604.07645](http://arxiv.org/abs/2604.07645)||\n",
+    "2604.09121": "|**2026-04-10**|**Interactive ASR: Towards Human-Like Interaction and Semantic Coherence Evaluation for Agentic Speech Recognition**|Peng Wang et.al.|[2604.09121](http://arxiv.org/abs/2604.09121)||\n",
+    "2604.09031": "|**2026-04-10**|**Adaptive Subproblem Selection in Benders Decomposition for Survivable Network Design Problems**|Tim Donkiewicz et.al.|[2604.09031](http://arxiv.org/abs/2604.09031)||\n",
+    "2604.08931": "|**2026-04-10**|**Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction**|Nurullah Eymen Özdemir et.al.|[2604.08931](http://arxiv.org/abs/2604.08931)||\n"
   },
   "VLM Alignment": {
     "2602.14889": "|**2026-02-16**|**Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment**|Mounvik K et.al.|[2602.14889](http://arxiv.org/abs/2602.14889)||\n",
@@ -617,8 +624,9 @@
     "2603.28366": "|**2026-03-30**|**AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**|Milton Zhou et.al.|[2603.28366](http://arxiv.org/abs/2603.28366)||\n",
     "2604.02711": "|**2026-04-08**|**Foundation Models Defining A New Era In Sensor-based Human Activity Recognition: A Survey And Outlook**|Sizhen Bian et.al.|[2604.02711](http://arxiv.org/abs/2604.02711)||\n",
     "2604.04496": "|**2026-04-06**|**The Indra Representation Hypothesis for Multimodal Alignment**|Jianglin Lu et.al.|[2604.04496](http://arxiv.org/abs/2604.04496)||\n",
-    "2604.06832": "|**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)||\n",
-    "2604.05445": "|**2026-04-07**|**Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**|Qiyuan Chen et.al.|[2604.05445](http://arxiv.org/abs/2604.05445)||\n"
+    "2604.06832": "|**2026-04-10**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)||\n",
+    "2604.05445": "|**2026-04-07**|**Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**|Qiyuan Chen et.al.|[2604.05445](http://arxiv.org/abs/2604.05445)||\n",
+    "2604.08579": "|**2026-03-28**|**On the Spectral Geometry of Cross-Modal Representations: A Functional Map Diagnostic for Multimodal Alignment**|Krisanu Sarkar et.al.|[2604.08579](http://arxiv.org/abs/2604.08579)||\n"
   },
   "AI Safety Mechanisms": {
     "2602.20102": "|**2026-02-23**|**BarrierSteer: LLM Safety via Learning Barrier Steering**|Thanh Q. Tran et.al.|[2602.20102](http://arxiv.org/abs/2602.20102)||\n",
@@ -845,9 +853,11 @@
     "2604.06247": "|**2026-04-06**|**SALLIE: Safeguarding Against Latent Language & Image Exploits**|Guy Azov et.al.|[2604.06247](http://arxiv.org/abs/2604.06247)||\n",
     "2604.08499": "|**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)||\n",
     "2604.08352": "|**2026-04-09**|**Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot**|Nicolás E. Díaz Ferreyra et.al.|[2604.08352](http://arxiv.org/abs/2604.08352)||\n",
-    "2604.07936": "|**2026-04-09**|**Shortcut Learning in Glomerular AI: Adversarial Penalties Hurt, Entropy Helps**|Mohammad Daouk et.al.|[2604.07936](http://arxiv.org/abs/2604.07936)||\n",
+    "2604.07936": "|**2026-04-10**|**Shortcut Learning in Glomerular AI: Adversarial Penalties Hurt, Entropy Helps**|Mohammad Daouk et.al.|[2604.07936](http://arxiv.org/abs/2604.07936)||\n",
     "2604.07831": "|**2026-04-09**|**Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection**|Wenkui Yang et.al.|[2604.07831](http://arxiv.org/abs/2604.07831)||\n",
-    "2604.07536": "|**2026-04-08**|**TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation**|Hengkai Ye et.al.|[2604.07536](http://arxiv.org/abs/2604.07536)||\n"
+    "2604.07536": "|**2026-04-08**|**TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation**|Hengkai Ye et.al.|[2604.07536](http://arxiv.org/abs/2604.07536)||\n",
+    "2604.09378": "|**2026-04-10**|**BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning**|Guiyao Tie et.al.|[2604.09378](http://arxiv.org/abs/2604.09378)||\n",
+    "2604.09024": "|**2026-04-10**|**Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection**|Zedian Shao et.al.|[2604.09024](http://arxiv.org/abs/2604.09024)||\n"
   },
   "Scalable Oversight": {
     "2602.20014": "|**2026-02-23**|**Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence**|Olga Viberg et.al.|[2602.20014](http://arxiv.org/abs/2602.20014)||\n",
@@ -922,7 +932,8 @@
     "2604.04265": "|**2026-04-05**|**Governance-Constrained Agentic AI: Blockchain-Enforced Human Oversight for Safety-Critical Wildfire Monitoring**|Ali Akarma et.al.|[2604.04265](http://arxiv.org/abs/2604.04265)||\n",
     "2604.04174": "|**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[2604.04174](http://arxiv.org/abs/2604.04174)||\n",
     "2604.03515": "|**2026-04-03**|**Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures**|Benjamin Rombaut et.al.|[2604.03515](http://arxiv.org/abs/2604.03515)||\n",
-    "2604.07546": "|**2026-04-08**|**Agentic Copyright, Data Scraping & AI Governance: Toward a Coasean Bargain in the Era of Artificial Intelligence**|Paulius Jurcys et.al.|[2604.07546](http://arxiv.org/abs/2604.07546)||\n"
+    "2604.07546": "|**2026-04-08**|**Agentic Copyright, Data Scraping & AI Governance: Toward a Coasean Bargain in the Era of Artificial Intelligence**|Paulius Jurcys et.al.|[2604.07546](http://arxiv.org/abs/2604.07546)||\n",
+    "2604.08606": "|**2026-04-08**|**Extrapolating Volition with Recursive Information Markets**|Abhimanyu Pallavi Sudhir et.al.|[2604.08606](http://arxiv.org/abs/2604.08606)||\n"
   },
   "Constitutional AI": {
     "2602.20100": "|**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)||\n",
