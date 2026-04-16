@@ -69,6 +69,7 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**AI-assisted writing and the reorganization of scientific knowledge**|Erjia Yan et.al.|[2604.14126](http://arxiv.org/abs/2604.14126)||
 |**2026-04-14**|**LLMs Are Not a Silver Bullet: A Case Study on Software Fairness**|Xinyue Li et.al.|[2604.12640](http://arxiv.org/abs/2604.12640)||
 |**2026-04-13**|**Consistency of AI-Generated Exercise Prescriptions: A Repeated Generation Study Using a Large Language Model**|Kihyuk Lee et.al.|[2604.11287](http://arxiv.org/abs/2604.11287)||
 |**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[2604.08529](http://arxiv.org/abs/2604.08529)||
@@ -98,6 +99,9 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)||
+|**2026-04-15**|**Linear Probe Accuracy Scales with Model Size and Benefits from Multi-Layer Ensembling**|Erik Nordby et.al.|[2604.13386](http://arxiv.org/abs/2604.13386)||
+|**2026-04-14**|**Bias at the End of the Score**|Salma Abdel Magid et.al.|[2604.13305](http://arxiv.org/abs/2604.13305)||
 |**2026-04-14**|**SOAR: Self-Correction for Optimal Alignment and Refinement in Diffusion Models**|You Qin et.al.|[2604.12617](http://arxiv.org/abs/2604.12617)||
 |**2026-04-13**|**Robust Optimization for Mitigating Reward Hacking with Correlated Proxies**|Zixuan Liu et.al.|[2604.12086](http://arxiv.org/abs/2604.12086)||
 |**2026-04-13**|**AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection**|Zijie Zhao et.al.|[2604.11950](http://arxiv.org/abs/2604.11950)||
@@ -172,6 +176,8 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception**|Ziming Wang et.al.|[2604.14089](http://arxiv.org/abs/2604.14089)||
+|**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)||
 |**2026-04-14**|**Can Persona-Prompted LLMs Emulate Subgroup Values? An Empirical Analysis of Generalisability and Fairness in Cultural Alignment**|Bryan Chen Zhengyu Tan et.al.|[2604.12851](http://arxiv.org/abs/2604.12851)||
 |**2026-04-13**|**LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety**|Junxiao Yang et.al.|[2604.12710](http://arxiv.org/abs/2604.12710)||
 |**2026-04-14**|**Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints**|Songping Peng et.al.|[2604.12384](http://arxiv.org/abs/2604.12384)||
@@ -418,13 +424,19 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)||
+|**2026-04-15**|**V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution**|Jingwen Zhang et.al.|[2604.13611](http://arxiv.org/abs/2604.13611)||
+|**2026-04-15**|**SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment**|Fumikazu Konishi et.al.|[2604.13600](http://arxiv.org/abs/2604.13600)||
+|**2026-04-15**|**On the Optimality of Uncertain MDP Abstractions**|Ibon Gracia et.al.|[2604.13377](http://arxiv.org/abs/2604.13377)||
+|**2026-04-15**|**A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings**|Caiwen Jiang et.al.|[2604.13367](http://arxiv.org/abs/2604.13367)||
+|**2026-04-14**|**See&Say: Vision Language Guided Safe Zone Detection for Autonomous Package Delivery Drones**|Mahyar Ghazanfari et.al.|[2604.13292](http://arxiv.org/abs/2604.13292)||
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)||
 |**2026-04-14**|**See, Point, Refine: Multi-Turn Approach to GUI Grounding with Visual Feedback**|Himangi Mittal et.al.|[2604.13019](http://arxiv.org/abs/2604.13019)||
-|**2026-04-14**|**From edges to meaning: Semantic line sketches as a cognitive scaffold for ancient pictograph invention**|Seowung Leem et.al.|[2604.12865](http://arxiv.org/abs/2604.12865)||
+|**2026-04-15**|**From edges to meaning: Semantic line sketches as a cognitive scaffold for ancient pictograph invention**|Seowung Leem et.al.|[2604.12865](http://arxiv.org/abs/2604.12865)||
 |**2026-04-14**|**PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting**|Kangmin Seo et.al.|[2604.12580](http://arxiv.org/abs/2604.12580)||
 |**2026-04-14**|**MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization**|Ziqing Wang et.al.|[2604.12237](http://arxiv.org/abs/2604.12237)||
 |**2026-04-14**|**AdversarialCoT: Single-Document Retrieval Poisoning for LLM Reasoning**|Hongru Song et.al.|[2604.12201](http://arxiv.org/abs/2604.12201)||
-|**2026-04-13**|**Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks**|Arun Sharma et.al.|[2604.12102](http://arxiv.org/abs/2604.12102)||
+|**2026-04-15**|**Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks**|Arun Sharma et.al.|[2604.12102](http://arxiv.org/abs/2604.12102)||
 |**2026-04-13**|**Interpretable DNA Sequence Classification via Dynamic Feature Generation in Decision Trees**|Nicolas Huynh et.al.|[2604.12060](http://arxiv.org/abs/2604.12060)||
 |**2026-04-13**|**Understanding Large-Scale HPC System Behavior Through Cluster-Based Visual Analytics**|Allison Austin et.al.|[2604.11965](http://arxiv.org/abs/2604.11965)||
 |**2026-04-13**|**From Translation to Superset: Benchmark-Driven Evolution of a Production AI Agent from Rust to Python**|Jinhua Wang et.al.|[2604.11518](http://arxiv.org/abs/2604.11518)||
@@ -647,9 +659,11 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**CLIP Architecture for Abdominal CT Image-Text Alignment and Zero-Shot Learning: Investigating Batch Composition and Data Scaling**|Shivika et.al.|[2604.13561](http://arxiv.org/abs/2604.13561)||
+|**2026-04-15**|**Enhanced Text-to-Image Generation by Fine-grained Multimodal Reasoning**|Yongjin Kim et.al.|[2604.13491](http://arxiv.org/abs/2604.13491)||
 |**2026-04-14**|**PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning**|Jinlong Liu et.al.|[2604.12652](http://arxiv.org/abs/2604.12652)||
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)||
-|**2026-04-06**|**Grid2Matrix: Revealing Digital Agnosia in Vision-Language Models**|Yunkai Zhang et.al.|[2604.09687](http://arxiv.org/abs/2604.09687)||
+|**2026-04-14**|**Grid2Matrix: Revealing Digital Agnosia in Vision-Language Models**|Yunkai Zhang et.al.|[2604.09687](http://arxiv.org/abs/2604.09687)||
 |**2026-03-28**|**On the Spectral Geometry of Cross-Modal Representations: A Functional Map Diagnostic for Multimodal Alignment**|Krisanu Sarkar et.al.|[2604.08579](http://arxiv.org/abs/2604.08579)||
 |**2026-04-10**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)||
 |**2026-04-07**|**Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**|Qiyuan Chen et.al.|[2604.05445](http://arxiv.org/abs/2604.05445)||
@@ -707,6 +721,10 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**The Epidemiology of Artificial Intelligence**|Harsh Parikh et.al.|[2604.14086](http://arxiv.org/abs/2604.14086)||
+|**2026-04-15**|**From Disclosure to Self-Referential Opacity: Six Dimensions of Strain in Current AI Governance**|Tony Rost et.al.|[2604.14070](http://arxiv.org/abs/2604.14070)||
+|**2026-04-15**|**Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation**|Arya Shah et.al.|[2604.13803](http://arxiv.org/abs/2604.13803)||
+|**2026-04-15**|**Making AI Compliance Evidence Machine-Readable**|Rodrigo Cilla Ugarte et.al.|[2604.13767](http://arxiv.org/abs/2604.13767)||
 |**2026-04-14**|**AISafetyBenchExplorer: A Metric-Aware Catalogue of AI Safety Benchmarks Reveals Fragmented Measurement and Weak Benchmark Governance**|Abiodun A. Solanke et.al.|[2604.12875](http://arxiv.org/abs/2604.12875)||
 |**2026-04-13**|**LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety**|Junxiao Yang et.al.|[2604.12710](http://arxiv.org/abs/2604.12710)||
 |**2026-04-14**|**Safety Training Modulates Harmful Misalignment Under On-Policy RL, But Direction Depends on Environment Design**|Leon Eshuijs et.al.|[2604.12500](http://arxiv.org/abs/2604.12500)||
@@ -836,8 +854,9 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Cross-Platform Domain Adaptation for Multi-Modal MOOC Learner Satisfaction Prediction**|Jakub Kowalski et.al.|[2604.13247](http://arxiv.org/abs/2604.13247)||
 |**2026-04-14**|**DeepSeek Robustness Against Semantic-Character Dual-Space Mutated Prompt Injection**|Junyu Ren et.al.|[2604.12548](http://arxiv.org/abs/2604.12548)||
-|**2026-04-14**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371](http://arxiv.org/abs/2604.12371)||
+|**2026-04-15**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371](http://arxiv.org/abs/2604.12371)||
 |**2026-04-14**|**WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents**|Yulin Chen et.al.|[2604.12284](http://arxiv.org/abs/2604.12284)||
 |**2026-04-14**|**TEMPLATEFUZZ: Fine-Grained Chat Template Fuzzing for Jailbreaking and Red Teaming LLMs**|Qingchao Shen et.al.|[2604.12232](http://arxiv.org/abs/2604.12232)||
 |**2026-04-14**|**Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference**|Anes Abdennebi et.al.|[2604.12168](http://arxiv.org/abs/2604.12168)||
@@ -967,6 +986,7 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)||
 |**2026-04-14**|**Adaptive Budget Allocation in LLM-Augmented Surveys**|Zikun Ye et.al.|[2604.12497](http://arxiv.org/abs/2604.12497)||
 |**2026-04-13**|**GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses**|Jimin Mun et.al.|[2604.11924](http://arxiv.org/abs/2604.11924)||
 |**2026-04-13**|**Taking a Pulse on How Generative AI is Reshaping the Software Engineering Research Landscape**|Bianca Trinkenreich et.al.|[2604.11184](http://arxiv.org/abs/2604.11184)||
@@ -1053,6 +1073,7 @@ last_updated: 2026.04.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Scalable framework for quantum transport across large physical networks**|Adam Burgess et.al.|[2604.13704](http://arxiv.org/abs/2604.13704)||
 |**2026-04-14**|**Human Agency, Causality, and the Human Computer Interface in High-Stakes Artificial Intelligence**|Georges Hattab et.al.|[2604.12793](http://arxiv.org/abs/2604.12793)||
 |**2026-04-13**|**A hydrodynamic origin of Korteweg stresses from shear-induced horizontal buoyancy**|Prabakaran Rajamanickam et.al.|[2604.12058](http://arxiv.org/abs/2604.12058)||
 |**2026-04-13**|**AI Integrity: A New Paradigm for Verifiable AI Governance**|Seulki Lee et.al.|[2604.11065](http://arxiv.org/abs/2604.11065)||
