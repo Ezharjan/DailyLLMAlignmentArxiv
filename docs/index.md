@@ -41,7 +41,7 @@ last_updated: 2026.04.17
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-05**|**Agentic Code Optimization via Compiler-LLM Cooperation**|Benjamin Mikek et.al.|[2604.04238](http://arxiv.org/abs/2604.04238)||
-|**2026-04-06**|**AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks**|Prince Zizhuang Wang et.al.|[2604.01487](http://arxiv.org/abs/2604.01487)||
+|**2026-04-06**|**AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks**|Prince Zizhuang Wang et.al.|[2604.01487](http://arxiv.org/abs/2604.01487)|**[link](https://github.com/agent-social-bench/agent-social-bench.github.io)**|
 |**2026-04-01**|**Detecting Multi-Agent Collusion Through Multi-Agent Interpretability**|Aaron Rose et.al.|[2604.01151](http://arxiv.org/abs/2604.01151)||
 |**2026-03-31**|**Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry**|Syed Eqbal Alam et.al.|[2604.00319](http://arxiv.org/abs/2604.00319)||
 |**2026-03-31**|**Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption**|Ravish Gupta et.al.|[2604.00186](http://arxiv.org/abs/2604.00186)||
@@ -69,6 +69,7 @@ last_updated: 2026.04.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163](http://arxiv.org/abs/2604.15163)||
 |**2026-04-15**|**AI-assisted writing and the reorganization of scientific knowledge**|Erjia Yan et.al.|[2604.14126](http://arxiv.org/abs/2604.14126)||
 |**2026-04-14**|**LLMs Are Not a Silver Bullet: A Case Study on Software Fairness**|Xinyue Li et.al.|[2604.12640](http://arxiv.org/abs/2604.12640)||
 |**2026-04-13**|**Consistency of AI-Generated Exercise Prescriptions: A Repeated Generation Study Using a Large Language Model**|Kihyuk Lee et.al.|[2604.11287](http://arxiv.org/abs/2604.11287)||
@@ -99,6 +100,9 @@ last_updated: 2026.04.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking**|Lukas Helff et.al.|[2604.15149](http://arxiv.org/abs/2604.15149)||
+|**2026-04-16**|**GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation**|Yanyan Zou et.al.|[2604.14878](http://arxiv.org/abs/2604.14878)||
+|**2026-04-16**|**SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling**|Hao Han et.al.|[2604.14820](http://arxiv.org/abs/2604.14820)||
 |**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)||
 |**2026-04-15**|**Linear Probe Accuracy Scales with Model Size and Benefits from Multi-Layer Ensembling**|Erik Nordby et.al.|[2604.13386](http://arxiv.org/abs/2604.13386)||
 |**2026-04-14**|**Bias at the End of the Score**|Salma Abdel Magid et.al.|[2604.13305](http://arxiv.org/abs/2604.13305)||
@@ -424,9 +428,16 @@ last_updated: 2026.04.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Agent-Aided Design for Dynamic CAD Models**|Mitch Adler et.al.|[2604.15184](http://arxiv.org/abs/2604.15184)||
+|**2026-04-16**|**HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization**|Hanyun Jiang et.al.|[2604.15041](http://arxiv.org/abs/2604.15041)||
+|**2026-04-16**|**Applying SHAPR in AI-Assisted Research Software Development: Lessons Learnt from Building a Share Trading System**|Ka Ching Chan et.al.|[2604.15020](http://arxiv.org/abs/2604.15020)||
+|**2026-04-16**|**Vibe-Coding: Feedback-Based Automated Verification with no Human Code Inspection, a Feasibility Study**|Michal Töpfer et.al.|[2604.14867](http://arxiv.org/abs/2604.14867)||
+|**2026-04-15**|**Demonstration of Pneuma-Seeker: Agentic System for Reifying and Fulfilling Information Needs on Tabular Data**|Muhammad Imam Luthfi Balaka et.al.|[2604.14422](http://arxiv.org/abs/2604.14422)||
+|**2026-04-15**|**Interactive Exploration of Large-scale Streamlines of Vector Fields via a Curve Segment Neighborhood Graph**|Nguyen Phan et.al.|[2604.14365](http://arxiv.org/abs/2604.14365)||
+|**2026-04-15**|**Geometrically Consistent Multi-View Scene Generation from Freehand Sketches**|Ahmed Bourouis et.al.|[2604.14302](http://arxiv.org/abs/2604.14302)||
 |**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)||
 |**2026-04-15**|**V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution**|Jingwen Zhang et.al.|[2604.13611](http://arxiv.org/abs/2604.13611)||
-|**2026-04-15**|**SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment**|Fumikazu Konishi et.al.|[2604.13600](http://arxiv.org/abs/2604.13600)||
+|**2026-04-16**|**SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment**|Fumikazu Konishi et.al.|[2604.13600](http://arxiv.org/abs/2604.13600)||
 |**2026-04-15**|**On the Optimality of Uncertain MDP Abstractions**|Ibon Gracia et.al.|[2604.13377](http://arxiv.org/abs/2604.13377)||
 |**2026-04-15**|**A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings**|Caiwen Jiang et.al.|[2604.13367](http://arxiv.org/abs/2604.13367)||
 |**2026-04-14**|**See&Say: Vision Language Guided Safe Zone Detection for Autonomous Package Delivery Drones**|Mahyar Ghazanfari et.al.|[2604.13292](http://arxiv.org/abs/2604.13292)||
@@ -659,8 +670,11 @@ last_updated: 2026.04.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)||
+|**2026-04-16**|**Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models**|Haoyi Sun et.al.|[2604.14629](http://arxiv.org/abs/2604.14629)||
+|**2026-04-15**|**SatBLIP: Context Understanding and Feature Identification from Satellite Imagery with Vision-Language Learning**|Xue Wu et.al.|[2604.14373](http://arxiv.org/abs/2604.14373)||
 |**2026-04-15**|**CLIP Architecture for Abdominal CT Image-Text Alignment and Zero-Shot Learning: Investigating Batch Composition and Data Scaling**|Shivika et.al.|[2604.13561](http://arxiv.org/abs/2604.13561)||
-|**2026-04-15**|**Enhanced Text-to-Image Generation by Fine-grained Multimodal Reasoning**|Yongjin Kim et.al.|[2604.13491](http://arxiv.org/abs/2604.13491)||
+|**2026-04-16**|**Enhanced Text-to-Image Generation by Fine-grained Multimodal Reasoning**|Yongjin Kim et.al.|[2604.13491](http://arxiv.org/abs/2604.13491)||
 |**2026-04-14**|**PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning**|Jinlong Liu et.al.|[2604.12652](http://arxiv.org/abs/2604.12652)||
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)||
 |**2026-04-14**|**Grid2Matrix: Revealing Digital Agnosia in Vision-Language Models**|Yunkai Zhang et.al.|[2604.09687](http://arxiv.org/abs/2604.09687)||
@@ -721,6 +735,12 @@ last_updated: 2026.04.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Agentic Microphysics: A Manifesto for Generative AI Safety**|Federico Pierucci et.al.|[2604.15236](http://arxiv.org/abs/2604.15236)||
+|**2026-04-16**|**Context Over Content: Exposing Evaluation Faking in Automated Judges**|Manan Gupta et.al.|[2604.15224](http://arxiv.org/abs/2604.15224)||
+|**2026-04-16**|**Agentic Explainability at Scale: Between Corporate Fears and XAI Needs**|Yomna Elsayed et.al.|[2604.14984](http://arxiv.org/abs/2604.14984)||
+|**2026-04-16**|**Layered Mutability: Continuity and Governance in Persistent Self-Modifying Agents**|Krti Tallam et.al.|[2604.14717](http://arxiv.org/abs/2604.14717)||
+|**2026-04-16**|**Mechanistic Decoding of Cognitive Constructs in LLMs**|Yitong Shou et.al.|[2604.14593](http://arxiv.org/abs/2604.14593)||
+|**2026-04-15**|**Calibrate-Then-Delegate: Safety Monitoring with Risk and Budget Guarantees via Model Cascades**|Edoardo Pona et.al.|[2604.14251](http://arxiv.org/abs/2604.14251)||
 |**2026-04-15**|**The Epidemiology of Artificial Intelligence**|Harsh Parikh et.al.|[2604.14086](http://arxiv.org/abs/2604.14086)||
 |**2026-04-15**|**From Disclosure to Self-Referential Opacity: Six Dimensions of Strain in Current AI Governance**|Tony Rost et.al.|[2604.14070](http://arxiv.org/abs/2604.14070)||
 |**2026-04-15**|**Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation**|Arya Shah et.al.|[2604.13803](http://arxiv.org/abs/2604.13803)||
@@ -854,6 +874,7 @@ last_updated: 2026.04.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection**|Meng Chen et.al.|[2604.14604](http://arxiv.org/abs/2604.14604)||
 |**2026-04-14**|**Cross-Platform Domain Adaptation for Multi-Modal MOOC Learner Satisfaction Prediction**|Jakub Kowalski et.al.|[2604.13247](http://arxiv.org/abs/2604.13247)||
 |**2026-04-14**|**DeepSeek Robustness Against Semantic-Character Dual-Space Mutated Prompt Injection**|Junyu Ren et.al.|[2604.12548](http://arxiv.org/abs/2604.12548)||
 |**2026-04-15**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371](http://arxiv.org/abs/2604.12371)||
@@ -986,6 +1007,10 @@ last_updated: 2026.04.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)||
+|**2026-04-16**|**Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems**|Simeon Allmendinger et.al.|[2604.15078](http://arxiv.org/abs/2604.15078)||
+|**2026-04-16**|**CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors**|Yubin Kim et.al.|[2604.14615](http://arxiv.org/abs/2604.14615)||
+|**2026-04-16**|**GDPR Auto-Formalization with AI Agents and Human Verification**|Ha Thanh Nguyen et.al.|[2604.14607](http://arxiv.org/abs/2604.14607)||
 |**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)||
 |**2026-04-14**|**Adaptive Budget Allocation in LLM-Augmented Surveys**|Zikun Ye et.al.|[2604.12497](http://arxiv.org/abs/2604.12497)||
 |**2026-04-13**|**GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses**|Jimin Mun et.al.|[2604.11924](http://arxiv.org/abs/2604.11924)||
