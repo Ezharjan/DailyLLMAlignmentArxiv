@@ -48,7 +48,9 @@
     "2604.00186": "|**2026-03-31**|**Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption**|Ravish Gupta et.al.|[2604.00186](http://arxiv.org/abs/2604.00186)||\n",
     "2603.29285": "|**2026-04-04**|**Designing Human-GenAI Interaction for cMOOC Discussion Facilitation: Effects of a Collaborative AI-in-the-Loop Workflow on Social and Cognitive Presence**|Jianjun Xiao et.al.|[2603.29285](http://arxiv.org/abs/2603.29285)||\n",
     "2603.27857": "|**2026-03-29**|**CARGO: Carbon-Aware Gossip Orchestration in Smart Shipping**|Alexandros S. Kalafatelis et.al.|[2603.27857](http://arxiv.org/abs/2603.27857)||\n",
-    "2604.04238": "|**2026-04-05**|**Agentic Code Optimization via Compiler-LLM Cooperation**|Benjamin Mikek et.al.|[2604.04238](http://arxiv.org/abs/2604.04238)||\n"
+    "2604.04238": "|**2026-04-05**|**Agentic Code Optimization via Compiler-LLM Cooperation**|Benjamin Mikek et.al.|[2604.04238](http://arxiv.org/abs/2604.04238)||\n",
+    "2604.18883": "|**2026-04-20**|**Choose Your Own Adventure: Non-Linear AI-Assisted Programming with EvoGraph**|Vassilios Exarhakos et.al.|[2604.18883](http://arxiv.org/abs/2604.18883)||\n",
+    "2604.18850": "|**2026-04-20**|**The Triadic Loop: A Framework for Negotiating Alignment in AI Co-hosted Livestreaming**|Katherine Wang et.al.|[2604.18850](http://arxiv.org/abs/2604.18850)||\n"
   },
   "Coherence in LLMs": {
     "2602.16660": "|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)||\n",
@@ -160,7 +162,9 @@
     "2604.18091": "|**2026-04-20**|**Culture-Aware Humorous Captioning: Multimodal Humor Generation across Cultural Contexts**|Run Xu et.al.|[2604.18091](http://arxiv.org/abs/2604.18091)||\n",
     "2604.17769": "|**2026-04-20**|**Reverse Constitutional AI: A Framework for Controllable Toxic Data Generation via Probability-Clamped RLAIF**|Yuan Fang et.al.|[2604.17769](http://arxiv.org/abs/2604.17769)||\n",
     "2604.17573": "|**2026-04-19**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573](http://arxiv.org/abs/2604.17573)||\n",
-    "2604.16723": "|**2026-04-17**|**Debate as Reward: A Multi-Agent Reward System for Scientific Ideation via RL Post-Training**|Moein Salimi et.al.|[2604.16723](http://arxiv.org/abs/2604.16723)||\n"
+    "2604.16723": "|**2026-04-17**|**Debate as Reward: A Multi-Agent Reward System for Scientific Ideation via RL Post-Training**|Moein Salimi et.al.|[2604.16723](http://arxiv.org/abs/2604.16723)||\n",
+    "2604.20051": "|**2026-04-21**|**Bootstrapping Post-training Signals for Open-ended Tasks via Rubric-based Self-play on Pre-training Text**|Chengyu Huang et.al.|[2604.20051](http://arxiv.org/abs/2604.20051)||\n",
+    "2604.18639": "|**2026-04-19**|**Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning**|Zhiyin Yu et.al.|[2604.18639](http://arxiv.org/abs/2604.18639)||\n"
   },
   "AI Alignment Techniques": {
     "2602.19416": "|**2026-02-23**|**IR$^3$: Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking**|Mohammad Beigi et.al.|[2602.19416](http://arxiv.org/abs/2602.19416)||\n",
@@ -403,7 +407,22 @@
     "2604.17132": "|**2026-04-18**|**Please refuse to answer me! Mitigating Over-Refusal in Large Language Models via Adaptive Contrastive Decoding**|Yupeng Qi et.al.|[2604.17132](http://arxiv.org/abs/2604.17132)||\n",
     "2604.17093": "|**2026-04-18**|**HarmChip: Evaluating Hardware Security Centric LLM Safety via Jailbreak Benchmarking**|Zeng Wang et.al.|[2604.17093](http://arxiv.org/abs/2604.17093)||\n",
     "2604.17065": "|**2026-04-18**|**BasketHAR: A Multimodal Dataset for Human Activity Recognition and Sport Analysis in Basketball Training Scenarios**|Xian Gao et.al.|[2604.17065](http://arxiv.org/abs/2604.17065)||\n",
-    "2604.16916": "|**2026-04-18**|**When Choices Become Risks: Safety Failures of Large Language Models under Multiple-Choice Constraints**|Yuheng Chen et.al.|[2604.16916](http://arxiv.org/abs/2604.16916)||\n"
+    "2604.16916": "|**2026-04-18**|**When Choices Become Risks: Safety Failures of Large Language Models under Multiple-Choice Constraints**|Yuheng Chen et.al.|[2604.16916](http://arxiv.org/abs/2604.16916)||\n",
+    "2604.20805": "|**2026-04-22**|**Relative Principals, Pluralistic Alignment, and the Structural Value Alignment Problem**|Travis LaCroix et.al.|[2604.20805](http://arxiv.org/abs/2604.20805)||\n",
+    "2604.20685": "|**2026-04-22**|**MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment**|Andor Vári-Kakas et.al.|[2604.20685](http://arxiv.org/abs/2604.20685)||\n",
+    "2604.20569": "|**2026-04-22**|**The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality**|Umberto Domanti et.al.|[2604.20569](http://arxiv.org/abs/2604.20569)||\n",
+    "2604.20055": "|**2026-04-21**|**From Fuzzy to Formal: Scaling Hospital Quality Improvement with AI**|Patrick Vossler et.al.|[2604.20055](http://arxiv.org/abs/2604.20055)||\n",
+    "2604.19631": "|**2026-04-21**|**MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation**|Xuejiao Wang et.al.|[2604.19631](http://arxiv.org/abs/2604.19631)||\n",
+    "2604.19461": "|**2026-04-21**|**Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4**|Alex Polyakov et.al.|[2604.19461](http://arxiv.org/abs/2604.19461)||\n",
+    "2604.19425": "|**2026-04-21**|**seneca: A Personalized Conversational Planner**|Simon Bohnen et.al.|[2604.19425](http://arxiv.org/abs/2604.19425)||\n",
+    "2604.19274": "|**2026-04-21**|**HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing**|Euntae Kim et.al.|[2604.19274](http://arxiv.org/abs/2604.19274)||\n",
+    "2604.19260": "|**2026-04-21**|**Understanding the Mechanism of Altruism in Large Language Models**|Shuhuai Zhang et.al.|[2604.19260](http://arxiv.org/abs/2604.19260)||\n",
+    "2604.19139": "|**2026-04-21**|**The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models**|Shuai Wu et.al.|[2604.19139](http://arxiv.org/abs/2604.19139)||\n",
+    "2604.19117": "|**2026-04-21**|**LLMs Know They're Wrong and Agree Anyway: The Shared Sycophancy-Lying Circuit**|Manav Pandey et.al.|[2604.19117](http://arxiv.org/abs/2604.19117)||\n",
+    "2604.19018": "|**2026-04-21**|**Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control**|Julian Skifstad et.al.|[2604.19018](http://arxiv.org/abs/2604.19018)||\n",
+    "2604.18946": "|**2026-04-21**|**Reasoning Structure Matters for Safety Alignment of Reasoning Models**|Yeonjun In et.al.|[2604.18946](http://arxiv.org/abs/2604.18946)||\n",
+    "2604.18943": "|**2026-04-21**|**Personalized Benchmarking: Evaluating LLMs by Individual Preferences**|Cristina Garbacea et.al.|[2604.18943](http://arxiv.org/abs/2604.18943)||\n",
+    "2604.18839": "|**2026-04-20**|**One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models**|Chris Cameron et.al.|[2604.18839](http://arxiv.org/abs/2604.18839)||\n"
   },
   "Unsupervised Elicitation": {
     "2601.17728": "|**2026-01-25**|**Unsupervised Elicitation of Moral Values from Language Models**|Meysam Alizadeh et.al.|[2601.17728](http://arxiv.org/abs/2601.17728)||\n",
@@ -681,7 +700,17 @@
     "2604.17184": "|**2026-04-19**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184](http://arxiv.org/abs/2604.17184)||\n",
     "2604.17152": "|**2026-04-18**|**Thermodynamics of Coherence-Selective Quantum Reset Protocols**|Jishad Kumar et.al.|[2604.17152](http://arxiv.org/abs/2604.17152)||\n",
     "2604.17149": "|**2026-04-18**|**FlowRefiner: Flow Matching-Based Iterative Refinement for 3D Turbulent Flow Simulation**|Yilong Dai et.al.|[2604.17149](http://arxiv.org/abs/2604.17149)||\n",
-    "2604.17072": "|**2026-04-18**|**CogGen: A Cognitively Inspired Recursive Framework for Deep Research Report Generation**|Kuo Tian et.al.|[2604.17072](http://arxiv.org/abs/2604.17072)||\n"
+    "2604.17072": "|**2026-04-18**|**CogGen: A Cognitively Inspired Recursive Framework for Deep Research Report Generation**|Kuo Tian et.al.|[2604.17072](http://arxiv.org/abs/2604.17072)||\n",
+    "2604.20348": "|**2026-04-22**|**Bimanual Robot Manipulation via Multi-Agent In-Context Learning**|Alessio Palma et.al.|[2604.20348](http://arxiv.org/abs/2604.20348)||\n",
+    "2604.20261": "|**2026-04-22**|**Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data**|Fengxian Dong et.al.|[2604.20261](http://arxiv.org/abs/2604.20261)||\n",
+    "2604.20254": "|**2026-04-22**|**Mol-Debate: Multi-Agent Debate Improves Structural Reasoning in Molecular Design**|Wengyu Zhang et.al.|[2604.20254](http://arxiv.org/abs/2604.20254)||\n",
+    "2604.20146": "|**2026-04-22**|**SAKE: Self-aware Knowledge Exploitation-Exploration for Grounded Multimodal Named Entity Recognition**|Jielong Tang et.al.|[2604.20146](http://arxiv.org/abs/2604.20146)||\n",
+    "2604.20128": "|**2026-04-22**|**Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging**|Peiming Luo et.al.|[2604.20128](http://arxiv.org/abs/2604.20128)||\n",
+    "2604.20055": "|**2026-04-21**|**From Fuzzy to Formal: Scaling Hospital Quality Improvement with AI**|Patrick Vossler et.al.|[2604.20055](http://arxiv.org/abs/2604.20055)||\n",
+    "2604.19624": "|**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)||\n",
+    "2604.19341": "|**2026-04-21**|**Evaluation-driven Scaling for Scientific Discovery**|Haotian Ye et.al.|[2604.19341](http://arxiv.org/abs/2604.19341)||\n",
+    "2604.19305": "|**2026-04-21**|**DebugRepair: Enhancing LLM-Based Automated Program Repair via Self-Directed Debugging**|Linhao Wu et.al.|[2604.19305](http://arxiv.org/abs/2604.19305)||\n",
+    "2604.18839": "|**2026-04-20**|**One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models**|Chris Cameron et.al.|[2604.18839](http://arxiv.org/abs/2604.18839)||\n"
   },
   "VLM Alignment": {
     "2602.14889": "|**2026-02-16**|**Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment**|Mounvik K et.al.|[2602.14889](http://arxiv.org/abs/2602.14889)||\n",
@@ -738,7 +767,7 @@
     "2604.08579": "|**2026-03-28**|**On the Spectral Geometry of Cross-Modal Representations: A Functional Map Diagnostic for Multimodal Alignment**|Krisanu Sarkar et.al.|[2604.08579](http://arxiv.org/abs/2604.08579)||\n",
     "2604.11283": "|**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)||\n",
     "2604.09687": "|**2026-04-14**|**Grid2Matrix: Revealing Digital Agnosia in Vision-Language Models**|Yunkai Zhang et.al.|[2604.09687](http://arxiv.org/abs/2604.09687)||\n",
-    "2604.12652": "|**2026-04-14**|**PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning**|Jinlong Liu et.al.|[2604.12652](http://arxiv.org/abs/2604.12652)||\n",
+    "2604.12652": "|**2026-04-22**|**PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning**|Jinlong Liu et.al.|[2604.12652](http://arxiv.org/abs/2604.12652)||\n",
     "2604.13561": "|**2026-04-15**|**CLIP Architecture for Abdominal CT Image-Text Alignment and Zero-Shot Learning: Investigating Batch Composition and Data Scaling**|Shivika et.al.|[2604.13561](http://arxiv.org/abs/2604.13561)||\n",
     "2604.13491": "|**2026-04-16**|**Enhanced Text-to-Image Generation by Fine-grained Multimodal Reasoning**|Yongjin Kim et.al.|[2604.13491](http://arxiv.org/abs/2604.13491)||\n",
     "2604.15311": "|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)||\n",
@@ -748,10 +777,11 @@
     "2604.15663": "|**2026-04-17**|**CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval**|Jiahui Geng et.al.|[2604.15663](http://arxiv.org/abs/2604.15663)||\n",
     "2604.18376": "|**2026-04-20**|**Towards Robust Text-to-Image Person Retrieval: Multi-View Reformulation for Semantic Compensation**|Chao Yuan et.al.|[2604.18376](http://arxiv.org/abs/2604.18376)||\n",
     "2604.18021": "|**2026-04-20**|**Paradigm Shift from Statistical Channel Modeling to Digital Twin Prediction: An Environment-Generalizable ChannelLM for 6G AI-enabled Air Interface**|Yichen Cai et.al.|[2604.18021](http://arxiv.org/abs/2604.18021)||\n",
-    "2604.17797": "|**2026-04-20**|**Weakly-Supervised Referring Video Object Segmentation through Text Supervision**|Miaojing Shi et.al.|[2604.17797](http://arxiv.org/abs/2604.17797)||\n",
+    "2604.17797": "|**2026-04-21**|**Weakly-Supervised Referring Video Object Segmentation through Text Supervision**|Miaojing Shi et.al.|[2604.17797](http://arxiv.org/abs/2604.17797)||\n",
     "2604.17065": "|**2026-04-18**|**BasketHAR: A Multimodal Dataset for Human Activity Recognition and Sport Analysis in Basketball Training Scenarios**|Xian Gao et.al.|[2604.17065](http://arxiv.org/abs/2604.17065)||\n",
     "2604.16979": "|**2026-04-18**|**DOSE: Data Selection for Multi-Modal LLMs via Off-the-Shelf Models**|Biao Wu et.al.|[2604.16979](http://arxiv.org/abs/2604.16979)||\n",
-    "2604.16879": "|**2026-04-18**|**Adaptive Forensic Feature Refinement via Intrinsic Importance Perception**|Jiazhen Yang et.al.|[2604.16879](http://arxiv.org/abs/2604.16879)||\n"
+    "2604.16879": "|**2026-04-22**|**Adaptive Forensic Feature Refinement via Intrinsic Importance Perception**|Jiazhen Yang et.al.|[2604.16879](http://arxiv.org/abs/2604.16879)||\n",
+    "2604.18757": "|**2026-04-20**|**REVEAL: Multimodal Vision-Language Alignment of Retinal Morphometry and Clinical Risks for Incident AD and Dementia Prediction**|Seowung Leem et.al.|[2604.18757](http://arxiv.org/abs/2604.18757)||\n"
   },
   "AI Safety Mechanisms": {
     "2602.20102": "|**2026-02-23**|**BarrierSteer: LLM Safety via Learning Barrier Steering**|Thanh Q. Tran et.al.|[2602.20102](http://arxiv.org/abs/2602.20102)||\n",
@@ -900,7 +930,10 @@
     "2604.16824": "|**2026-04-18**|**SafeDream: Safety World Model for Proactive Early Jailbreak Detection**|Bo Yan et.al.|[2604.16824](http://arxiv.org/abs/2604.16824)||\n",
     "2604.16606": "|**2026-04-17**|**SafeLM: Unified Privacy-Aware Optimization for Trustworthy Federated Large Language Models**|Noor Islam S. Mohammad et.al.|[2604.16606](http://arxiv.org/abs/2604.16606)||\n",
     "2604.16543": "|**2026-04-17**|**Conjunctive Prompt Attacks in Multi-Agent LLM Systems**|Nokimul Hasan Arif et.al.|[2604.16543](http://arxiv.org/abs/2604.16543)||\n",
-    "2604.16542": "|**2026-04-17**|**TWGuard: A Case Study of LLM Safety Guardrails for Localized Linguistic Contexts**|Hua-Rong Chu et.al.|[2604.16542](http://arxiv.org/abs/2604.16542)||\n"
+    "2604.16542": "|**2026-04-17**|**TWGuard: A Case Study of LLM Safety Guardrails for Localized Linguistic Contexts**|Hua-Rong Chu et.al.|[2604.16542](http://arxiv.org/abs/2604.16542)||\n",
+    "2604.19461": "|**2026-04-21**|**Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4**|Alex Polyakov et.al.|[2604.19461](http://arxiv.org/abs/2604.19461)||\n",
+    "2604.19281": "|**2026-04-21**|**Beyond Semantic Similarity: A Component-Wise Evaluation Framework for Medical Question Answering Systems with Health Equity Implications**|Abu Noman Md Sakib et.al.|[2604.19281](http://arxiv.org/abs/2604.19281)||\n",
+    "2604.18867": "|**2026-04-20**|**Hierarchically Robust Zero-shot Vision-language Models**|Junhao Dong et.al.|[2604.18867](http://arxiv.org/abs/2604.18867)||\n"
   },
   "Adversarial Attacks on Alignment": {
     "2602.20156": "|**2026-02-25**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)||\n",
@@ -1040,7 +1073,13 @@
     "2604.17125": "|**2026-04-18**|**CASCADE: A Cascaded Hybrid Defense Architecture for Prompt Injection Detection in MCP-Based Systems**|İpek Abasıkeleş Turgut et.al.|[2604.17125](http://arxiv.org/abs/2604.17125)||\n",
     "2604.16966": "|**2026-04-18**|**Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning**|Jiachen Qian et.al.|[2604.16966](http://arxiv.org/abs/2604.16966)||\n",
     "2604.16838": "|**2026-04-18**|**enclawed: A Configurable, Sector-Neutral Hardening Framework for Single-User AI Assistant Gateways**|Alfredo Metere et.al.|[2604.16838](http://arxiv.org/abs/2604.16838)||\n",
-    "2604.16762": "|**2026-04-18**|**CapSeal: Capability-Sealed Secret Mediation for Secure Agent Execution**|Shutong Jin et.al.|[2604.16762](http://arxiv.org/abs/2604.16762)||\n"
+    "2604.16762": "|**2026-04-18**|**CapSeal: Capability-Sealed Secret Mediation for Secure Agent Execution**|Shutong Jin et.al.|[2604.16762](http://arxiv.org/abs/2604.16762)||\n",
+    "2604.20732": "|**2026-04-22**|**Anchor-and-Resume Concession Under Dynamic Pricing for LLM-Augmented Freight Negotiation**|Hoang Nguyen et.al.|[2604.20732](http://arxiv.org/abs/2604.20732)||\n",
+    "2604.19657": "|**2026-04-21**|**An AI Agent Execution Environment to Safeguard User Data**|Robert Stanley et.al.|[2604.19657](http://arxiv.org/abs/2604.19657)||\n",
+    "2604.19844": "|**2026-04-21**|**If you're waiting for a sign... that might not be it! Mitigating Trust Boundary Confusion from Visual Injections on Vision-Language Agentic Systems**|Jiamin Chang et.al.|[2604.19844](http://arxiv.org/abs/2604.19844)||\n",
+    "2604.19238": "|**2026-04-21**|**Allo{SR}$^2$: Rectifying One-Step Super-Resolution to Stay Real via Allomorphic Generative Flows**|Zihan Wang et.al.|[2604.19238](http://arxiv.org/abs/2604.19238)||\n",
+    "2604.18660": "|**2026-04-20**|**Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks**|Jin Zhao et.al.|[2604.18660](http://arxiv.org/abs/2604.18660)||\n",
+    "2604.18658": "|**2026-04-20**|**Owner-Harm: A Missing Threat Model for AI Agent Safety**|Dongcheng Zhang et.al.|[2604.18658](http://arxiv.org/abs/2604.18658)||\n"
   },
   "Scalable Oversight": {
     "2602.20014": "|**2026-02-23**|**Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence**|Olga Viberg et.al.|[2602.20014](http://arxiv.org/abs/2602.20014)||\n",
@@ -1129,7 +1168,8 @@
     "2604.15078": "|**2026-04-16**|**Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems**|Simeon Allmendinger et.al.|[2604.15078](http://arxiv.org/abs/2604.15078)||\n",
     "2604.14615": "|**2026-04-16**|**CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors**|Yubin Kim et.al.|[2604.14615](http://arxiv.org/abs/2604.14615)||\n",
     "2604.14607": "|**2026-04-16**|**GDPR Auto-Formalization with AI Agents and Human Verification**|Ha Thanh Nguyen et.al.|[2604.14607](http://arxiv.org/abs/2604.14607)||\n",
-    "2604.17063": "|**2026-04-18**|**Predictive Sectorization and Bayesian Optimized Consensus for Admission Control in Autonomous Airspace Operations**|Aditya Dhodapkar et.al.|[2604.17063](http://arxiv.org/abs/2604.17063)||\n"
+    "2604.17063": "|**2026-04-18**|**Predictive Sectorization and Bayesian Optimized Consensus for Admission Control in Autonomous Airspace Operations**|Aditya Dhodapkar et.al.|[2604.17063](http://arxiv.org/abs/2604.17063)||\n",
+    "2604.20070": "|**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070](http://arxiv.org/abs/2604.20070)||\n"
   },
   "Constitutional AI": {
     "2602.20100": "|**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)||\n",
@@ -1210,6 +1250,9 @@
     "2604.13704": "|**2026-04-15**|**Scalable framework for quantum transport across large physical networks**|Adam Burgess et.al.|[2604.13704](http://arxiv.org/abs/2604.13704)||\n",
     "2604.16106": "|**2026-04-20**|**Reckoning with the Political Economy of AI: Avoiding Decoys in Pursuit of Accountability**|Janet Vertesi et.al.|[2604.16106](http://arxiv.org/abs/2604.16106)||\n",
     "2604.16086": "|**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)||\n",
-    "2604.17769": "|**2026-04-20**|**Reverse Constitutional AI: A Framework for Controllable Toxic Data Generation via Probability-Clamped RLAIF**|Yuan Fang et.al.|[2604.17769](http://arxiv.org/abs/2604.17769)||\n"
+    "2604.17769": "|**2026-04-20**|**Reverse Constitutional AI: A Framework for Controllable Toxic Data Generation via Probability-Clamped RLAIF**|Yuan Fang et.al.|[2604.17769](http://arxiv.org/abs/2604.17769)||\n",
+    "2604.20673": "|**2026-04-22**|**Short-time, Wavelet-inspired Mouse Submovement Detection**|Auejin Ham et.al.|[2604.20673](http://arxiv.org/abs/2604.20673)||\n",
+    "2604.19845": "|**2026-04-21**|**Deconstructing Superintelligence: Identity, Self-Modification and Différance**|Elija Perrier et.al.|[2604.19845](http://arxiv.org/abs/2604.19845)||\n",
+    "2604.19139": "|**2026-04-21**|**The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models**|Shuai Wu et.al.|[2604.19139](http://arxiv.org/abs/2604.19139)||\n"
   }
 }
