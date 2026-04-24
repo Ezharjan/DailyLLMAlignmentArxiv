@@ -422,7 +422,9 @@
     "2604.19018": "|**2026-04-21**|**Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control**|Julian Skifstad et.al.|[2604.19018](http://arxiv.org/abs/2604.19018)||\n",
     "2604.18946": "|**2026-04-21**|**Reasoning Structure Matters for Safety Alignment of Reasoning Models**|Yeonjun In et.al.|[2604.18946](http://arxiv.org/abs/2604.18946)||\n",
     "2604.18943": "|**2026-04-21**|**Personalized Benchmarking: Evaluating LLMs by Individual Preferences**|Cristina Garbacea et.al.|[2604.18943](http://arxiv.org/abs/2604.18943)||\n",
-    "2604.18839": "|**2026-04-20**|**One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models**|Chris Cameron et.al.|[2604.18839](http://arxiv.org/abs/2604.18839)||\n"
+    "2604.18839": "|**2026-04-20**|**One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models**|Chris Cameron et.al.|[2604.18839](http://arxiv.org/abs/2604.18839)||\n",
+    "2604.21152": "|**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)||\n",
+    "2604.21102": "|**2026-04-22**|**Leveraging Multimodal LLMs for Built Environment and Housing Attribute Assessment from Street-View Imagery**|Siyuan Yao et.al.|[2604.21102](http://arxiv.org/abs/2604.21102)||\n"
   },
   "Unsupervised Elicitation": {
     "2601.17728": "|**2026-01-25**|**Unsupervised Elicitation of Moral Values from Language Models**|Meysam Alizadeh et.al.|[2601.17728](http://arxiv.org/abs/2601.17728)||\n",
@@ -710,7 +712,11 @@
     "2604.19624": "|**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)||\n",
     "2604.19341": "|**2026-04-21**|**Evaluation-driven Scaling for Scientific Discovery**|Haotian Ye et.al.|[2604.19341](http://arxiv.org/abs/2604.19341)||\n",
     "2604.19305": "|**2026-04-21**|**DebugRepair: Enhancing LLM-Based Automated Program Repair via Self-Directed Debugging**|Linhao Wu et.al.|[2604.19305](http://arxiv.org/abs/2604.19305)||\n",
-    "2604.18839": "|**2026-04-20**|**One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models**|Chris Cameron et.al.|[2604.18839](http://arxiv.org/abs/2604.18839)||\n"
+    "2604.18839": "|**2026-04-20**|**One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models**|Chris Cameron et.al.|[2604.18839](http://arxiv.org/abs/2604.18839)||\n",
+    "2604.21896": "|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)||\n",
+    "2604.21679": "|**2026-04-23**|**A Sociotechnical, Practitioner-Centered Approach to Technology Adoption in Cybersecurity Operations: An LLM Case**|Francis Hahn et.al.|[2604.21679](http://arxiv.org/abs/2604.21679)||\n",
+    "2604.21556": "|**2026-04-23**|**Probabilistic Verification of Neural Networks via Efficient Probabilistic Hull Generation**|Jingyang Li et.al.|[2604.21556](http://arxiv.org/abs/2604.21556)||\n",
+    "2604.21450": "|**2026-04-23**|**VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution**|Yixuan Zhu et.al.|[2604.21450](http://arxiv.org/abs/2604.21450)||\n"
   },
   "VLM Alignment": {
     "2602.14889": "|**2026-02-16**|**Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment**|Mounvik K et.al.|[2602.14889](http://arxiv.org/abs/2602.14889)||\n",
@@ -781,7 +787,8 @@
     "2604.17065": "|**2026-04-18**|**BasketHAR: A Multimodal Dataset for Human Activity Recognition and Sport Analysis in Basketball Training Scenarios**|Xian Gao et.al.|[2604.17065](http://arxiv.org/abs/2604.17065)||\n",
     "2604.16979": "|**2026-04-18**|**DOSE: Data Selection for Multi-Modal LLMs via Off-the-Shelf Models**|Biao Wu et.al.|[2604.16979](http://arxiv.org/abs/2604.16979)||\n",
     "2604.16879": "|**2026-04-22**|**Adaptive Forensic Feature Refinement via Intrinsic Importance Perception**|Jiazhen Yang et.al.|[2604.16879](http://arxiv.org/abs/2604.16879)||\n",
-    "2604.18757": "|**2026-04-20**|**REVEAL: Multimodal Vision-Language Alignment of Retinal Morphometry and Clinical Risks for Incident AD and Dementia Prediction**|Seowung Leem et.al.|[2604.18757](http://arxiv.org/abs/2604.18757)||\n"
+    "2604.18757": "|**2026-04-20**|**REVEAL: Multimodal Vision-Language Alignment of Retinal Morphometry and Clinical Risks for Incident AD and Dementia Prediction**|Seowung Leem et.al.|[2604.18757](http://arxiv.org/abs/2604.18757)||\n",
+    "2604.21478": "|**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)||\n"
   },
   "AI Safety Mechanisms": {
     "2602.20102": "|**2026-02-23**|**BarrierSteer: LLM Safety via Learning Barrier Steering**|Thanh Q. Tran et.al.|[2602.20102](http://arxiv.org/abs/2602.20102)||\n",
@@ -933,7 +940,13 @@
     "2604.16542": "|**2026-04-17**|**TWGuard: A Case Study of LLM Safety Guardrails for Localized Linguistic Contexts**|Hua-Rong Chu et.al.|[2604.16542](http://arxiv.org/abs/2604.16542)||\n",
     "2604.19461": "|**2026-04-21**|**Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4**|Alex Polyakov et.al.|[2604.19461](http://arxiv.org/abs/2604.19461)||\n",
     "2604.19281": "|**2026-04-21**|**Beyond Semantic Similarity: A Component-Wise Evaluation Framework for Medical Question Answering Systems with Health Equity Implications**|Abu Noman Md Sakib et.al.|[2604.19281](http://arxiv.org/abs/2604.19281)||\n",
-    "2604.18867": "|**2026-04-20**|**Hierarchically Robust Zero-shot Vision-language Models**|Junhao Dong et.al.|[2604.18867](http://arxiv.org/abs/2604.18867)||\n"
+    "2604.18867": "|**2026-04-20**|**Hierarchically Robust Zero-shot Vision-language Models**|Junhao Dong et.al.|[2604.18867](http://arxiv.org/abs/2604.18867)||\n",
+    "2604.21878": "|**2026-04-23**|**Gradual Voluntary Participation: A Framework for Participatory AI Governance in Journalism**|Matilde Barbini et.al.|[2604.21878](http://arxiv.org/abs/2604.21878)||\n",
+    "2604.21554": "|**2026-04-23**|**Engaged AI Governance: Addressing the Last Mile Challenge Through Internal Expert Collaboration**|Simon Jarvers et.al.|[2604.21554](http://arxiv.org/abs/2604.21554)||\n",
+    "2604.21236": "|**2026-04-23**|**Ultra-low-noise supercontinuum in normal-dispersion ZBLAN fibres pumped at 1.85 $μ$m**|Shreesha Rao D. S. et.al.|[2604.21236](http://arxiv.org/abs/2604.21236)||\n",
+    "2604.21152": "|**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)||\n",
+    "2604.21103": "|**2026-04-22**|**AI Governance under Political Turnover: The Alignment Surface of Compliance Design**|Andrew J. Peterson et.al.|[2604.21103](http://arxiv.org/abs/2604.21103)||\n",
+    "2604.21090": "|**2026-04-22**|**Structural Quality Gaps in Practitioner AI Governance Prompts: An Empirical Study Using a Five-Principle Evaluation Framework**|Christo Zietsman et.al.|[2604.21090](http://arxiv.org/abs/2604.21090)||\n"
   },
   "Adversarial Attacks on Alignment": {
     "2602.20156": "|**2026-02-25**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)||\n",
@@ -1169,7 +1182,8 @@
     "2604.14615": "|**2026-04-16**|**CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors**|Yubin Kim et.al.|[2604.14615](http://arxiv.org/abs/2604.14615)||\n",
     "2604.14607": "|**2026-04-16**|**GDPR Auto-Formalization with AI Agents and Human Verification**|Ha Thanh Nguyen et.al.|[2604.14607](http://arxiv.org/abs/2604.14607)||\n",
     "2604.17063": "|**2026-04-18**|**Predictive Sectorization and Bayesian Optimized Consensus for Admission Control in Autonomous Airspace Operations**|Aditya Dhodapkar et.al.|[2604.17063](http://arxiv.org/abs/2604.17063)||\n",
-    "2604.20070": "|**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070](http://arxiv.org/abs/2604.20070)||\n"
+    "2604.20070": "|**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070](http://arxiv.org/abs/2604.20070)||\n",
+    "2604.21718": "|**2026-04-22**|**Building a Precise Video Language with Human-AI Oversight**|Zhiqiu Lin et.al.|[2604.21718](http://arxiv.org/abs/2604.21718)||\n"
   },
   "Constitutional AI": {
     "2602.20100": "|**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)||\n",
@@ -1252,7 +1266,7 @@
     "2604.16086": "|**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)||\n",
     "2604.17769": "|**2026-04-20**|**Reverse Constitutional AI: A Framework for Controllable Toxic Data Generation via Probability-Clamped RLAIF**|Yuan Fang et.al.|[2604.17769](http://arxiv.org/abs/2604.17769)||\n",
     "2604.20673": "|**2026-04-22**|**Short-time, Wavelet-inspired Mouse Submovement Detection**|Auejin Ham et.al.|[2604.20673](http://arxiv.org/abs/2604.20673)||\n",
-    "2604.19845": "|**2026-04-21**|**Deconstructing Superintelligence: Identity, Self-Modification and Différance**|Elija Perrier et.al.|[2604.19845](http://arxiv.org/abs/2604.19845)||\n",
+    "2604.19845": "|**2026-04-23**|**Deconstructing Superintelligence: Identity, Self-Modification and Différance**|Elija Perrier et.al.|[2604.19845](http://arxiv.org/abs/2604.19845)||\n",
     "2604.19139": "|**2026-04-21**|**The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models**|Shuai Wu et.al.|[2604.19139](http://arxiv.org/abs/2604.19139)||\n"
   }
 }

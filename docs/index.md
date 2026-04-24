@@ -191,6 +191,8 @@ last_updated: 2026.04.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)||
+|**2026-04-22**|**Leveraging Multimodal LLMs for Built Environment and Housing Attribute Assessment from Street-View Imagery**|Siyuan Yao et.al.|[2604.21102](http://arxiv.org/abs/2604.21102)||
 |**2026-04-22**|**Relative Principals, Pluralistic Alignment, and the Structural Value Alignment Problem**|Travis LaCroix et.al.|[2604.20805](http://arxiv.org/abs/2604.20805)||
 |**2026-04-22**|**MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment**|Andor Vári-Kakas et.al.|[2604.20685](http://arxiv.org/abs/2604.20685)||
 |**2026-04-22**|**The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality**|Umberto Domanti et.al.|[2604.20569](http://arxiv.org/abs/2604.20569)||
@@ -475,6 +477,10 @@ last_updated: 2026.04.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)||
+|**2026-04-23**|**A Sociotechnical, Practitioner-Centered Approach to Technology Adoption in Cybersecurity Operations: An LLM Case**|Francis Hahn et.al.|[2604.21679](http://arxiv.org/abs/2604.21679)||
+|**2026-04-23**|**Probabilistic Verification of Neural Networks via Efficient Probabilistic Hull Generation**|Jingyang Li et.al.|[2604.21556](http://arxiv.org/abs/2604.21556)||
+|**2026-04-23**|**VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution**|Yixuan Zhu et.al.|[2604.21450](http://arxiv.org/abs/2604.21450)||
 |**2026-04-22**|**Bimanual Robot Manipulation via Multi-Agent In-Context Learning**|Alessio Palma et.al.|[2604.20348](http://arxiv.org/abs/2604.20348)||
 |**2026-04-22**|**Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data**|Fengxian Dong et.al.|[2604.20261](http://arxiv.org/abs/2604.20261)||
 |**2026-04-22**|**Mol-Debate: Multi-Agent Debate Improves Structural Reasoning in Molecular Design**|Wengyu Zhang et.al.|[2604.20254](http://arxiv.org/abs/2604.20254)||
@@ -746,6 +752,7 @@ last_updated: 2026.04.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)||
 |**2026-04-20**|**REVEAL: Multimodal Vision-Language Alignment of Retinal Morphometry and Clinical Risks for Incident AD and Dementia Prediction**|Seowung Leem et.al.|[2604.18757](http://arxiv.org/abs/2604.18757)||
 |**2026-04-20**|**Towards Robust Text-to-Image Person Retrieval: Multi-View Reformulation for Semantic Compensation**|Chao Yuan et.al.|[2604.18376](http://arxiv.org/abs/2604.18376)||
 |**2026-04-20**|**Paradigm Shift from Statistical Channel Modeling to Digital Twin Prediction: An Environment-Generalizable ChannelLM for 6G AI-enabled Air Interface**|Yichen Cai et.al.|[2604.18021](http://arxiv.org/abs/2604.18021)||
@@ -820,6 +827,12 @@ last_updated: 2026.04.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Gradual Voluntary Participation: A Framework for Participatory AI Governance in Journalism**|Matilde Barbini et.al.|[2604.21878](http://arxiv.org/abs/2604.21878)||
+|**2026-04-23**|**Engaged AI Governance: Addressing the Last Mile Challenge Through Internal Expert Collaboration**|Simon Jarvers et.al.|[2604.21554](http://arxiv.org/abs/2604.21554)||
+|**2026-04-23**|**Ultra-low-noise supercontinuum in normal-dispersion ZBLAN fibres pumped at 1.85 $μ$ m**|Shreesha Rao D. S. et.al.|[2604.21236](http://arxiv.org/abs/2604.21236)||
+|**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)||
+|**2026-04-22**|**AI Governance under Political Turnover: The Alignment Surface of Compliance Design**|Andrew J. Peterson et.al.|[2604.21103](http://arxiv.org/abs/2604.21103)||
+|**2026-04-22**|**Structural Quality Gaps in Practitioner AI Governance Prompts: An Empirical Study Using a Five-Principle Evaluation Framework**|Christo Zietsman et.al.|[2604.21090](http://arxiv.org/abs/2604.21090)||
 |**2026-04-21**|**Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4**|Alex Polyakov et.al.|[2604.19461](http://arxiv.org/abs/2604.19461)||
 |**2026-04-21**|**Beyond Semantic Similarity: A Component-Wise Evaluation Framework for Medical Question Answering Systems with Health Equity Implications**|Abu Noman Md Sakib et.al.|[2604.19281](http://arxiv.org/abs/2604.19281)||
 |**2026-04-20**|**Hierarchically Robust Zero-shot Vision-language Models**|Junhao Dong et.al.|[2604.18867](http://arxiv.org/abs/2604.18867)||
@@ -1124,6 +1137,7 @@ last_updated: 2026.04.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Building a Precise Video Language with Human-AI Oversight**|Zhiqiu Lin et.al.|[2604.21718](http://arxiv.org/abs/2604.21718)||
 |**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070](http://arxiv.org/abs/2604.20070)||
 |**2026-04-18**|**Predictive Sectorization and Bayesian Optimized Consensus for Admission Control in Autonomous Airspace Operations**|Aditya Dhodapkar et.al.|[2604.17063](http://arxiv.org/abs/2604.17063)||
 |**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)||
@@ -1218,7 +1232,7 @@ last_updated: 2026.04.24
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-22**|**Short-time, Wavelet-inspired Mouse Submovement Detection**|Auejin Ham et.al.|[2604.20673](http://arxiv.org/abs/2604.20673)||
-|**2026-04-21**|**Deconstructing Superintelligence: Identity, Self-Modification and Différance**|Elija Perrier et.al.|[2604.19845](http://arxiv.org/abs/2604.19845)||
+|**2026-04-23**|**Deconstructing Superintelligence: Identity, Self-Modification and Différance**|Elija Perrier et.al.|[2604.19845](http://arxiv.org/abs/2604.19845)||
 |**2026-04-21**|**The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models**|Shuai Wu et.al.|[2604.19139](http://arxiv.org/abs/2604.19139)||
 |**2026-04-20**|**Reverse Constitutional AI: A Framework for Controllable Toxic Data Generation via Probability-Clamped RLAIF**|Yuan Fang et.al.|[2604.17769](http://arxiv.org/abs/2604.17769)||
 |**2026-04-20**|**Reckoning with the Political Economy of AI: Avoiding Decoys in Pursuit of Accountability**|Janet Vertesi et.al.|[2604.16106](http://arxiv.org/abs/2604.16106)||
