@@ -104,6 +104,9 @@ last_updated: 2026.04.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework**|Tharindu Kumarage et.al.|[2604.22119](http://arxiv.org/abs/2604.22119)||
+|**2026-04-23**|**Removing Sandbagging in LLMs by Training with Weak Supervision**|Emil Ryd et.al.|[2604.22082](http://arxiv.org/abs/2604.22082)||
+|**2026-04-23**|**Kernel Contracts: A Specification Language for ML Kernel Correctness Across Heterogeneous Silicon**|Cooper Veit et.al.|[2604.22032](http://arxiv.org/abs/2604.22032)||
 |**2026-04-21**|**Bootstrapping Post-training Signals for Open-ended Tasks via Rubric-based Self-play on Pre-training Text**|Chengyu Huang et.al.|[2604.20051](http://arxiv.org/abs/2604.20051)||
 |**2026-04-19**|**Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning**|Zhiyin Yu et.al.|[2604.18639](http://arxiv.org/abs/2604.18639)||
 |**2026-04-20**|**Culture-Aware Humorous Captioning: Multimodal Humor Generation across Cultural Contexts**|Run Xu et.al.|[2604.18091](http://arxiv.org/abs/2604.18091)||
@@ -191,6 +194,10 @@ last_updated: 2026.04.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Robust Bayesian Sequential Borrowing for Multi-Population Clinical Programmes**|Erik Hermansson et.al.|[2604.22431](http://arxiv.org/abs/2604.22431)||
+|**2026-04-24**|**Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation**|Biagio Andreucci et.al.|[2604.22427](http://arxiv.org/abs/2604.22427)||
+|**2026-04-24**|**A Co-Evolutionary Theory of Human-AI Coexistence: Mutualism, Governance, and Dynamics in Complex Societies**|Somyajit Chakraborty et.al.|[2604.22227](http://arxiv.org/abs/2604.22227)||
+|**2026-04-24**|**Recognition Without Authorization: LLMs and the Moral Order of Online Advice**|Tom van Nuenen et.al.|[2604.22143](http://arxiv.org/abs/2604.22143)||
 |**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)||
 |**2026-04-22**|**Leveraging Multimodal LLMs for Built Environment and Housing Attribute Assessment from Street-View Imagery**|Siyuan Yao et.al.|[2604.21102](http://arxiv.org/abs/2604.21102)||
 |**2026-04-22**|**Relative Principals, Pluralistic Alignment, and the Structural Value Alignment Problem**|Travis LaCroix et.al.|[2604.20805](http://arxiv.org/abs/2604.20805)||
@@ -454,6 +461,7 @@ last_updated: 2026.04.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Removing Sandbagging in LLMs by Training with Weak Supervision**|Emil Ryd et.al.|[2604.22082](http://arxiv.org/abs/2604.22082)||
 |**2026-03-11**|**Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities**|Anita Yang et.al.|[2603.10396](http://arxiv.org/abs/2603.10396)||
 |**2026-03-10**|**Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation**|Helena Casademunt et.al.|[2603.05494](http://arxiv.org/abs/2603.05494)||
 |**2026-02-23**|**Three Concrete Challenges and Two Hopes for the Safety of Unsupervised Elicitation**|Callum Canavan et.al.|[2602.20400](http://arxiv.org/abs/2602.20400)||
@@ -477,6 +485,9 @@ last_updated: 2026.04.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**RedVLA: Physical Red Teaming for Vision-Language-Action Models**|Yuhao Zhang et.al.|[2604.22591](http://arxiv.org/abs/2604.22591)||
+|**2026-04-24**|**LARA: Validation-Driven Agentic Supercomputer Workflows for Atomistic Modeling**|William Dawson et.al.|[2604.22571](http://arxiv.org/abs/2604.22571)||
+|**2026-04-23**|**Null-Space Flow Matching for MIMO Channel Estimation in Latency-Constrained Systems**|Junjie Zhao et.al.|[2604.22005](http://arxiv.org/abs/2604.22005)||
 |**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)||
 |**2026-04-23**|**A Sociotechnical, Practitioner-Centered Approach to Technology Adoption in Cybersecurity Operations: An LLM Case**|Francis Hahn et.al.|[2604.21679](http://arxiv.org/abs/2604.21679)||
 |**2026-04-23**|**Probabilistic Verification of Neural Networks via Efficient Probabilistic Hull Generation**|Jingyang Li et.al.|[2604.21556](http://arxiv.org/abs/2604.21556)||
@@ -752,6 +763,7 @@ last_updated: 2026.04.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**From Global to Local: Rethinking CLIP Feature Aggregation for Person Re-Identification**|Aotian Zheng et.al.|[2604.22190](http://arxiv.org/abs/2604.22190)||
 |**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)||
 |**2026-04-20**|**REVEAL: Multimodal Vision-Language Alignment of Retinal Morphometry and Clinical Risks for Incident AD and Dementia Prediction**|Seowung Leem et.al.|[2604.18757](http://arxiv.org/abs/2604.18757)||
 |**2026-04-20**|**Towards Robust Text-to-Image Person Retrieval: Multi-View Reformulation for Semantic Compensation**|Chao Yuan et.al.|[2604.18376](http://arxiv.org/abs/2604.18376)||
@@ -1137,6 +1149,9 @@ last_updated: 2026.04.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Measuring and Mitigating Persona Distortions from AI Writing Assistance**|Paul Röttger et.al.|[2604.22503](http://arxiv.org/abs/2604.22503)||
+|**2026-04-24**|**Sum-of-Checks: Structured Reasoning for Surgical Safety with Large Vision-Language Models**|Weiqiu You et.al.|[2604.22156](http://arxiv.org/abs/2604.22156)||
+|**2026-04-23**|**Removing Sandbagging in LLMs by Training with Weak Supervision**|Emil Ryd et.al.|[2604.22082](http://arxiv.org/abs/2604.22082)||
 |**2026-04-22**|**Building a Precise Video Language with Human-AI Oversight**|Zhiqiu Lin et.al.|[2604.21718](http://arxiv.org/abs/2604.21718)||
 |**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070](http://arxiv.org/abs/2604.20070)||
 |**2026-04-18**|**Predictive Sectorization and Bayesian Optimized Consensus for Admission Control in Autonomous Airspace Operations**|Aditya Dhodapkar et.al.|[2604.17063](http://arxiv.org/abs/2604.17063)||
@@ -1231,6 +1246,10 @@ last_updated: 2026.04.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Self-Similarity in Online Networks During Social Movements**|Manuel Suárez et.al.|[2604.22677](http://arxiv.org/abs/2604.22677)||
+|**2026-04-24**|**What People See (and Miss) About Generative AI Risks: Perceptions of Failures, Risks, and Who Should Address Them**|Megan Li et.al.|[2604.22654](http://arxiv.org/abs/2604.22654)||
+|**2026-04-24**|**On-Chip Neodymium-Doped Lithium Niobate Microdisk Laser with Self-Induced Pulsing**|Yuxuan He et.al.|[2604.22397](http://arxiv.org/abs/2604.22397)||
+|**2026-04-24**|**Inclusive Learning Analytics with Embedded Data Comics: A Conceptual Framework for Public Understanding of AI Ethics**|Mengyi Wei et.al.|[2604.22322](http://arxiv.org/abs/2604.22322)||
 |**2026-04-22**|**Short-time, Wavelet-inspired Mouse Submovement Detection**|Auejin Ham et.al.|[2604.20673](http://arxiv.org/abs/2604.20673)||
 |**2026-04-23**|**Deconstructing Superintelligence: Identity, Self-Modification and Différance**|Elija Perrier et.al.|[2604.19845](http://arxiv.org/abs/2604.19845)||
 |**2026-04-21**|**The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models**|Shuai Wu et.al.|[2604.19139](http://arxiv.org/abs/2604.19139)||
