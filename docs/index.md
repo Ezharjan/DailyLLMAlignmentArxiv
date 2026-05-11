@@ -12,6 +12,7 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Exploring the "Banality" of Deception in Generative AI**|Ishitaa Narwane et.al.|[2605.07012](http://arxiv.org/abs/2605.07012)||
 |**2026-05-04**|**Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment**|Jasper Roe et.al.|[2605.02649](http://arxiv.org/abs/2605.02649)||
 |**2026-05-01**|**AI Washing Inflates Expected Performance but Not Interaction Outcomes: An AI Placebo Study Using Fitts' Law**|Nick von Felten et.al.|[2605.00582](http://arxiv.org/abs/2605.00582)||
 |**2026-04-06**|**From Hallucination to Scheming: A Unified Taxonomy and Benchmark Analysis for LLM Deception**|Jerick Shi et.al.|[2604.04788](http://arxiv.org/abs/2604.04788)||
@@ -75,6 +76,7 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**LLMs are not (consistently) Bayesian: Quantifying internal (in)consistencies of LLMs' probabilistic beliefs**|Chacha Chen et.al.|[2605.06915](http://arxiv.org/abs/2605.06915)||
 |**2026-05-07**|**Fine-Tuning Small Language Models for Solution-Oriented Windows Event Log Analysis**|Siraaj Akhtar et.al.|[2605.06330](http://arxiv.org/abs/2605.06330)||
 |**2026-04-29**|**Distributional Alignment Games for Answer-Level Fine-Tuning**|Mehryar Mohri et.al.|[2604.27166](http://arxiv.org/abs/2604.27166)||
 |**2026-03-16**|**Elder-Sim: A Psychometrically Validated Platform for Personality-Stable Elderly Digital Twins**|Jiaqing Wang et.al.|[2604.16343](http://arxiv.org/abs/2604.16343)||
@@ -110,6 +112,8 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)||
+|**2026-05-08**|**Theoretical Limits of Language Model Alignment**|Lucas Monteiro Paes et.al.|[2605.07105](http://arxiv.org/abs/2605.07105)||
 |**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)||
 |**2026-05-03**|**Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use**|Kunvar Thaman et.al.|[2605.02964](http://arxiv.org/abs/2605.02964)||
 |**2026-04-29**|**AdvDMD: Adversarial Reward Meets DMD For High-Quality Few-Step Generation**|Xu Wang et.al.|[2604.28126](http://arxiv.org/abs/2604.28126)||
@@ -210,9 +214,16 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Flatness and Gradient Alignment Are Both Necessary: Spectral-Aware Gradient-Aligned Exploration for Multi-Distribution Learning**|Aristotelis Ballas et.al.|[2605.07914](http://arxiv.org/abs/2605.07914)||
+|**2026-05-08**|**Beyond "I cannot fulfill this request": Alleviating Rigid Rejection in LLMs via Label Enhancement**|Ying Zhang et.al.|[2605.07883](http://arxiv.org/abs/2605.07883)||
+|**2026-05-08**|**Prune-OPD: Efficient and Reliable On-Policy Distillation for Long-Horizon Reasoning**|Zhicheng Yang et.al.|[2605.07804](http://arxiv.org/abs/2605.07804)||
+|**2026-05-08**|**The Endogeneity of Miscalibration: Impossibility and Escape in Scored Reporting**|Lauri Lovén et.al.|[2605.07671](http://arxiv.org/abs/2605.07671)||
+|**2026-05-08**|**GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization**|Yu Pan et.al.|[2605.07399](http://arxiv.org/abs/2605.07399)||
+|**2026-05-08**|**Gradient-Based LoRA Rank Allocation Under GRPO: An Empirical Study**|Yash Ganpat Sawant et.al.|[2605.07366](http://arxiv.org/abs/2605.07366)||
+|**2026-05-08**|**Hard to Read, Easy to Jailbreak: How Visual Degradation Bypasses MLLM Safety Alignment**|Zhixue Song et.al.|[2605.07250](http://arxiv.org/abs/2605.07250)||
 |**2026-05-07**|**A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment**|Hao Yu et.al.|[2605.06375](http://arxiv.org/abs/2605.06375)||
 |**2026-05-07**|**Prediction and Empowerment: A Theory of Agency through Bridge Interfaces**|Richard Csaky et.al.|[2605.06346](http://arxiv.org/abs/2605.06346)||
-|**2026-05-07**|**Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks**|Guoxin Lu et.al.|[2605.05995](http://arxiv.org/abs/2605.05995)||
+|**2026-05-08**|**Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks**|Guoxin Lu et.al.|[2605.05995](http://arxiv.org/abs/2605.05995)||
 |**2026-05-07**|**Evaluation Awareness in Language Models Has Limited Effect on Behaviour**|Amelie Knecht et.al.|[2605.05835](http://arxiv.org/abs/2605.05835)||
 |**2026-05-07**|**Unified Value Alignment for Generative Recommendation in Industrial Advertising**|Xinxun Zhang et.al.|[2605.05803](http://arxiv.org/abs/2605.05803)||
 |**2026-05-07**|**One Turn Too Late: Response-Aware Defense Against Hidden Malicious Intent in Multi-Turn Dialogue**|Xinjie Shen et.al.|[2605.05630](http://arxiv.org/abs/2605.05630)||
@@ -553,6 +564,13 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Rethinking Dense Optical Flow without Test-Time Scaling**|Praroop Chanda et.al.|[2605.08000](http://arxiv.org/abs/2605.08000)||
+|**2026-05-08**|**SpatialPrompt: XR-Based Spatial Intent Expression as Executable Constraints for AI Generative 3D Design**|Yichen Andy Yu et.al.|[2605.07894](http://arxiv.org/abs/2605.07894)||
+|**2026-05-08**|**Alternating Target-Path Planning for Scalable Multi-Agent Coordination**|Yu Kumagai et.al.|[2605.07744](http://arxiv.org/abs/2605.07744)||
+|**2026-05-08**|**Can LLMs Solve Science or Just Write Code? Evaluating Quantum Solver Generation**|Luciano Baresi et.al.|[2605.07525](http://arxiv.org/abs/2605.07525)||
+|**2026-05-08**|**CellScientist: Dual-Space Hierarchical Orchestration for Closed-Loop Refinement of Virtual Cell Models**|Mengran Li et.al.|[2605.07335](http://arxiv.org/abs/2605.07335)||
+|**2026-05-08**|**PRISM: Refracting the Entangled User Behavior Space for E-Commerce Search**|Haoqian Zhang et.al.|[2605.07296](http://arxiv.org/abs/2605.07296)||
+|**2026-05-08**|**Coupling Models for One-Step Discrete Generation**|Fred Zhangzhi Peng et.al.|[2605.07193](http://arxiv.org/abs/2605.07193)||
 |**2026-05-07**|**MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**|Zhexuan Wang et.al.|[2605.06623](http://arxiv.org/abs/2605.06623)||
 |**2026-05-07**|**Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models**|Amir Rezaei Balef et.al.|[2605.06510](http://arxiv.org/abs/2605.06510)||
 |**2026-05-07**|**From Agent Loops to Deterministic Graphs: Execution Lineage for Reproducible AI-Native Work**|Josh Rosen et.al.|[2605.06365](http://arxiv.org/abs/2605.06365)||
@@ -882,6 +900,7 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Cross-Modal Backdoors in Multimodal Large Language Models**|Runhe Wang et.al.|[2605.07490](http://arxiv.org/abs/2605.07490)||
 |**2026-05-02**|**Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance**|Muyang Li et.al.|[2605.01325](http://arxiv.org/abs/2605.01325)||
 |**2026-05-02**|**The Garden of Forking Paths: Narrative Arc-Conditioned Gameplay Planning**|Yunge Wen et.al.|[2605.01245](http://arxiv.org/abs/2605.01245)||
 |**2026-05-01**|**Toward a Unified Framework for Collaborative Design of Human-AI Interaction**|Ankur Bhatt et.al.|[2605.01153](http://arxiv.org/abs/2605.01153)||
@@ -970,6 +989,9 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Activation Differences Reveal Backdoors: A Comparison of SAE Architectures**|Sachin Kumar et.al.|[2605.07324](http://arxiv.org/abs/2605.07324)||
+|**2026-05-07**|**MAGIQ: A Post-Quantum Multi-Agentic AI Governance System with Provable Security**|Sepideh Avizeh et.al.|[2605.06933](http://arxiv.org/abs/2605.06933)||
+|**2026-05-07**|**IntentGrasp: A Comprehensive Benchmark for Intent Understanding**|Yuwei Yin et.al.|[2605.06832](http://arxiv.org/abs/2605.06832)||
 |**2026-05-07**|**When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels**|Sushant Gautam et.al.|[2605.06652](http://arxiv.org/abs/2605.06652)||
 |**2026-05-07**|**Beyond Accuracy: Policy Invariance as a Reliability Test for LLM Safety Judges**|Shihao Weng et.al.|[2605.06161](http://arxiv.org/abs/2605.06161)||
 |**2026-05-07**|**PersonaTeaming: Supporting Persona-Driven Red-Teaming for Generative AI**|Wesley Hanwen Deng et.al.|[2605.05682](http://arxiv.org/abs/2605.05682)||
@@ -1175,6 +1197,8 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing**|Jianming Chen et.al.|[2605.07414](http://arxiv.org/abs/2605.07414)||
+|**2026-05-08**|**MIPIAD: Multilingual Indirect Prompt Injection Attack Defense with Qwen -- TF-IDF Hybrid and Meta-Ensemble Learning**|Al Muhit Muhtadi et.al.|[2605.07269](http://arxiv.org/abs/2605.07269)||
 |**2026-05-07**|**Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation**|Di Lu et.al.|[2605.06393](http://arxiv.org/abs/2605.06393)||
 |**2026-05-06**|**WAAA! Web Adversaries Against Agentic Browsers**|Sohom Datta et.al.|[2605.05509](http://arxiv.org/abs/2605.05509)||
 |**2026-05-06**|**Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure**|Krti Tallam et.al.|[2605.05440](http://arxiv.org/abs/2605.05440)||
@@ -1360,6 +1384,9 @@ last_updated: 2026.05.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**The Endogeneity of Miscalibration: Impossibility and Escape in Scored Reporting**|Lauri Lovén et.al.|[2605.07671](http://arxiv.org/abs/2605.07671)||
+|**2026-05-08**|**Splitting User Stories Into Tasks with AI -- A Foe or an Ally?**|Luka Pavlič et.al.|[2605.07320](http://arxiv.org/abs/2605.07320)||
+|**2026-05-07**|**Behavior Cue Reasoning: Monitorable Reasoning Improves Efficiency and Safety through Oversight**|Christopher Z. Cui et.al.|[2605.07021](http://arxiv.org/abs/2605.07021)||
 |**2026-05-07**|**From Review to Design: Ethical Multimodal Driver Monitoring Systems for Risk Mitigation, Incident Response, and Accountability in Automated Vehicles**|Bilal Khana et.al.|[2605.06439](http://arxiv.org/abs/2605.06439)||
 |**2026-05-07**|**Automated alignment is harder than you think**|Aleksandr Bowkis et.al.|[2605.06390](http://arxiv.org/abs/2605.06390)||
 |**2026-05-06**|**Evaluating the Reliability of Multiple Large Language Models in Risk Assessment: A CIS Controls Based Approach**|Gustavo Roberto Pinto et.al.|[2605.05424](http://arxiv.org/abs/2605.05424)||
@@ -1371,7 +1398,7 @@ last_updated: 2026.05.11
 |**2026-05-04**|**These Aren't the Reviews You're Looking For How Humans Review AI-Generated Pull Requests**|Kacper Duma et.al.|[2605.02273](http://arxiv.org/abs/2605.02273)||
 |**2026-05-02**|**Practical Limits of Autonomous Test Repair: A Multi-Agent Case Study with LLM-Driven Discovery and Self-Correction**|Hyukjoo Lee et.al.|[2605.01471](http://arxiv.org/abs/2605.01471)||
 |**2026-05-02**|**Artificial intelligence language technologies in multilingual healthcare: Grand challenges ahead**|Vicent Briva-Iglesias et.al.|[2605.01441](http://arxiv.org/abs/2605.01441)||
-|**2026-05-01**|**Can AI Debias the News? LLM Interventions Improve Cross-Partisan Receptivity but LLMs Overestimate Their Own Effectiveness**|Faisal Feroz et.al.|[2605.01006](http://arxiv.org/abs/2605.01006)||
+|**2026-05-07**|**Can AI Debias the News? LLM Interventions Improve Cross-Partisan Receptivity but LLMs Overestimate Their Own Effectiveness**|Faisal Feroz et.al.|[2605.01006](http://arxiv.org/abs/2605.01006)||
 |**2026-04-30**|**"It depends on where AI is used": Players' attitude patterns and evaluative logics toward different AI applications in digital games**|Ting-Chen Hsu et.al.|[2604.27812](http://arxiv.org/abs/2604.27812)||
 |**2026-04-29**|**MultEval: Supporting Collaborative Alignment for LLM-as-a-Judge Evaluation Criteria**|Charles Chiang et.al.|[2604.26679](http://arxiv.org/abs/2604.26679)||
 |**2026-04-29**|**From Black-Box Confidence to Measurable Trust in Clinical AI: A Framework for Evidence, Supervision, and Staged Autonomy**|Serhii Zabolotnii et.al.|[2604.26671](http://arxiv.org/abs/2604.26671)||
