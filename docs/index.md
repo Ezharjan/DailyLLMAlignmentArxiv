@@ -77,7 +77,8 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-08**|**A Single Layer to Explain Them All:Understanding Massive Activations in Large Language Models**|Zeru Shi et.al.|[2605.08504](http://arxiv.org/abs/2605.08504)||
+|**2026-05-13**|**LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics**|Galadrielle Humblot-Renaux et.al.|[2605.13412](http://arxiv.org/abs/2605.13412)||
+|**2026-05-12**|**A Single Layer to Explain Them All:Understanding Massive Activations in Large Language Models**|Zeru Shi et.al.|[2605.08504](http://arxiv.org/abs/2605.08504)||
 |**2026-05-07**|**LLMs are not (consistently) Bayesian: Quantifying internal (in)consistencies of LLMs' probabilistic beliefs**|Chacha Chen et.al.|[2605.06915](http://arxiv.org/abs/2605.06915)||
 |**2026-05-07**|**Fine-Tuning Small Language Models for Solution-Oriented Windows Event Log Analysis**|Siraaj Akhtar et.al.|[2605.06330](http://arxiv.org/abs/2605.06330)||
 |**2026-04-29**|**Distributional Alignment Games for Answer-Level Fine-Tuning**|Mehryar Mohri et.al.|[2604.27166](http://arxiv.org/abs/2604.27166)||
@@ -114,12 +115,20 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Temper and Tilt Lead to SLOP: Reward Hacking Mitigation with Inference-Time Alignment**|Ye Wang et.al.|[2605.13537](http://arxiv.org/abs/2605.13537)||
+|**2026-05-13**|**HLS-Seek: QoR-Aware Code Generation for High-Level Synthesis via Proxy Comparative Reward Reinforcement Learning**|Qingyun Zou et.al.|[2605.13536](http://arxiv.org/abs/2605.13536)||
+|**2026-05-13**|**Pareto-Guided Optimal Transport for Multi-Reward Alignment**|Ying Ba et.al.|[2605.13155](http://arxiv.org/abs/2605.13155)||
+|**2026-05-12**|**Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack**|Hao Wang et.al.|[2605.12673](http://arxiv.org/abs/2605.12673)||
+|**2026-05-12**|**Reward Hacking in Rubric-Based Reinforcement Learning**|Anas Mahmoud et.al.|[2605.12474](http://arxiv.org/abs/2605.12474)||
+|**2026-05-12**|**StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning**|Hao Wang et.al.|[2605.11922](http://arxiv.org/abs/2605.11922)||
+|**2026-05-09**|**Test-Time Personalization: A Diagnostic Framework and Probabilistic Fix for Scaling Failures**|Linhai Zhang et.al.|[2605.10991](http://arxiv.org/abs/2605.10991)||
+|**2026-05-13**|**TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment**|Jiaming Li et.al.|[2605.10983](http://arxiv.org/abs/2605.10983)||
 |**2026-05-11**|**Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping**|Haoyuan Sun et.al.|[2605.10937](http://arxiv.org/abs/2605.10937)||
 |**2026-05-11**|**FormalRewardBench: A Benchmark for Formal Theorem Proving Reward Models**|Zeynel A. Uluşan et.al.|[2605.10141](http://arxiv.org/abs/2605.10141)||
 |**2026-05-11**|**Usability as a Weapon: Attacking the Safety of LLM-Based Code Generation via Usability Requirements**|Yue Li et.al.|[2605.10133](http://arxiv.org/abs/2605.10133)||
 |**2026-05-11**|**G-Zero: Self-Play for Open-Ended Generation from Zero Data**|Chengsong Huang et.al.|[2605.09959](http://arxiv.org/abs/2605.09959)||
 |**2026-05-08**|**Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria**|Juanxi Tian et.al.|[2605.08354](http://arxiv.org/abs/2605.08354)||
-|**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)||
+|**2026-05-11**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)||
 |**2026-05-08**|**Theoretical Limits of Language Model Alignment**|Lucas Monteiro Paes et.al.|[2605.07105](http://arxiv.org/abs/2605.07105)||
 |**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)||
 |**2026-05-03**|**Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use**|Kunvar Thaman et.al.|[2605.02964](http://arxiv.org/abs/2605.02964)||
@@ -221,6 +230,21 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Zixing Lei et.al.|[2605.13119](http://arxiv.org/abs/2605.13119)||
+|**2026-05-12**|**The End Justifies the Mean: A Linear Ranking Rule for Proportional Sequential Decisions**|Carmel Baharav et.al.|[2605.12717](http://arxiv.org/abs/2605.12717)||
+|**2026-05-12**|**BSO: Safety Alignment Is Density Ratio Matching**|Tien-Phat Nguyen et.al.|[2605.12339](http://arxiv.org/abs/2605.12339)||
+|**2026-05-12**|**Social Welfare under Heterogeneous Time Preferences**|Sarvin Bahmani et.al.|[2605.12251](http://arxiv.org/abs/2605.12251)||
+|**2026-05-12**|**Combining On-Policy Optimization and Distillation for Long-Context Reasoning in Large Language Models**|Miguel Moura Ramos et.al.|[2605.12227](http://arxiv.org/abs/2605.12227)||
+|**2026-05-12**|**To Whom Do Language Models Align? Measuring Principal Hierarchies Under High-Stakes Competing Demands**|Fangyi Yu et.al.|[2605.12120](http://arxiv.org/abs/2605.12120)||
+|**2026-05-12**|**On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment**|Bo Yin et.al.|[2605.11882](http://arxiv.org/abs/2605.11882)||
+|**2026-05-12**|**Self-Distilled Trajectory-Aware Boltzmann Modeling: Bridging the Training-Inference Discrepancy in Diffusion Language Models**|Kecheng Chen et.al.|[2605.11854](http://arxiv.org/abs/2605.11854)||
+|**2026-05-12**|**SafeSteer: A Decoding-level Defense Mechanism for Multimodal Large Language Models**|Xinyi Zeng et.al.|[2605.11716](http://arxiv.org/abs/2605.11716)||
+|**2026-05-12**|**Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance**|Wenhao Chen et.al.|[2605.11712](http://arxiv.org/abs/2605.11712)||
+|**2026-05-12**|**Safety Context Injection: Inference-Time Safety Alignment via Static Filtering and Agentic Analysis**|Zhenhao Xu et.al.|[2605.11664](http://arxiv.org/abs/2605.11664)||
+|**2026-05-12**|**PointForward: Feedforward Driving Reconstruction through Point-Aligned Representations**|Cheng Chi et.al.|[2605.11594](http://arxiv.org/abs/2605.11594)||
+|**2026-05-13**|**Checkup2Action: A Multimodal Clinical Check-up Report Dataset for Patient-Oriented Action Card Generation**|Sike Xiang et.al.|[2605.11533](http://arxiv.org/abs/2605.11533)||
+|**2026-05-12**|**A Mechanistic Investigation of Supervised Fine Tuning**|Ruhaan Chopra et.al.|[2605.11426](http://arxiv.org/abs/2605.11426)||
+|**2026-05-13**|**Gradient-Free Noise Optimization for Reward Alignment in Generative Models**|Jeongsol Kim et.al.|[2605.11347](http://arxiv.org/abs/2605.11347)||
 |**2026-05-11**|**Training-Free Cultural Alignment of Large Language Models via Persona Disagreement**|Huynh Trung Kiet et.al.|[2605.10843](http://arxiv.org/abs/2605.10843)||
 |**2026-05-11**|**OpenSGA: Efficient 3D Scene Graph Alignment in the Open World**|Gang Chen et.al.|[2605.10484](http://arxiv.org/abs/2605.10484)||
 |**2026-05-11**|**Positive Alignment: Artificial Intelligence for Human Flourishing**|Ruben Laukkonen et.al.|[2605.10310](http://arxiv.org/abs/2605.10310)||
@@ -586,6 +610,21 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Learning POMDP World Models from Observations with Language-Model Priors**|Valentin Six et.al.|[2605.13740](http://arxiv.org/abs/2605.13740)||
+|**2026-05-13**|**OP4KSR: One-Step Patch-Free 4K Super-Resolution with Periodic Artifact Suppression**|Chengyan Deng et.al.|[2605.13457](http://arxiv.org/abs/2605.13457)||
+|**2026-05-13**|**Uncertainty-aware Spatial-Frequency Registration and Fusion for Infrared and Visible Images**|Xingyuan Li et.al.|[2605.13049](http://arxiv.org/abs/2605.13049)||
+|**2026-05-13**|**JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement Learning**|Jing Yu Lim et.al.|[2605.13013](http://arxiv.org/abs/2605.13013)||
+|**2026-05-13**|**Discovery-Oriented Faceting: From Coverage to Blind-Spot Discovery**|Youdi Li et.al.|[2605.12956](http://arxiv.org/abs/2605.12956)||
+|**2026-05-13**|**VIP-COP: Context Optimization for Tabular Foundation Models**|Yilong Chen et.al.|[2605.12904](http://arxiv.org/abs/2605.12904)||
+|**2026-05-12**|**Learning Transferable Latent User Preferences for Human-Aligned Decision Making**|Alina Hyk et.al.|[2605.12682](http://arxiv.org/abs/2605.12682)||
+|**2026-05-12**|**Solve the Loop: Attractor Models for Language and Reasoning**|Jacob Fein-Ashley et.al.|[2605.12466](http://arxiv.org/abs/2605.12466)||
+|**2026-05-12**|**ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows**|Wei Liu et.al.|[2605.12376](http://arxiv.org/abs/2605.12376)||
+|**2026-05-12**|**Benchmarking and Resource Analysis for Augmented-Lagrangian Quantum Hamiltonian Descent**|Zeguan Wu et.al.|[2605.12066](http://arxiv.org/abs/2605.12066)||
+|**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732](http://arxiv.org/abs/2605.11732)||
+|**2026-05-12**|**BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion**|Shaobin Zhuang et.al.|[2605.11577](http://arxiv.org/abs/2605.11577)||
+|**2026-05-12**|**STRIDE: Training-Free Diversity Guidance via PCA-Directed Feature Perturbation in Single-Step Diffusion Models**|Ankit Yadav et.al.|[2605.11494](http://arxiv.org/abs/2605.11494)||
+|**2026-05-11**|**PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement**|Tuo Zhang et.al.|[2605.11225](http://arxiv.org/abs/2605.11225)||
+|**2026-05-11**|**Conversational Customization of Productivity Systems: A Design Probe of Malleable AI Interfaces**|Karthik Sreedhar et.al.|[2605.11149](http://arxiv.org/abs/2605.11149)||
 |**2026-05-11**|**A Reflective Storytelling Agent for Older Adults: Integrating Argumentation Schemes and Argument Mining in LLM-Based Personalised Narratives**|Jayalakshmi Baskar et.al.|[2605.10531](http://arxiv.org/abs/2605.10531)||
 |**2026-05-11**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318](http://arxiv.org/abs/2605.10318)||
 |**2026-05-11**|**One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification**|Mengzhou Gao et.al.|[2605.10179](http://arxiv.org/abs/2605.10179)||
@@ -936,6 +975,10 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Revealing the Gap in Human and VLM Scene Perception through Counterfactual Semantic Saliency**|Ziqi Wen et.al.|[2605.13047](http://arxiv.org/abs/2605.13047)||
+|**2026-05-13**|**SMA: Submodular Modality Aligner For Data Efficient Multimodal Learning**|Truong Pham et.al.|[2605.12872](http://arxiv.org/abs/2605.12872)||
+|**2026-05-12**|**Revealing Interpretable Failure Modes of VLMs**|Isha Chaudhary et.al.|[2605.12674](http://arxiv.org/abs/2605.12674)||
+|**2026-05-12**|**Measuring What Matters Beyond Text: Evaluating Multimodal Summaries by Quality, Alignment, and Diversity**|Abid Ali et.al.|[2605.11693](http://arxiv.org/abs/2605.11693)||
 |**2026-05-10**|**SKG-VLA: Scene Knowledge Graph Priors for Structured Scene Semantics and Multimodal Reasoning for Decision Making**|Zeyu Li et.al.|[2605.09343](http://arxiv.org/abs/2605.09343)||
 |**2026-05-08**|**Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria**|Juanxi Tian et.al.|[2605.08354](http://arxiv.org/abs/2605.08354)||
 |**2026-05-08**|**Cross-Modal Backdoors in Multimodal Large Language Models**|Runhe Wang et.al.|[2605.07490](http://arxiv.org/abs/2605.07490)||
@@ -946,7 +989,7 @@ last_updated: 2026.05.14
 |**2026-05-01**|**Learning from Compressed CT: Feature Attention Style Transfer and Structured Factorized Projections for Resource-Efficient Medical Image Analysis**|Shadid Yousuf et.al.|[2605.00448](http://arxiv.org/abs/2605.00448)||
 |**2026-05-01**|**Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification**|Charles Weng et.al.|[2605.00326](http://arxiv.org/abs/2605.00326)||
 |**2026-04-30**|**ClipTBP: Clip-Pair based Temporal Boundary Prediction with Boundary-Aware Learning for Moment Retrieval**|Ji-Hyeon Kim et.al.|[2604.27591](http://arxiv.org/abs/2604.27591)||
-|**2026-04-30**|**COHERENCE: Benchmarking Fine-Grained Image-Text Alignment in Interleaved Multimodal Contexts**|Bingli Wang et.al.|[2604.27389](http://arxiv.org/abs/2604.27389)||
+|**2026-05-13**|**COHERENCE: Benchmarking Fine-Grained Image-Text Alignment in Interleaved Multimodal Contexts**|Bingli Wang et.al.|[2604.27389](http://arxiv.org/abs/2604.27389)||
 |**2026-04-29**|**DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation**|Mingji Ge et.al.|[2604.26565](http://arxiv.org/abs/2604.26565)||
 |**2026-04-28**|**One Perturbation, Two Failure Modes: Probing VLM Safety via Embedding-Guided Typographic Perturbations**|Ravikumar Balakrishnan et.al.|[2604.25102](http://arxiv.org/abs/2604.25102)||
 |**2026-04-27**|**SycoPhantasy: Quantifying Sycophancy and Hallucination in Small Open Weight VLMs for Vision-Language Scoring of Fantasy Characters**|Arya Shah et.al.|[2604.24346](http://arxiv.org/abs/2604.24346)||
@@ -1027,9 +1070,21 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Negation Neglect: When models fail to learn negations in training**|Harry Mayne et.al.|[2605.13829](http://arxiv.org/abs/2605.13829)||
+|**2026-05-13**|**Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles**|Yizhuo Xiao et.al.|[2605.13751](http://arxiv.org/abs/2605.13751)||
+|**2026-05-13**|**Model-Agnostic Lifelong LLM Safety via Externalized Attack-Defense Co-Evolution**|Xiaozhe Zhang et.al.|[2605.13411](http://arxiv.org/abs/2605.13411)||
+|**2026-05-13**|**Tracing Persona Vectors Through LLM Pretraining**|Viktor Moskvoretskii et.al.|[2605.13329](http://arxiv.org/abs/2605.13329)||
+|**2026-05-13**|**Pareto-Guided Optimal Transport for Multi-Reward Alignment**|Ying Ba et.al.|[2605.13155](http://arxiv.org/abs/2605.13155)||
+|**2026-05-13**|**Not All Anquan Is the Same: A Terminological Proposal for Chinese Computer Science and Engineering**|Xingyu Zhao et.al.|[2605.13069](http://arxiv.org/abs/2605.13069)||
+|**2026-05-13**|**Sustaining AI safety: Control-theoretic external impossibility, intrinsic necessity, and structural requirements**|James M. Mazzu et.al.|[2605.12963](http://arxiv.org/abs/2605.12963)||
+|**2026-05-13**|**Quantifying LLM Safety Degradation Under Repeated Attacks Using Survival Analysis**|Zvi Topol et.al.|[2605.12869](http://arxiv.org/abs/2605.12869)||
+|**2026-05-12**|**Attacks and Mitigations for Distributed Governance of Agentic AI under Byzantine Adversaries**|Matthew D. Laws et.al.|[2605.12364](http://arxiv.org/abs/2605.12364)||
+|**2026-05-12**|**The Evaluation Differential: When Frontier AI Models Recognise They Are Being Tested**|Varad Vishwarupe et.al.|[2605.11496](http://arxiv.org/abs/2605.11496)||
+|**2026-05-12**|**Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection**|Zi Liang et.al.|[2605.11442](http://arxiv.org/abs/2605.11442)||
+|**2026-05-10**|**FragBench: Cross-Session Attacks Hidden in Benign-Looking Fragments**|Astha Mehta et.al.|[2605.11029](http://arxiv.org/abs/2605.11029)||
 |**2026-05-11**|**RUBEN: Rule-Based Explanations for Retrieval-Augmented LLM Systems**|Joel Rorseth et.al.|[2605.10862](http://arxiv.org/abs/2605.10862)||
 |**2026-05-11**|**TourMart: A Parametric Audit Instrument for Commission Steering in LLM Travel Agents**|Yao Liu et.al.|[2605.10440](http://arxiv.org/abs/2605.10440)||
-|**2026-05-10**|**Strategic commitments shape collective cybersecurity under AI inequality**|Adeela Bashir et.al.|[2605.09415](http://arxiv.org/abs/2605.09415)||
+|**2026-05-13**|**Strategic commitments shape collective cybersecurity under AI inequality**|Adeela Bashir et.al.|[2605.09415](http://arxiv.org/abs/2605.09415)||
 |**2026-05-10**|**How LLMs Are Persuaded: A Few Attention Heads, Rerouted**|Xiangkun Sun et.al.|[2605.09314](http://arxiv.org/abs/2605.09314)||
 |**2026-05-09**|**Containment Verification: AI Safety Guarantees Independent of Alignment**|Royce Moon et.al.|[2605.09045](http://arxiv.org/abs/2605.09045)||
 |**2026-05-09**|**Mental Health AI Safety Claims Must Preserve Temporal Evidence**|Srimonti Dutta et.al.|[2605.08827](http://arxiv.org/abs/2605.08827)||
@@ -1243,9 +1298,19 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)||
+|**2026-05-13**|**Sleeper Channels and Provenance Gates: Persistent Prompt Injection in Always-on Autonomous AI Agents**|Narek Maloyan et.al.|[2605.13471](http://arxiv.org/abs/2605.13471)||
+|**2026-05-13**|**No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills**|Ying Li et.al.|[2605.13044](http://arxiv.org/abs/2605.13044)||
+|**2026-05-12**|**No More, No Less: Task Alignment in Terminal Agents**|Sina Mavali et.al.|[2605.12233](http://arxiv.org/abs/2605.12233)||
+|**2026-05-12**|**IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection**|Chia-Pei et.al.|[2605.11868](http://arxiv.org/abs/2605.11868)||
+|**2026-05-12**|**Agents Should Replace Narrow Predictive AI as the Orchestrator in 6G AI-RAN**|Pranshav Gajjar et.al.|[2605.11516](http://arxiv.org/abs/2605.11516)||
+|**2026-05-11**|**The Granularity Mismatch in Agent Security: Argument-Level Provenance Solves Enforcement and Isolates the LLM Reasoning Bottleneck**|Linfeng Fan et.al.|[2605.11039](http://arxiv.org/abs/2605.11039)||
+|**2026-05-10**|**Portable Agent Memory: A Protocol for Cryptographically-Verified Memory Transfer Across Heterogeneous AI Agents**|Santhosh Kumar Ravindran et.al.|[2605.11032](http://arxiv.org/abs/2605.11032)||
+|**2026-05-10**|**AgentShield: Deception-based Compromise Detection for Tool-using LLM Agents**|Yassin H. Rassul et.al.|[2605.11026](http://arxiv.org/abs/2605.11026)||
+|**2026-05-09**|**Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs**|Sangyeon Yoon et.al.|[2605.10998](http://arxiv.org/abs/2605.10998)||
 |**2026-05-11**|**RUBEN: Rule-Based Explanations for Retrieval-Augmented LLM Systems**|Joel Rorseth et.al.|[2605.10862](http://arxiv.org/abs/2605.10862)||
 |**2026-05-11**|**When Prompts Become Payloads: A Framework for Mitigating SQL Injection Attacks in Large Language Model-Driven Applications**|Farzad Nourmohammadzadeh Motlagh et.al.|[2605.10176](http://arxiv.org/abs/2605.10176)||
-|**2026-05-11**|**Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization**|Huilin Zhou et.al.|[2605.10067](http://arxiv.org/abs/2605.10067)||
+|**2026-05-13**|**Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization**|Huilin Zhou et.al.|[2605.10067](http://arxiv.org/abs/2605.10067)||
 |**2026-05-10**|**Oracle Poisoning: Corrupting Knowledge Graphs to Weaponise AI Agent Reasoning**|Ben Kereopa-Yorke et.al.|[2605.09822](http://arxiv.org/abs/2605.09822)||
 |**2026-05-10**|**CALYREX: Cross-Attention LaYeR EXtended Transformers for System Prompt Anchoring**|Li Lixing et.al.|[2605.09737](http://arxiv.org/abs/2605.09737)||
 |**2026-05-09**|**When Agents Overtrust Environmental Evidence: An Extensible Agentic Framework for Benchmarking Evidence-Grounding Defects in LLM Agents**|Strick Sheng et.al.|[2605.08828](http://arxiv.org/abs/2605.08828)||
@@ -1440,6 +1505,9 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Humanwashing -- It Should Leave You Feeling Dirty**|Ben Wilson et.al.|[2605.13723](http://arxiv.org/abs/2605.13723)||
+|**2026-05-12**|**CHAL: Council of Hierarchical Agentic Language**|Tommaso Giovannelli et.al.|[2605.12718](http://arxiv.org/abs/2605.12718)||
+|**2026-05-12**|**Digital Identity for Agentic Systems: Toward a Portable Authorization Standard for Autonomous Agents**|Partha Madhira et.al.|[2605.11487](http://arxiv.org/abs/2605.11487)||
 |**2026-05-08**|**A Dataset of Agentic AI Coding Tool Configurations**|Matthias Galster et.al.|[2605.08435](http://arxiv.org/abs/2605.08435)||
 |**2026-05-08**|**LLM Wardens: Mitigating Adversarial Persuasion with Third-Party Conversational Oversight**|Lennart Wachowiak et.al.|[2605.08321](http://arxiv.org/abs/2605.08321)||
 |**2026-05-06**|**From Historical Tabular Image to Knowledge Graphs: A Provenance-Aware Modular Pipeline**|Sarah Binta Alam Shoilee et.al.|[2605.08222](http://arxiv.org/abs/2605.08222)||
@@ -1447,7 +1515,7 @@ last_updated: 2026.05.14
 |**2026-05-08**|**Splitting User Stories Into Tasks with AI -- A Foe or an Ally?**|Luka Pavlič et.al.|[2605.07320](http://arxiv.org/abs/2605.07320)||
 |**2026-05-07**|**Behavior Cue Reasoning: Monitorable Reasoning Improves Efficiency and Safety through Oversight**|Christopher Z. Cui et.al.|[2605.07021](http://arxiv.org/abs/2605.07021)||
 |**2026-05-07**|**From Review to Design: Ethical Multimodal Driver Monitoring Systems for Risk Mitigation, Incident Response, and Accountability in Automated Vehicles**|Bilal Khana et.al.|[2605.06439](http://arxiv.org/abs/2605.06439)||
-|**2026-05-07**|**Automated alignment is harder than you think**|Aleksandr Bowkis et.al.|[2605.06390](http://arxiv.org/abs/2605.06390)||
+|**2026-05-13**|**Automated alignment is harder than you think**|Aleksandr Bowkis et.al.|[2605.06390](http://arxiv.org/abs/2605.06390)||
 |**2026-05-06**|**Evaluating the Reliability of Multiple Large Language Models in Risk Assessment: A CIS Controls Based Approach**|Gustavo Roberto Pinto et.al.|[2605.05424](http://arxiv.org/abs/2605.05424)||
 |**2026-05-06**|**Cognitive Twins: Investigating Personalized Thinking Model Building and Its Performance Enhancement with Human-in-the-Loop**|Wu-Yuin Hwang et.al.|[2605.04761](http://arxiv.org/abs/2605.04761)||
 |**2026-05-06**|**DAO-enabled decentralized physical AI: A new paradigm for human-machine collaboration**|Mark C. Ballandies et.al.|[2605.04522](http://arxiv.org/abs/2605.04522)||
@@ -1561,6 +1629,7 @@ last_updated: 2026.05.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Constitutional Governance in Metric Spaces**|Ehud Shapiro et.al.|[2605.13362](http://arxiv.org/abs/2605.13362)||
 |**2026-05-09**|**Internal vs. External: Comparing Deliberation and Evolution for Multi-Agent Constitutional Design**|Hershraj Niranjani et.al.|[2605.09128](http://arxiv.org/abs/2605.09128)||
 |**2026-05-08**|**Alignment as Jurisprudence**|Nicholas Caputo et.al.|[2605.08416](http://arxiv.org/abs/2605.08416)||
 |**2026-05-07**|**LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles**|Jana Gonnermann-Müller et.al.|[2605.06307](http://arxiv.org/abs/2605.06307)||
