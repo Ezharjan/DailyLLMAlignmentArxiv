@@ -2,10 +2,10 @@
 layout: papers
 title: LLM Alignment Papers
 nav_order: 1
-last_updated: 2026.10.25
+last_updated: 2026.10.26
 ---
 
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./README.md)
 
 ## Deception in LLMs
